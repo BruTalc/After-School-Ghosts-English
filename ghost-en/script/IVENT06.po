@@ -171,7 +171,7 @@ msgstr "Hanako: Gii-gaa! It's Hanako!"
 #, fuzzy
 msgctxt "IVENT06/e134/p0/t01"
 msgid "花子　：根岸の祖霊っても、時間がたつに　　　　　つれて輪郭がボヤけてるから　　　　　　　人間の形なんかしてないよ！"
-msgstr "Hanako: They say Negishi's ancestral spirit, but its outline has blurred with time, so it isn't shaped like a human at all!"
+msgstr "Hanako: It may be called Negishi's ancestral spirit, but its outline has blurred with time, so it isn't shaped like a human at all!"
 
 #. event 134, page 0 | screen 375, cell (7,8)
 #, fuzzy
@@ -579,7 +579,7 @@ msgctxt "IVENT06/e186/p1/t29"
 msgid "　　　　若月みおみ：本名、不詳　　　　　　　　東北地方の某霊峰の奥の院で　　　　　　　死者のための結婚式を依頼。"
 msgstr ""
 "{center}Miomi Wakatsuki: real name unknown\n"
-"At the inner sanctuary of a certain sacred mountain in Tohoku, she requested a wedding for the dead."
+"At the inner sanctuary of a certain sacred mountain in Tohoku, she arranged a ghost marriage, a wedding for the dead."
 
 #. event 186, page 1 | screen 128, cell (0,4)
 #, fuzzy

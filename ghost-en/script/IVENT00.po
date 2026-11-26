@@ -157,7 +157,7 @@ msgstr "Bihiro: We don't have time for the toilet!"
 #, fuzzy
 msgctxt "IVENT00/e025/p1/t00"
 msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
-msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+msgstr "Chitose: Ah, there you are. Still, it's kind of chilly, isn't it..."
 
 #. event 25, page 1 | screen 128, cell (6,0)
 #, fuzzy
@@ -736,7 +736,7 @@ msgstr ""
 #, fuzzy
 msgctxt "IVENT00/e131/p1/t00"
 msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
-msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+msgstr "Chitose: Ah, there you are. Still, it's kind of chilly, isn't it..."
 
 #. event 131, page 1 | screen 128, cell (6,0)
 #, fuzzy
@@ -886,7 +886,7 @@ msgstr ""
 #, fuzzy
 msgctxt "IVENT00/e142/p0/t01"
 msgid "　授業中、あるクラスの生徒（３０人程）が突然、木に登って”葉”を食べだした。　　その後、集団精神分裂症と判断された。"
-msgstr "During class, the students of one class (about 30) suddenly climbed the trees and began eating the leaves. It was later ruled a case of mass schizophrenia."
+msgstr "During class, the students of one class (about 30) suddenly climbed the trees and began eating the leaves. It was later ruled a case of mass hysteria."
 
 #. event 143, page 0 | screen 226, cell (0,0)
 #, fuzzy
@@ -910,7 +910,7 @@ msgstr "Others: \"I heard sutras being chanted\", \"Hands came out of the wall\"
 #, fuzzy
 msgctxt "IVENT00/e146/p0/t00"
 msgid "　学園寮の生徒も何人か消えている・・・。しかし、学園が必死に隠している事実を外に漏らす生徒はいなかった・・・。　色々な形で処罰されるかもしれないから。"
-msgstr "Several dorm students have vanished too... But no student ever leaked what the school was desperately hiding. They might be punished in all sorts of ways."
+msgstr "Several dorm students have vanished too... But no student ever leaked what the school was desperately hiding... for fear of being punished in all sorts of ways."
 
 #. event 175, page 0 | screen 197, cell (11,5)
 #, fuzzy

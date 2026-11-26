@@ -562,7 +562,7 @@ msgstr "???: This place... is dangerous..."
 #, fuzzy
 msgctxt "IVENT04/e060/p1/t02"
 msgid "女性　：あんたには、ね。　残れないの？"
-msgstr "Woman: For you, sure. Can't you stay?"
+msgstr "Woman: For you, maybe. Can't stand to stay, huh?"
 
 #. event 60, page 1 | screen 128, cell (10,1)
 #, fuzzy
@@ -634,7 +634,7 @@ msgstr "Aoki: Huh? Uh... um... no... thanks..."
 #, fuzzy
 msgctxt "IVENT04/e060/p3/t10"
 msgid "女性　：それにしても・・・なんでこんな　　　　　時間まで残ってるの？　５時か６時　　　　過ぎたら全員下校なんでしょ？　　　　　　あ、”そういう関係”なの？"
-msgstr "Woman: Still... why are you here so late? Everyone's supposed to go home after 5 or 6, right? Oh, are you two \"like that\"?"
+msgstr "Woman: Still... why are you here so late? Everyone's supposed to go home by 5 or 6, right? Oh, are you two \"like that\"?"
 
 #. event 60, page 3 | screen 128, cell (12,1)
 #, fuzzy
@@ -968,7 +968,7 @@ msgstr ""
 #, fuzzy
 msgctxt "IVENT04/e125/p1/t00"
 msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
-msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+msgstr "Chitose: Ah, there you are. Still, it's kind of chilly, isn't it..."
 
 #. event 125, page 1 | screen 128, cell (6,0)
 #, fuzzy
@@ -1246,7 +1246,7 @@ msgstr ""
 #, fuzzy
 msgctxt "IVENT04/e249/p1/t00"
 msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
-msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+msgstr "Chitose: Ah, there you are. Still, it's kind of chilly, isn't it..."
 
 #. event 249, page 1 | screen 128, cell (6,0)
 #, fuzzy
@@ -1260,7 +1260,7 @@ msgstr ""
 #, fuzzy
 msgctxt "IVENT04/e260/p1/t00"
 msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
-msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+msgstr "Chitose: Ah, there you are. Still, it's kind of chilly, isn't it..."
 
 #. event 260, page 1 | screen 128, cell (6,0)
 #, fuzzy

@@ -1027,7 +1027,7 @@ msgstr "comes to them of its own accord... Unless the ancestral spirit is exorci
 #, fuzzy
 msgctxt "IVENT09/e159/p2/t13"
 msgid "かと言って、学校だから火事で強制的に除霊するわけにもいかない・・・そんなこんなで現在に至るってワケ。"
-msgstr "And yet, since it's a school, we can't very well exorcise it by force with a fire... And so here we are today."
+msgstr "And yet, since it's a school, we can't just set a fire to force the exorcism... And so here we are today."
 
 #. event 159, page 2 | screen 128, cell (2,2)
 #, fuzzy
