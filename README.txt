@@ -6,11 +6,17 @@ with an unofficial English translation.
 
 HOW TO PLAY
 -----------
-1. Unzip the whole folder somewhere (keep the files together).
-2. Open the "np21w-0.86-rev100" folder and run np21w.exe  (NOT the x64 one).
+1. Unzip the whole folder somewhere (right-click the zip -> Extract All...).
+   Don't run it from inside the zip.
+2. Double-click "Play After School Ghosts".
 3. The game starts by itself after a few seconds.
 
-If you get a blank screen or an error instead:
+The launcher points the emulator at the game's disk image wherever you put the
+folder, so it works from any location you can write to (Desktop, Documents, a USB
+stick...). Windows may ask "Do you want to run this file?" the first time; that's
+normal for a downloaded script.
+
+If you'd rather start the emulator yourself: run np21w-0.86-rev100\np21w.exe, then
    Harddisk -> IDE #0 -> Open...  and choose win31_EN.hdi (one folder up),
    make sure IDE #1 is empty, then Emulate -> Reset.
 
@@ -40,6 +46,8 @@ and documentation. Start with ghost-en/README.md. In short:
 
 WHAT'S IN THIS FOLDER
 ---------------------
+   Play After School Ghosts.cmd   double-click to play
+   launcher/             the launcher script and a clean default emulator config
    win31_EN.hdi          hard disk image: MS-DOS 6.20 + the English game (boots into it)
    np21w-0.86-rev100/    Neko Project 21/W, the PC-98 emulator
    ghost-en/             the localization kit and the original Japanese game files
