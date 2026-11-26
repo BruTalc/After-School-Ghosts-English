@@ -45,8 +45,8 @@ Saving is in the menu under System -> Save Game.
 
 CREDITS
 -------
-   MarshSMT and VmigoStation   for leading the effort to preserve this game
    Yuji Watanabe               creator of After School Ghosts
+   MarshSMT and VmigoStation   for leading the effort to preserve this game
    Neko Project 21/W           the PC-98 emulator (licences in np21w-0.86-rev100\LICENSES)
 
 ABOUT THE TRANSLATION
