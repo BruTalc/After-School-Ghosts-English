@@ -6,10 +6,20 @@ A 1990s Japanese PC-98 horror RPG, now playable in English on Windows.
 released on the *Login Sofcom No.4* CD-ROM. Four students stay late to plan their school
 festival and find out why their school on the mountain has always been "haunted".
 
+## Credits
+
+| | |
+|---|---|
+| **Yuji Watanabe** | Creator of *After School Ghosts* |
+| **MarshSMT** and **VmigoStation** | Led the effort to preserve this game |
+| **Neko Project 21/W** developers | The PC-98 emulator that runs it (licences in `np21w-0.86-rev100/LICENSES/` in the download) |
+
 ![A dialogue scene from the English version](ghost-en/docs/screenshot-dialogue.png)
 
-**Everything you need is in one download:** the game, the PC-98 emulator, and a launcher.
-There is nothing else to install.
+## ⬇ [Download the game for Windows](https://github.com/BruTalc/After-School-Ghosts-English-/releases/latest/download/After-School-Ghosts-English.zip)
+
+**Everything you need is in this one download:** the game, the PC-98 emulator, and a launcher.
+There is nothing else to install. Then follow the three steps below.
 
 ---
 
@@ -17,10 +27,10 @@ There is nothing else to install.
 
 ### Step 1: Download the game
 
-1. Go to the **[Releases page](../../releases/latest)**.
-2. Scroll down to the section called **Assets**.
-3. Click **`After-School-Ghosts-English.zip`** (about 230 MB). Your browser saves it to your
-   **Downloads** folder.
+1. Click **[Download the game for Windows](https://github.com/BruTalc/After-School-Ghosts-English-/releases/latest/download/After-School-Ghosts-English.zip)**.
+   Your browser saves **`After-School-Ghosts-English.zip`** (about 230 MB) to your **Downloads** folder.
+2. If that link doesn't work, go to the **[Releases page](../../releases/latest)**, scroll down to
+   **Assets**, and click **`After-School-Ghosts-English.zip`** there.
 
 > [!WARNING]
 > **Do not use the green `<> Code` button or "Download ZIP" on this page.** That only gives you
@@ -77,13 +87,6 @@ For fullscreen, use **Screen → Fullscreen**.
 **Mac or Linux?** Only Windows is supported right now.
 
 ---
-
-## Credits
-
-* **MarshSMT** and **VmigoStation**, for leading the effort to preserve this game.
-* **Yuji Watanabe**, the creator of *After School Ghosts*.
-* The **Neko Project 21/W** developers, for the PC-98 emulator. Its licences are in
-  `np21w-0.86-rev100/LICENSES/` in the download.
 
 ## About the translation
 
