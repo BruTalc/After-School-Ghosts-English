@@ -120,9 +120,10 @@ the disk image and the original game files are not in this repository.
 2. Put a clean copy of the emulator settings in place by copying
    `launcher/np21w.default.ini` over `np21w-0.86-rev100/np21w.ini`. Your own copy has
    your saved window size and position in it.
-3. Zip these items so they sit **directly inside one folder** in the zip:
+3. Zip these items **at the top level of the zip, not inside a folder**, because Windows'
+   *Extract All…* already makes a folder:
    `Play After School Ghosts.cmd`, `README.txt`, `launcher/`, `win31_EN.hdi`,
-   `np21w-0.86-rev100/` and `ghost-en/`.
+   `np21w-0.86-rev100/` and `ghost-en/` (without `ghost-en/build/`).
 4. Name the file exactly **`After-School-Ghosts-English.zip`**. GitHub turns spaces into dots,
    and the instructions above use this name.
 5. On GitHub, go to **Releases → Draft a new release**, attach the zip, and publish.
