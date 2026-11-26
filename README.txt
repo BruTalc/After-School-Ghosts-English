@@ -4,22 +4,34 @@ After School Ghosts / 放課後の幽霊達  -  English version
 A PC-98 RPG made with DANTE98 by Yuji Watanabe (from the Login Sofcom No.4 CD-ROM),
 with an unofficial English translation.
 
-HOW TO PLAY
------------
-1. Unzip the whole folder somewhere (right-click the zip -> Extract All...).
-   Don't run it from inside the zip.
-2. Double-click "Play After School Ghosts".
-3. The game starts by itself after a few seconds.
+HOW TO PLAY (WINDOWS)
+--------------------
+1. Make sure you EXTRACTED the zip: right-click it, choose "Extract All...", then
+   click Extract. The game won't run from inside the zip.
 
-The launcher points the emulator at the game's disk image wherever you put the
-folder, so it works from any location you can write to (Desktop, Documents, a USB
-stick...). The first time, it also picks the biggest window size that fits your
-screen (3x on a 1440p/1600p laptop, 2x on a 1080p monitor). To change it,
-right-click the emulator's title bar and pick a size, e.g. "1280x800(x2)"; your
-choice is remembered. Screen -> Fullscreen is also available. Windows may ask "Do you want to run this file?" the first time; that's
-normal for a downloaded script.
+2. Double-click:   Play After School Ghosts
+   (It may show as "Play After School Ghosts.cmd", type "Windows Command Script".)
 
-If you'd rather start the emulator yourself: run np21w-0.86-rev100\np21w.exe, then
+3. If Windows shows a warning the first time:
+     "Open File - Security Warning"   -> click Run
+     "Windows protected your PC"      -> click More info, then Run anyway
+
+4. The game starts by itself after a few seconds. You don't need to type anything.
+
+Next time, just double-click "Play After School Ghosts" again.
+
+WINDOW SIZE: the first time, the window is sized to fit your screen. To change it,
+right-click the emulator's title bar and pick a size, such as "1280x800(x2)". Your
+choice is remembered. For fullscreen, use Screen -> Fullscreen.
+
+IF SOMETHING GOES WRONG
+   "...run from inside the zip"       extract the zip first (step 1)
+   "...disk image/emulator is missing" extract the zip again; keep the files together
+   "Could not save the emulator settings"
+                                      move the folder to Documents or the Desktop
+   "The game is already running"      look for the Neko Project 21/W window
+
+To start the emulator by hand instead: run np21w-0.86-rev100\np21w.exe, then
    Harddisk -> IDE #0 -> Open...  and choose win31_EN.hdi (one folder up),
    make sure IDE #1 is empty, then Emulate -> Reset.
 
@@ -30,6 +42,12 @@ CONTROLS
    Esc          open the menu, cancel
 
 Saving is in the menu under System -> Save Game.
+
+CREDITS
+-------
+   MarshSMT and VmigoStation   for leading the effort to preserve this game
+   Yuji Watanabe               creator of After School Ghosts
+   Neko Project 21/W           the PC-98 emulator (licences in np21w-0.86-rev100\LICENSES)
 
 ABOUT THE TRANSLATION
 ---------------------
