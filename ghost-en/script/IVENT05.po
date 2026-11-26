@@ -1,0 +1,814 @@
+# IVENT05.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 0, page 0 | screen 331, cell (5,5)
+#, fuzzy
+msgctxt "IVENT05/e000/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　４　階"
+msgstr ""
+"\n"
+"{center}4th Floor"
+
+#. event 50, page 1 | screen 128, cell (4,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p1/t00"
+msgid "青木　：じゃぁな。　また明日な。"
+msgstr "Aoki: See you. Tomorrow, then."
+
+#. event 50, page 1 | screen 128, cell (4,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p1/t01"
+msgid "男生徒：・・・ああ・・・。"
+msgstr "Boy: ...Yeah..."
+
+#. event 50, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p2/t00"
+msgid "美広　：私達の他にも餓鬼を見た奴が　　　　　　　いたんだ・・・どう思う？"
+msgstr "Bihiro: So somebody besides us saw the hungry ghost... What do you think?"
+
+#. event 50, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p2/t01"
+msgid "青木　：最初、餓鬼がでたのは「３階」。　　　　　その時に来たのは若月さん。　　　　　　　だけど、そこでは除霊に失敗した。　　　　上の階に逃げる餓鬼・・・・"
+msgstr "Aoki: The hungry ghost first appeared on the 3rd floor. The one who came then was Wakatsuki. But she failed to exorcise it there. The ghost fled upstairs...."
+
+#. event 50, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p2/t02"
+msgid "青木　：そして・・・俺達の教室に来た。"
+msgstr "Aoki: And then... it came to our classroom."
+
+#. event 50, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p2/t03"
+msgid "　　　　　　　　　　　　　　　　　　　　　　ぐ、なんだ・・もう見えるのか？　　　　　　　　　お前達にも・・？"
+msgstr ""
+"\n"
+"  Gh, what.. you can see already?\n"
+"  Even you..?"
+
+#. event 50, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p2/t04"
+msgid "青木　：確かに”お前達にも”って言ってた　　　　もんなぁ。"
+msgstr "Aoki: It definitely did say \"even you\"."
+
+#. event 50, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e050/p2/t05"
+msgid "美広　：下の階に行ってたら”霊撮隊”が　　　　　餓鬼を撮れたかもね。"
+msgstr "Bihiro: If it had gone downstairs, the \"ghost-filming crew\" might have caught it on camera."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t00"
+msgid "男生徒：あ！　青木！　良かったぁ・・・　　　　　聞いてくれよ！　俺さぁ、幽霊　　　　　　見ちまったんだよ！！"
+msgstr "Boy: Ah! Aoki! Thank goodness... Listen to this! Man, I saw a ghost!!"
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t01"
+msgid "青木　：・・・！・・・幽霊だぁ？　　　　　　　　ドコで？"
+msgstr "Aoki: ...!...A ghost? Where?"
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t02"
+msgid "男生徒：そこのトイレで・・・誰も信じて　　　　　くれねぇ・・・グスッ"
+msgstr "Boy: In the toilet there... nobody believes me... sniff"
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t03"
+msgid "青木　：泣いてんのか！？　　　　　　　　　　　　カッコわりぃな・・・"
+msgstr "Aoki: Are you crying!? That's so uncool..."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t04"
+msgid "女生徒：・・・ねぇ、聞くだけ無駄だと　　　　　　思ってもいいから・・・。"
+msgstr "Girl: ...Hey, you can think it's a waste of time to listen, but..."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t05"
+msgid "美広　：何があったの？"
+msgstr "Bihiro: What happened?"
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t06"
+msgid "女生徒：昨日の放課後・・・つっても　　　　　　　７時過ぎぐらいなんだけど・・・"
+msgstr "Girl: Yesterday after school... well, it was a little past 7..."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t07"
+msgid "女生徒：彼と帰ろうとして・・・廊下に出た　　　　ら、スッゴク寒いの！　それで　　　　　　トイレの方から音がして・・・・　　　　　あの、ホラ、”霊撮隊”でやってた"
+msgstr "Girl: I was about to go home with him... and when we came out into the hallway, it was SO cold! And then there was a noise from the toilets.... and, you know, like on \"Ghost Crew\","
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t08"
+msgid "女生徒：餓鬼？　がでてきて・・・"
+msgstr "Girl: a hungry ghost? came out..."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t09"
+msgid "美広　：それで！？　どうしたの？"
+msgstr "Bihiro: And then!? What happened?"
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t10"
+msgid "女生徒：今度は階段から女の人が来て・・・　　　　”早く逃げなさい！”って・・・。"
+msgstr "Girl: Then a woman came from the stairs... and said \"Run, quickly!\"..."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t11"
+msgid "青木　：昨日の叫び声はアンタだったのか　　　　　・・・・・"
+msgstr "Aoki: So that scream yesterday was you....."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t12"
+msgid "男生徒：青木ぃ・・・何だったんだよアレ？"
+msgstr "Boy: Aokiii... what was that thing?"
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t13"
+msgid "青木　：とにかく帰れ。　疲れてるんだよ。"
+msgstr "Aoki: Just go home. You're tired."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t14"
+msgid "女生徒：嘘じゃないわ！　だって昨日の女の　　　　人、今日の昼休みに見たもん！"
+msgstr "Girl: I'm not lying! I saw that woman from yesterday again at lunch break today!"
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t15"
+msgid "青木　：わかった、それは信じる。　　　　　　　　とにかく今日はもう帰れ。"
+msgstr "Aoki: Okay, that I believe. Just go home for today."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t16"
+msgid "男生徒：・・・・・"
+msgstr "Boy: ....."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t17"
+msgid "女生徒：そうだわ！　今、寮に”霊撮隊”が　　　　来てるんだわ！　その人達に聞けば　　　　何か・・・"
+msgstr "Girl: I know! The \"ghost-filming crew\" is at the dorm right now! If we ask them, maybe..."
+
+#. event 51, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e051/p1/t18"
+msgid "男生徒：そうかもな・・・行こう・・・。"
+msgstr "Boy: Maybe so... let's go..."
+
+#. event 53, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e053/p1/t00"
+msgid "花子　：ほーい！　花子だよー！"
+msgstr "Hanako: Heeey! It's Hanako!"
+
+#. event 53, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e053/p1/t01"
+msgid "花子　：おねぇちゃん、超能力とかオバケの　　　　テレビ、見たことある？"
+msgstr "Hanako: Big sis, have you ever watched TV shows about psychic powers and ghosts?"
+
+#. event 53, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e053/p1/t02"
+msgid "美広　：うん、あるよ。"
+msgstr "Bihiro: Yes, I have."
+
+#. event 53, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e053/p1/t03"
+msgid "花子　：そういうテレビとか見てたりすると　　　　自分が超能力に目覚めたりすること　　　　が、本当に現実にあるらしいよ！"
+msgstr "Hanako: They say watching shows like that really can awaken your own psychic powers in real life!"
+
+#. event 53, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e053/p1/t04"
+msgid "花子　：超能力者本人に会ったりしても、　　　　　起きる不思議なことだよ！　　　　　　　　でも何日かで、その力は・・・　　　　　　なくなっちゃうらしいの。"
+msgstr "Hanako: It's a mysterious thing that happens when you meet a real psychic, too! But after a few days, the power... apparently goes away."
+
+#. event 53, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e053/p1/t05"
+msgid "花子　：いずれ、おねぇちゃん達とも　　　　　　　会えなくなっちゃうんだね・・・。"
+msgstr "Hanako: So someday, I won't be able to see you two any more..."
+
+#. event 73, page 0 | screen 331, cell (7,5)
+#, fuzzy
+msgctxt "IVENT05/e073/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　２　階"
+msgstr ""
+"\n"
+"{center}2nd Floor"
+
+#. event 73, page 1 | screen 128, cell (6,0)
+#, fuzzy
+msgctxt "IVENT05/e073/p1/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　２　階"
+msgstr ""
+"\n"
+"{center}2nd Floor"
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t00"
+msgid "青木　：千歳・・・確かに千歳だった・・・"
+msgstr "Aoki: Chitose... that was definitely Chitose..."
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t01"
+msgid "美広　：背中が反り返ってたよ・・・！？"
+msgstr "Bihiro: His back was bent over backwards...!?"
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t02"
+msgid "青木　：あぁ・・・どうなってんだ・・・？"
+msgstr "Aoki: Yeah... what's going on...?"
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t03"
+msgid "美広　：ねぇ！　伊達ちゃんは！？"
+msgstr "Bihiro: Hey! What about Date!?"
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t04"
+msgid "青木　：伊達・・・？　・・・そういえば　　　　　二人一緒のはず・・・。"
+msgstr "Aoki: Date...? ...Come to think of it, those two should be together..."
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t05"
+msgid "美広　：・・・もう、どうなってるの！？　　　　　わからない・・・恐い・・・。"
+msgstr "Bihiro: ...What is going on!? I don't understand... I'm scared..."
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t06"
+msgid "青木　：しっかりしろ美広！　俺にも　　　　　　　わからないんだから・・・とにかく　　　　行こう・・・食堂に・・・。"
+msgstr "Aoki: Pull yourself together, Bihiro! I don't understand either... Anyway, let's go... to the cafeteria..."
+
+#. event 73, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e073/p2/t07"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　３　階"
+msgstr ""
+"\n"
+"{center}3rd Floor"
+
+#. event 82, page 0 | screen 491, cell (6,8)
+#, fuzzy
+msgctxt "IVENT05/e082/p0/t00"
+msgid "餓鬼　：喰えん・・・やっとの思いで殺した　　　　のに・・・恨めしいことだ・・・。"
+msgstr "Hungry Ghost: Can't eat it... after all the trouble of killing it... How hateful..."
+
+#. event 83, page 0 | screen 491, cell (7,8)
+#, fuzzy
+msgctxt "IVENT05/e083/p0/t00"
+msgid "千歳　：・・・・・。"
+msgstr "Chitose: ....."
+
+#. event 84, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT05/e084/p1/t00"
+msgid "餓鬼　：ほう、お前達にも”見える”のか？　　　　・・・わしにお前達を喰わせて　　　　　　くれんか？"
+msgstr "Hungry Ghost: Oh, so you can \"see\" too? ...Won't you let me eat you?"
+
+#. event 84, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT05/e084/p1/t01"
+msgid "餓鬼　：喰わせてくれぇ！！"
+msgstr "Hungry Ghost: Let me eat youuu!!"
+
+#. event 89, page 1 | screen 128, cell (4,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p1/t00"
+msgid "青木　：じゃぁな。　また明日な。"
+msgstr "Aoki: See you. Tomorrow, then."
+
+#. event 89, page 1 | screen 128, cell (4,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p1/t01"
+msgid "男生徒：・・・ああ・・・。"
+msgstr "Boy: ...Yeah..."
+
+#. event 89, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p2/t00"
+msgid "美広　：私達の他にも餓鬼を見た奴が　　　　　　　いたんだ・・・どう思う？"
+msgstr "Bihiro: So somebody besides us saw the hungry ghost... What do you think?"
+
+#. event 89, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p2/t01"
+msgid "青木　：最初、餓鬼がでたのは「３階」。　　　　　その時に来たのは若月さん。　　　　　　　だけど、そこでは除霊に失敗した。　　　　上の階に逃げる餓鬼・・・・"
+msgstr "Aoki: The hungry ghost first appeared on the 3rd floor. The one who came then was Wakatsuki. But she failed to exorcise it there. The ghost fled upstairs...."
+
+#. event 89, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p2/t02"
+msgid "青木　：そして・・・俺達の教室に来た。"
+msgstr "Aoki: And then... it came to our classroom."
+
+#. event 89, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p2/t03"
+msgid "　　　　　　　　　　　　　　　　　　　　　　ぐ、なんだ・・もう見えるのか？　　　　　　　　　お前達にも・・？"
+msgstr ""
+"\n"
+"  Gh, what.. you can see already?\n"
+"  Even you..?"
+
+#. event 89, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p2/t04"
+msgid "青木　：確かに”お前達にも”って言ってた　　　　もんなぁ。"
+msgstr "Aoki: It definitely did say \"even you\"."
+
+#. event 89, page 2 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT05/e089/p2/t05"
+msgid "美広　：下の階に行ってたら”霊撮隊”が　　　　　餓鬼を撮れたかもね。"
+msgstr "Bihiro: If it had gone downstairs, the \"ghost-filming crew\" might have caught it on camera."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t00"
+msgid "男生徒：あ！　青木！　良かったぁ・・・　　　　　聞いてくれよ！　俺さぁ、幽霊　　　　　　見ちまったんだよ！！"
+msgstr "Boy: Ah! Aoki! Thank goodness... Listen to this! Man, I saw a ghost!!"
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t01"
+msgid "青木　：・・・！・・・幽霊だぁ？　　　　　　　　ドコで？"
+msgstr "Aoki: ...!...A ghost? Where?"
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t02"
+msgid "男生徒：そこのトイレで・・・誰も信じて　　　　　くれねぇ・・・グスッ"
+msgstr "Boy: In the toilet there... nobody believes me... sniff"
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t03"
+msgid "青木　：泣いてんのか！？　　　　　　　　　　　　カッコわりぃな・・・"
+msgstr "Aoki: Are you crying!? That's so uncool..."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t04"
+msgid "女生徒：・・・ねぇ、聞くだけ無駄だと　　　　　　思ってもいいから・・・。"
+msgstr "Girl: ...Hey, you can think it's a waste of time to listen, but..."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t05"
+msgid "美広　：何があったの？"
+msgstr "Bihiro: What happened?"
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t06"
+msgid "女生徒：昨日の放課後・・・つっても　　　　　　　７時過ぎぐらいなんだけど・・・"
+msgstr "Girl: Yesterday after school... well, it was a little past 7..."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t07"
+msgid "女生徒：彼と帰ろうとして・・・廊下に出た　　　　ら、スッゴク寒いの！　それで　　　　　　トイレの方から音がして・・・・　　　　　あの、ホラ、”霊撮隊”でやってた"
+msgstr "Girl: I was about to go home with him... and when we came out into the hallway, it was SO cold! And then there was a noise from the toilets.... and, you know, like on \"Ghost Crew\","
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t08"
+msgid "女生徒：餓鬼？　がでてきて・・・"
+msgstr "Girl: a hungry ghost? came out..."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t09"
+msgid "美広　：それで！？　どうしたの？"
+msgstr "Bihiro: And then!? What happened?"
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t10"
+msgid "女生徒：今度は階段から女の人が来て・・・　　　　”早く逃げなさい！”って・・・。"
+msgstr "Girl: Then a woman came from the stairs... and said \"Run, quickly!\"..."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t11"
+msgid "青木　：昨日の叫び声はアンタだったのか　　　　　・・・・・"
+msgstr "Aoki: So that scream yesterday was you....."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t12"
+msgid "男生徒：青木ぃ・・・何だったんだよアレ？"
+msgstr "Boy: Aokiii... what was that thing?"
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t13"
+msgid "青木　：とにかく帰れ。　疲れてるんだよ。"
+msgstr "Aoki: Just go home. You're tired."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t14"
+msgid "女生徒：嘘じゃないわ！　だって昨日の女の　　　　人、今日の昼休みに見たもん！"
+msgstr "Girl: I'm not lying! I saw that woman from yesterday again at lunch break today!"
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t15"
+msgid "青木　：わかった、それは信じる。　　　　　　　　とにかく今日はもう帰れ。"
+msgstr "Aoki: Okay, that I believe. Just go home for today."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t16"
+msgid "男生徒：・・・・・"
+msgstr "Boy: ....."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t17"
+msgid "女生徒：そうだわ！　今、寮に”霊撮隊”が　　　　来てるんだわ！　その人達に聞けば　　　　何か・・・"
+msgstr "Girl: I know! The \"ghost-filming crew\" is at the dorm right now! If we ask them, maybe..."
+
+#. event 90, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT05/e090/p1/t18"
+msgid "男生徒：そうかもな・・・行こう・・・。"
+msgstr "Boy: Maybe so... let's go..."
+
+#. event 91, page 1 | screen 128, cell (7,0)
+#, fuzzy
+msgctxt "IVENT05/e091/p1/t00"
+msgid "青木　：なんだ、また餓鬼か・・・？　　　　　　　！？・・・　ち、千歳！？"
+msgstr "Aoki: What, another hungry ghost...? !?... Ch-Chitose!?"
+
+#. event 91, page 1 | screen 128, cell (7,0)
+#, fuzzy
+msgctxt "IVENT05/e091/p1/t01"
+msgid "美広　：千歳君！？　・・・！？"
+msgstr "Bihiro: Chitose!? ...!?"
+
+#. event 91, page 2 | screen 128, cell (8,0)
+#, fuzzy
+msgctxt "IVENT05/e091/p2/t00"
+msgid "千歳　：・・・青木・・・どうなってんだ？"
+msgstr "Chitose: ...Aoki... what's going on?"
+
+#. event 91, page 2 | screen 128, cell (8,0)
+#, fuzzy
+msgctxt "IVENT05/e091/p2/t01"
+msgid "美広　：あ、青木くん！"
+msgstr "Bihiro: A-Aoki!"
+
+#. event 91, page 2 | screen 128, cell (8,0)
+#, fuzzy
+msgctxt "IVENT05/e091/p2/t02"
+msgid "青木　：美広、離れるな。　　　　　　　　　　　　千歳・・・目がイッちまってる。"
+msgstr "Aoki: Bihiro, stay close. Chitose... his eyes are gone."
+
+#. event 91, page 2 | screen 128, cell (8,0)
+#, fuzzy
+msgctxt "IVENT05/e091/p2/t03"
+msgid "美広　：・・・な、なんなの・・・？"
+msgstr "Bihiro: ...Wh-what is this...?"
+
+#. event 92, page 1 | screen 128, cell (11,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p1/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　ヲンキリキリバサラバシリ　　　　　　　　　　　　　　オラマンダマンダーンハッタ！"
+msgstr ""
+"\n"
+"{center}On kiri kiri basara bashiri\n"
+"{center}ora manda mandan hatta!"
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t00"
+msgid "学長　：あ、貴方達が、餓鬼をここまで・・　　　　・・・？"
+msgstr "Principal: Y-you two drove the hungry ghost this far.....?"
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t01"
+msgid "青木　：はぁ！？"
+msgstr "Aoki: Huh!?"
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t02"
+msgid "美広　：学長も・・・除霊の真言を・・・？"
+msgstr "Bihiro: The Principal too... an exorcism mantra...?"
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t03"
+msgid "学長　：とにかく、食堂へ行きなさい。　　　　　　今はあそこが一番安全だから。"
+msgstr "Principal: In any case, go to the cafeteria. It's the safest place right now."
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t04"
+msgid "青木　：食堂って・・・学生食堂？　どうし　　　　て・・・それに千歳が・・・"
+msgstr "Aoki: The cafeteria... the student cafeteria? Why... and Chitose is..."
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t05"
+msgid "学長　：つべこべ言わないで！　　　　　　　　　　早く行きなさい！！"
+msgstr "Principal: No arguing! Go, quickly!!"
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t06"
+msgid "美広　：青木君・・・もうやだよ・・・　　　　　　恐いよ・・・。"
+msgstr "Bihiro: Aoki... I can't take any more... I'm scared..."
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t07"
+msgid "学長　：この生徒は私がなんとかするから！"
+msgstr "Principal: I'll take care of this student!"
+
+#. event 92, page 2 | screen 128, cell (14,0)
+#, fuzzy
+msgctxt "IVENT05/e092/p2/t08"
+msgid "千歳　：・・・俺達・・・"
+msgstr "Chitose: ...We..."
+
+#. event 101, page 0 | screen 334, cell (7,5)
+#, fuzzy
+msgctxt "IVENT05/e101/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 101, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e101/p1/t00"
+msgid "美広　：落下事故か・・・これも霊の仕業　　　　　なのかな？"
+msgstr "Bihiro: A falling accident... I wonder if that was the spirits' doing, too?"
+
+#. event 101, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e101/p1/t01"
+msgid "青木　：なんでも霊の仕業・・・にするのも　　　　おかしいと思うけど・・・。"
+msgstr "Aoki: I think it's weird to blame everything on spirits, though..."
+
+#. event 101, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e101/p1/t02"
+msgid "美広　：冷えた空気が流れて来るよ・・・。"
+msgstr "Bihiro: There's cold air flowing this way..."
+
+#. event 102, page 0 | screen 334, cell (6,5)
+#, fuzzy
+msgctxt "IVENT05/e102/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 102, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e102/p1/t00"
+msgid "美広　：落下事故か・・・これも霊の仕業　　　　　なのかな？"
+msgstr "Bihiro: A falling accident... I wonder if that was the spirits' doing, too?"
+
+#. event 102, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e102/p1/t01"
+msgid "青木　：なんでも霊の仕業・・・にするのも　　　　おかしいと思うけど・・・。"
+msgstr "Aoki: I think it's weird to blame everything on spirits, though..."
+
+#. event 102, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e102/p1/t02"
+msgid "美広　：冷えた空気が流れて来るよ・・・。"
+msgstr "Bihiro: There's cold air flowing this way..."
+
+#. event 103, page 0 | screen 334, cell (5,5)
+#, fuzzy
+msgctxt "IVENT05/e103/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 103, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e103/p1/t00"
+msgid "美広　：落下事故か・・・これも霊の仕業　　　　　なのかな？"
+msgstr "Bihiro: A falling accident... I wonder if that was the spirits' doing, too?"
+
+#. event 103, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e103/p1/t01"
+msgid "青木　：なんでも霊の仕業・・・にするのも　　　　おかしいと思うけど・・・。"
+msgstr "Aoki: I think it's weird to blame everything on spirits, though..."
+
+#. event 103, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT05/e103/p1/t02"
+msgid "美広　：冷えた空気が流れて来るよ・・・。"
+msgstr "Bihiro: There's cold air flowing this way..."
+
+#. event 171, page 0 | screen 297, cell (12,6)
+#, fuzzy
+msgctxt "IVENT05/e171/p0/t00"
+msgid "花子　：ほわー。　あたい花子ー。"
+msgstr "Hanako: Hwaah. I'm Hanako."
+
+#. event 171, page 0 | screen 297, cell (12,6)
+#, fuzzy
+msgctxt "IVENT05/e171/p0/t01"
+msgid "花子　：現実に除霊をする時、本人がイナイ　　　　時は”遠隔除霊”って奴をやるの！　　　　写真とか出生データが必要だけど。"
+msgstr "Hanako: In a real exorcism, when the person isn't there, you do what's called a \"remote exorcism\"! You need a photo or their birth data, though."
+
+#. event 172, page 0 | screen 298, cell (9,6)
+#, fuzzy
+msgctxt "IVENT05/e172/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　ドアを叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock on the door?"
+
+#. event 172, page 1 | screen 128, cell (4,2)
+#, fuzzy
+msgctxt "IVENT05/e172/p1/t00"
+msgid "花子　：へへー！　花子だぁ！"
+msgstr "Hanako: Hehee! It's Hanako!"
+
+#. event 172, page 1 | screen 128, cell (4,2)
+#, fuzzy
+msgctxt "IVENT05/e172/p1/t01"
+msgid "花子　：作者の独自の霊調査によると、教室　　　　に霊がでる確率は圧倒的に低い、と　　　　いう結果がでたの！　だから、今回　　　　も廊下の戦いが多いのよ！"
+msgstr "Hanako: The author's own ghost research found that the odds of a ghost appearing in a classroom are overwhelmingly low! So this time too, most fights are in the hallways!"
+
+#. event 172, page 1 | screen 128, cell (4,2)
+#, fuzzy
+msgctxt "IVENT05/e172/p1/t02"
+msgid "花子　：廊下って風がおこりやすいでしょ？　　　　あれは霊の移動が原因の一つなの！　　　　それで時々、教室に入ってイタズラ　　　　をするのよ！"
+msgstr "Hanako: Hallways get drafts easily, right? One cause of that is spirits moving around! And sometimes they go into classrooms and play tricks!"
+
+#. event 172, page 1 | screen 128, cell (4,2)
+#, fuzzy
+msgctxt "IVENT05/e172/p1/t03"
+msgid "花子　：イベントにつまったら、教室に　　　　　　入ったりすれば新しい何かがある　　　　　かもよ！"
+msgstr "Hanako: If you get stuck on an event, try going into a classroom. There may be something new!"
+
+#. event 173, page 0 | screen 298, cell (8,6)
+#, fuzzy
+msgctxt "IVENT05/e173/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　誰も入っていない・・・"
+msgstr ""
+"\n"
+"{center}Nobody is inside..."
+
+#. event 174, page 0 | screen 298, cell (10,5)
+#, fuzzy
+msgctxt "IVENT05/e174/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　誰も入っていない・・・"
+msgstr ""
+"\n"
+"{center}Nobody is inside..."
+
+#. event 175, page 0 | screen 298, cell (11,5)
+#, fuzzy
+msgctxt "IVENT05/e175/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　誰も入っていない・・・"
+msgstr ""
+"\n"
+"{center}Nobody is inside..."
+
+#. event 176, page 0 | screen 491, cell (1,9)
+#, fuzzy
+msgctxt "IVENT05/e176/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 177, page 0 | screen 491, cell (2,10)
+#, fuzzy
+msgctxt "IVENT05/e177/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 178, page 0 | screen 491, cell (3,10)
+#, fuzzy
+msgctxt "IVENT05/e178/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 179, page 0 | screen 491, cell (4,10)
+#, fuzzy
+msgctxt "IVENT05/e179/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 180, page 0 | screen 491, cell (5,10)
+#, fuzzy
+msgctxt "IVENT05/e180/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 181, page 0 | screen 491, cell (7,10)
+#, fuzzy
+msgctxt "IVENT05/e181/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 182, page 0 | screen 491, cell (5,5)
+#, fuzzy
+msgctxt "IVENT05/e182/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 183, page 0 | screen 491, cell (15,6)
+#, fuzzy
+msgctxt "IVENT05/e183/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 184, page 0 | screen 491, cell (17,4)
+#, fuzzy
+msgctxt "IVENT05/e184/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 185, page 0 | screen 491, cell (17,3)
+#, fuzzy
+msgctxt "IVENT05/e185/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 186, page 0 | screen 491, cell (17,2)
+#, fuzzy
+msgctxt "IVENT05/e186/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 187, page 0 | screen 491, cell (17,1)
+#, fuzzy
+msgctxt "IVENT05/e187/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 188, page 0 | screen 491, cell (4,7)
+#, fuzzy
+msgctxt "IVENT05/e188/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 189, page 0 | screen 491, cell (11,3)
+#, fuzzy
+msgctxt "IVENT05/e189/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 190, page 0 | screen 491, cell (12,3)
+#, fuzzy
+msgctxt "IVENT05/e190/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+
+#. event 191, page 0 | screen 491, cell (10,4)
+#, fuzzy
+msgctxt "IVENT05/e191/p0/t00"
+msgid "青木　：千歳を助けなければ！！"
+msgstr "Aoki: I have to save Chitose!!"
+

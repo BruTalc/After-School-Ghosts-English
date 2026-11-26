@@ -1,0 +1,201 @@
+# MAGIC.DAT - names, at most 16 half-width columns each.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/000"
+msgid "単・回復真言Lv.1"
+msgstr "Heal Mantra Lv.1"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/001"
+msgid "単・回復真言Lv.2"
+msgstr "Heal Mantra Lv.2"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/002"
+msgid "単・回復真言Lv.3"
+msgstr "Heal Mantra Lv.3"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/003"
+msgid "全・回復真言Lv.1"
+msgstr "Group Heal Lv.1"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/004"
+msgid "全・回復真言Lv.2"
+msgstr "Group Heal Lv.2"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/005"
+msgid "テレポート"
+msgstr "Teleport"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/006"
+msgid "除霊 (気絶回復)"
+msgstr "Exorcism(Revive)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/007"
+msgid "浄霊 (毒,ﾏﾋ回復)"
+msgstr "Purify (Psn/Par)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/008"
+msgid "陀羅尼 (単,毒化)"
+msgstr "Dharani (Poison)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/009"
+msgid "陀羅尼 (単,ﾏﾋ化)"
+msgstr "Dharani (Par)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/010"
+msgid "鎮魂の法(魔法封)"
+msgstr "Requiem (Seal)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/011"
+msgid "浄仏の説得(混乱)"
+msgstr "Persuade (Conf.)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/012"
+msgid "封魂の法 (眠ﾗｾﾙ)"
+msgstr "Soul Seal(Sleep)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/013"
+msgid "壊魂の法 (気絶)"
+msgstr "Soul Break (KO)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/014"
+msgid "守護の光(攻撃UP)"
+msgstr "Guard Light(ATK)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/015"
+msgid "守護の光(防御UP)"
+msgstr "Guard Light(DEF)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/016"
+msgid "反七縛(速くする)"
+msgstr "Unbind (Haste)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/017"
+msgid "審神(攻撃力ｻｹﾞﾙ)"
+msgstr "Saniwa (ATK dn)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/018"
+msgid "審神(防御力ｻｹﾞﾙ)"
+msgstr "Saniwa (DEF dn)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/019"
+msgid "七縛 (遅くする)"
+msgstr "Bind (Slow)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/020"
+msgid "祝詞 (単体) Lv.1"
+msgstr "Norito(One) Lv.1"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/021"
+msgid "祝詞 (単体) Lv.2"
+msgstr "Norito(One) Lv.2"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/022"
+msgid "祝詞 (単体) Lv.3"
+msgstr "Norito(One) Lv.3"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/023"
+msgid "不動妙王呪１(全)"
+msgstr "Fudo Myoo 1(All)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/024"
+msgid "不動妙王呪２(全)"
+msgstr "Fudo Myoo 2(All)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/025"
+msgid "不動妙王呪３(全)"
+msgstr "Fudo Myoo 3(All)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/026"
+msgid "霊験 (単体) Lv.1"
+msgstr "Miracle(One)Lv.1"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/027"
+msgid "霊験 (単体) Lv.2"
+msgstr "Miracle(One)Lv.2"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/028"
+msgid "霊験 (単体) Lv.3"
+msgstr "Miracle(One)Lv.3"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/029"
+msgid "九字 (全体) LV.1"
+msgstr "Kuji (All) Lv.1"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/030"
+msgid "九字 (全体) LV.2"
+msgstr "Kuji (All) Lv.2"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "MAGIC/031"
+msgid "九字 (全体) Lv.3"
+msgstr "Kuji (All) Lv.3"
+

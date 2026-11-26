@@ -1,0 +1,325 @@
+# IVENT13.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 0, page 0 | screen 846, cell (11,3)
+#, fuzzy
+msgctxt "IVENT13/e000/p0/t00"
+msgid "　　　－－－職員用トイレ－－－　　　　　　　　もちろん、生徒は入れない。"
+msgstr ""
+"{center}--- Staff Toilet ---\n"
+"Naturally, students can't go in."
+
+#. event 1, page 0 | screen 845, cell (7,10)
+#, fuzzy
+msgctxt "IVENT13/e001/p0/t00"
+msgid "　　　　　－－－校長室－－－　　　　　　　　鍵が掛かっている。　入れない。"
+msgstr ""
+"{center}--- Principal's Office ---\n"
+"It's locked. You can't get in."
+
+#. event 2, page 0 | screen 845, cell (15,6)
+#, fuzzy
+msgctxt "IVENT13/e002/p0/t00"
+msgid "　　　　　－－－校長室－－－　　　　　　　　鍵が掛かっている。　入れない。"
+msgstr ""
+"{center}--- Principal's Office ---\n"
+"It's locked. You can't get in."
+
+#. event 3, page 0 | screen 844, cell (7,10)
+#, fuzzy
+msgctxt "IVENT13/e003/p0/t00"
+msgid "　　　　　－－－会議室－－－　　　　　　　　　鍵が掛かっていて入れない。"
+msgstr ""
+"{center}--- Conference Room ---\n"
+"It's locked. You can't get in."
+
+#. event 4, page 0 | screen 844, cell (15,6)
+#, fuzzy
+msgctxt "IVENT13/e004/p0/t00"
+msgid "　　　　　－－－会議室－－－　　　　　　　　　鍵が掛かっていて入れない。"
+msgstr ""
+"{center}--- Conference Room ---\n"
+"It's locked. You can't get in."
+
+#. event 24, page 1 | screen 128, cell (11,1)
+#, fuzzy
+msgctxt "IVENT13/e024/p1/t00"
+msgid "若月　：あぁ！　良かった！　早く外へ！"
+msgstr "Wakatsuki: Ah! Thank goodness! Quick, outside!"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t00"
+msgid "青木　：はぁ、はぁ・・・"
+msgstr "Aoki: Hah, hah..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t01"
+msgid "若月　：大丈夫だった！？"
+msgstr "Wakatsuki: Are you all right!?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t02"
+msgid "美広　：どうなったんですか？　餓鬼とかが　　　　突然、苦しそうにして・・・"
+msgstr "Bihiro: What happened? The hungry ghosts suddenly looked like they were in pain..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t03"
+msgid "若月　：これ以上、学園内に残ることが危険　　　　すぎたのよ。　この私でさえ！"
+msgstr "Wakatsuki: It had become far too dangerous to stay in the school any longer. Even for me!"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t04"
+msgid "青木　：外なら、大丈夫だと？"
+msgstr "Aoki: And it's safe outside?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t05"
+msgid "若月　：玄関の外なら大丈夫。　今だけ。　　　　　あと２時間もすればこのへんも　　　　　　悪霊天国よ。"
+msgstr "Wakatsuki: Outside the entrance is safe. Only for now. In another two hours, this spot will be evil spirit heaven too."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t06"
+msgid "美広　：でも、今は校舎の霊が全然・・・"
+msgstr "Bihiro: But right now the spirits in the building aren't at all..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t07"
+msgid "若月　：月が降ってるから霊がおとなしく　　　　　なってるでしょ？"
+msgstr "Wakatsuki: The moon is raining down, so the spirits have gone quiet, see?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t08"
+msgid "美広　：月・・・ですか？"
+msgstr "Bihiro: The moon...?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t09"
+msgid "若月　：学長の技。　”月の力を降らせる”　　　　って奴。"
+msgstr "Wakatsuki: The Principal's art. It's called \"raining down the power of the moon\"."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t10"
+msgid "美広　：月・・・うわぁ・・・大きい・・・"
+msgstr "Bihiro: The moon... wow... it's huge..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t11"
+msgid "若月　：効いてる時間は短いらしいけど、　　　　　霊を黙らせることは出来たでしょ？　　　　”七縛”の強力な奴。"
+msgstr "Wakatsuki: I hear it doesn't last long, but it did shut the spirits up, didn't it? A powerful version of the \"Bind\"."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t12"
+msgid "青木　：雨が降ってるのに・・・？"
+msgstr "Aoki: Even though it's raining...?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t13"
+msgid "美広　：キレイな月・・・。"
+msgstr "Bihiro: Such a pretty moon..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t14"
+msgid "青木　：千歳は！？"
+msgstr "Aoki: What about Chitose!?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t15"
+msgid "若月　：・・・。　あ、あぁ、あの男の子？　　　　学長がお寺に連れて行ったわ。　　　　　　あそこならぜったい大丈夫。"
+msgstr "Wakatsuki: ... O-oh, that boy? The Principal took him to the temple. He'll be absolutely fine there."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t16"
+msgid "美広　：伊達ちゃんは！？"
+msgstr "Bihiro: And Date!?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t17"
+msgid "若月　：地蔵と浮遊霊に捜させたけど・・・　　　　学園内にはいなかったそうよ。"
+msgstr "Wakatsuki: I had the Jizo and the wandering spirits search... but they say she wasn't anywhere in the school."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t18"
+msgid "青木　：じゃぁ、どこへ？"
+msgstr "Aoki: Then where?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t19"
+msgid "若月　：神隠しかな？　でも、このあたり　　　　　ではそんなコト聞かないわね・・・"
+msgstr "Wakatsuki: Spirited away, perhaps? But you never hear of that around here..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t20"
+msgid "美広　：地蔵にもっと捜すよう頼んでおく　　　　　から。　さ、家までおくったげる。"
+msgstr "Wakatsuki: I'll ask the Jizo to keep searching. Come, I'll take you home."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t21"
+msgid "青木　：二人とも、おいて帰るんですか？"
+msgstr "Aoki: You're leaving both of them and going home?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t22"
+msgid "若月　：貴方達の背後霊団の力は昼間に　　　　　　くらべたら異常なほど強くなってる　　　　の。　このままじゃ、貴方達の肉体　　　　も精神も、もたないのよ。"
+msgstr "Wakatsuki: The power of your guardian spirit bands has grown abnormally strong compared to this afternoon. At this rate neither your bodies nor your minds will hold out."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t23"
+msgid "若月　：多少、不安でも住み慣れた家で　　　　　　休みなさい。　二人を助けたいの　　　　　なら、なおさら・・・ね。"
+msgstr "Wakatsuki: Even if you're a little anxious, rest in the homes you're used to. All the more so... if you want to save those two."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t24"
+msgid "若月　：霊的な原因なんだから、貴方たち　　　　　にも力が必要でしょ！？"
+msgstr "Wakatsuki: The cause is spiritual, so you two will need strength as well, won't you!?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t25"
+msgid "青木　：・・・・・・！"
+msgstr "Aoki: ......!"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t26"
+msgid "美広　：・・・どうしたの青木くん？"
+msgstr "Bihiro: ...What's wrong, Aoki?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t27"
+msgid "青木　：腕時計・・・止まってる。"
+msgstr "Aoki: My watch... it's stopped."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t28"
+msgid "若月　：機械は役にたたないわ。　　　　　　　　　気にしないで。　・・・１０時か。　　　　家の人には私の方から適当に断って　　　　おくから。"
+msgstr "Wakatsuki: Machines are no use. Don't worry about it. ...Ten o'clock. I'll make some suitable excuse to your families."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t29"
+msgid "美広　：伊達ちゃん・・・どこに行ったの？"
+msgstr "Bihiro: Date... where did you go?"
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t30"
+msgid "　　　　　　　　　　　　　　　　　　　　　　こうして、二日目が終った・・・"
+msgstr ""
+"\n"
+"{center}And so the second day came to an end..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t31"
+msgid "　「Dante98 学園仕様　放課後の幽霊達」　　　　　　　　第三日目・・・"
+msgstr ""
+"{center}DANTE98 School Edition\n"
+"{center}\"After School Ghosts\"\n"
+"{center}The third day..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t32"
+msgid "　　　　昨夜からの記録的豪雨で　　　　　　　　電車は運転を全面的に見合わせ　　　　　　　ダンテ学園は休校となる。"
+msgstr ""
+"{center}With record rains since last night,\n"
+"{center}all trains are suspended and\n"
+"{center}Dante Academy is closed for the day."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t33"
+msgid "　　　　　　　青木と美広は　　　　　　　　　　　　　豪雨の中を歩いた。　　　　　　　　　　　　暴風雨の中を。"
+msgstr ""
+"{center}Aoki and Bihiro\n"
+"{center}walked through the downpour.\n"
+"{center}Through the storm."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t34"
+msgid "　　ドス黒い空、激しい風、豪雨・・・　　　　　森に囲まれたダンテ学園は　　　　　　　　　異様な雰囲気に包まれ"
+msgstr "{center}A pitch-black sky, fierce wind, torrential rain... Ringed by forest, Dante Academy is wrapped in an eerie air."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t35"
+msgid "　　　　　　　　　　　　　　　　　　　　　　千歳と伊達は、やはり登校しない"
+msgstr ""
+"\n"
+"{center}Chitose and Date are absent after all."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t36"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　他の生徒は、すでに帰宅・・・　　　　　講師もまた、ほとんどいない・・・"
+msgstr ""
+"\n"
+"{center}The other students have gone home...\n"
+"{center}Hardly any teachers remain, either..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t37"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　４人を除いて・・・"
+msgstr ""
+"\n"
+"{center}Except for four people..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t38"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　そして放課後・・・"
+msgstr ""
+"\n"
+"{center}And then, after school..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t39"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　幽霊達は・・・"
+msgstr ""
+"\n"
+"{center}The ghosts..."
+
+#. event 26, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT13/e026/p1/t40"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　姿をあらわした・・・"
+msgstr ""
+"\n"
+"{center}showed themselves..."
+

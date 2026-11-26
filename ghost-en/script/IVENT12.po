@@ -1,0 +1,410 @@
+# IVENT12.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 0, page 1 | screen 128, cell (8,0)
+#, fuzzy
+msgctxt "IVENT12/e000/p1/t00"
+msgid "美広　：テレビ局？　　　　　　　　　　　　　　　どうしてテレビ局がこんな所に？"
+msgstr "Bihiro: A TV station? What's a TV station doing out here?"
+
+#. event 0, page 1 | screen 128, cell (8,0)
+#, fuzzy
+msgctxt "IVENT12/e000/p1/t01"
+msgid "青木　：あぁ、アレだろ、アレ・・・・確か　　　　「霊撮隊（れいさつたい）」とか　　　　　いう特別番組の・・・"
+msgstr "Aoki: Oh, it's that, you know.... that special program, the \"Ghost-Filming Crew\" or whatever it's called..."
+
+#. event 0, page 1 | screen 128, cell (8,0)
+#, fuzzy
+msgctxt "IVENT12/e000/p1/t02"
+msgid "千歳　：「霊撮隊」！？　毎年、夏に　　　　　　　やってるあの番組！？・・・　　　　　　　そうか！　この学園って”でる”こ　　　　とで結構有名だもんな！"
+msgstr "Chitose: \"Ghost Crew\"!? The show that's on every summer!?... Of course! This school is pretty famous for being \"haunted\"!"
+
+#. event 0, page 2 | screen 128, cell (17,9)
+#, fuzzy
+msgctxt "IVENT12/e000/p2/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 8, page 2 | screen 128, cell (17,9)
+#, fuzzy
+msgctxt "IVENT12/e008/p2/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 17, page 1 | screen 128, cell (7,0)
+#, fuzzy
+msgctxt "IVENT12/e017/p1/t00"
+msgid "生徒　：あ、伊達ちゃん！　　　　　　　　　　　　今ね、テレビ局の人達が取材に　　　　　　来てるよ！　　　　　　　　　　　　　　　私、ちょっと見てこようっと。"
+msgstr "Student: Oh, Date! Right now, people from a TV station are here doing a story! I'm going to go take a look."
+
+#. event 18, page 0 | screen 768, cell (11,3)
+#, fuzzy
+msgctxt "IVENT12/e018/p0/t00"
+msgid "生徒　：ふふ、やってるやってる。　　　　　　　　学長ってマスコミ嫌いだからなぁ。　　　　今年も断るんだろうなぁ。"
+msgstr "Student: Heh, there they go. The Principal hates the media. She'll turn them down again this year, I bet."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t00"
+msgid "学長　：取材は、すべてお断りしているはず　　　　ですが？"
+msgstr "Principal: I believe we decline all requests for coverage."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t01"
+msgid "取材班：ですから、若月寺の先にある　　　　　　　「根岸霊廟」だけを撮影できれば　　　　　いいんですよ？"
+msgstr "TV crew: As I said, all we need is to film the \"Negishi Mausoleum\" beyond Wakatsuki Temple."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t02"
+msgid "学長　：お断りします。お引き取り下さい。"
+msgstr "Principal: I refuse. Please leave."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t03"
+msgid "取材班：根岸霊廟に行く道が”なくなって”　　　　いたんです。　霊廟に行くには、　　　　　もう若月寺を通るしか・・・。"
+msgstr "TV crew: The road to the Negishi Mausoleum has \"disappeared\". The only way left to reach it is through Wakatsuki Temple..."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t04"
+msgid "学長　：・・・・・お引き取りを。"
+msgstr "Principal: .....Please leave."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t05"
+msgid "取材班：あ、そうそう。　校舎の奥の階段、　　　　全面工事中だそうですが・・・以前　　　　事故がありましたよねぇ？"
+msgstr "TV crew: Oh, that's right. I hear the staircase at the back of the school is closed for construction... there was an accident a while ago, wasn't there?"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t06"
+msgid "学長　：それが？　どうかしましたか？"
+msgstr "Principal: And? What of it?"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t07"
+msgid "取材班：原因不明の落下事故だそうで・・・　　　　死者がでなくて幸いでした。"
+msgstr "TV crew: A fall of unknown cause, I'm told... It was fortunate that nobody died."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t08"
+msgid "学長　：・・・それは、同感ですわ。"
+msgstr "Principal: ...On that, I agree."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t09"
+msgid "取材班：噂じゃ、霊の仕業だっていうじゃな　　　　いですか。　ここはちゃんと調べた　　　　方がいいと思うんですがねぇ？"
+msgstr "TV crew: Rumor has it spirits were to blame. I really think this ought to be properly looked into, don't you?"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t10"
+msgid "学長　：すでに警察の方々が調べました。　　　　　（・・・！）独自に調べたいのでし　　　　たら・・・学生寮の、そこにいる　　　　　生徒だけなら取材を許可します。"
+msgstr "Principal: The police have already investigated. (...!) If you wish to look into it yourselves... I will permit you to interview only the students who are at the dormitory."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t11"
+msgid "取材班：寮の生徒だけ！？"
+msgstr "TV crew: Only the dorm students!?"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t12"
+msgid "学長　：ご不満？　これでも結構、譲って　　　　　いるつもりなんですが？"
+msgstr "Principal: Dissatisfied? I believe I am conceding a good deal as it is."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t13"
+msgid "取材班：うーん・・・我々も、この大雨の中　　　　こんな山奥まで・・・・・・"
+msgstr "TV crew: Hmm... but we've come all this way into the mountains, in this downpour......"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t14"
+msgid "学長　：車で来られたようですから、雨は　　　　　関係なさそうですわね。　　　　　　　　　この学園が山奥にあって申しわけ　　　　　ございません。"
+msgstr "Principal: You seem to have come by car, so I doubt the rain matters. My apologies that this school is deep in the mountains."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t15"
+msgid "学長　：気を付けてお帰りください。"
+msgstr "Principal: Do take care on your way back."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t16"
+msgid "取材班　：・・・・・・・。"
+msgstr "TV crew: ........"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t17"
+msgid "千歳　：雨？"
+msgstr "Chitose: Rain?"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t18"
+msgid "千歳　：あぁ本当だ、雨だ。"
+msgstr "Chitose: Oh, so it is. It's raining."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t19"
+msgid "美広　：あ！　教室に傘　忘れちゃった！"
+msgstr "Bihiro: Ah! I left my umbrella in the classroom!"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t20"
+msgid "青木　：やべ！　俺もだ！"
+msgstr "Aoki: Crap! Me too!"
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t21"
+msgid "千歳　：待っててやるから、取りに行って　　　　　きな。"
+msgstr "Chitose: We'll wait for you, so go and get them."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t22"
+msgid "青木　：また４階まで戻るのかよぉ！？　　　　　　めんどくせー・・・。"
+msgstr "Aoki: All the way back up to the 4th floor!? What a pain..."
+
+#. event 21, page 1 | screen 128, cell (9,0)
+#, fuzzy
+msgctxt "IVENT12/e021/p1/t23"
+msgid "　　　　　　　　　　　　　　　　　　　　　（千歳、伊達が仲間からはずれます）"
+msgstr ""
+"\n"
+"{center}(Chitose and Date leave the party)"
+
+#. event 22, page 0 | screen 800, cell (2,6)
+#, fuzzy
+msgctxt "IVENT12/e022/p0/t00"
+msgid "学長　：お断わりします。"
+msgstr "Principal: I refuse."
+
+#. event 24, page 0 | screen 800, cell (3,5)
+#, fuzzy
+msgctxt "IVENT12/e024/p0/t00"
+msgid "取材班：お願いしますよー。"
+msgstr "TV crew: Oh, pleeease."
+
+#. event 53, page 0 | screen 768, cell (5,6)
+#, fuzzy
+msgctxt "IVENT12/e053/p0/t00"
+msgid "　　　－－－玄関（下駄箱）－－－　　　　　　　　下駄箱に通じています。　　　　　　　　　　　行きますか？"
+msgstr ""
+"{center}--- Entrance (Shoe Lockers) ---\n"
+"This leads to the shoe lockers.\n"
+"{center}Go?"
+
+#. event 54, page 0 | screen 802, cell (11,3)
+#, fuzzy
+msgctxt "IVENT12/e054/p0/t00"
+msgid "生徒　：ふぅん・・・寮に行くみたいねぇ。"
+msgstr "Student: Hmm... looks like they're heading to the dorm."
+
+#. event 55, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT12/e055/p1/t00"
+msgid "美広　：？　入るの？"
+msgstr "Bihiro: ? Are you going in?"
+
+#. event 55, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT12/e055/p1/t01"
+msgid "美広　：傘、持ってこなくちゃ。"
+msgstr "Bihiro: We have to get the umbrellas."
+
+#. event 56, page 0 | screen 800, cell (9,2)
+#, fuzzy
+msgctxt "IVENT12/e056/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　静かに、雨は降っている・・・"
+msgstr ""
+"\n"
+"{center}The rain is falling quietly..."
+
+#. event 57, page 0 | screen 800, cell (13,0)
+#, fuzzy
+msgctxt "IVENT12/e057/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　静かに、雨は降っている・・・"
+msgstr ""
+"\n"
+"{center}The rain is falling quietly..."
+
+#. event 58, page 0 | screen 800, cell (9,10)
+#, fuzzy
+msgctxt "IVENT12/e058/p0/t00"
+msgid "美広　：さっさと傘　持って来ようよ。"
+msgstr "Bihiro: Let's hurry up and get the umbrellas."
+
+#. event 59, page 0 | screen 800, cell (15,7)
+#, fuzzy
+msgctxt "IVENT12/e059/p0/t00"
+msgid "美広　：さっさと傘　取ってきて帰ろうよ。"
+msgstr "Bihiro: Let's hurry up, get the umbrellas and go home."
+
+#. event 60, page 1 | screen 128, cell (0,1)
+#, fuzzy
+msgctxt "IVENT12/e060/p1/t00"
+msgid "千歳　：んん？　・・・まさか４階まで一緒　　　　に来い、とか言いたいんじゃないだ　　　　ろうな・・・？"
+msgstr "Chitose: Hmm? ...Don't tell me you want us to come all the way up to the 4th floor with you...?"
+
+#. event 60, page 1 | screen 128, cell (0,1)
+#, fuzzy
+msgctxt "IVENT12/e060/p1/t01"
+msgid "千歳　：冗談だろォ？　やだぜ、俺は。　　　　　　４階だぞ４階。　いいじゃねぇか、　　　　美広もいるんだから。"
+msgstr "Chitose: You're kidding, right? No way, not me. It's the 4th floor, the 4th. It's fine, you've got Bihiro with you."
+
+#. event 60, page 1 | screen 128, cell (0,1)
+#, fuzzy
+msgctxt "IVENT12/e060/p1/t02"
+msgid "千歳　：俺は伊達とここで待ってるから。"
+msgstr "Chitose: I'll wait here with Date."
+
+#. event 61, page 1 | screen 128, cell (0,1)
+#, fuzzy
+msgctxt "IVENT12/e061/p1/t00"
+msgid "伊達　：気を付けてねん。　夜の学校ほど　　　　　イヤな所はないわよー！"
+msgstr "Date: Take caaare. There's no place as nasty as a school at night!"
+
+#. event 62, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT12/e062/p1/t00"
+msgid "千歳　：早かったなぁ！　傘は持って来た？"
+msgstr "Chitose: That was quick! Did you bring the umbrellas?"
+
+#. event 62, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT12/e062/p1/t01"
+msgid "千歳　：・・・どこにだよ。"
+msgstr "Chitose: ...Where, exactly?"
+
+#. event 62, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT12/e062/p1/t02"
+msgid "千歳　：・・・恐いのか？　まぁ、確かに　　　　　この学園は”でる”って噂だけど。"
+msgstr "Chitose: ...Are you scared? Well, they do say this school is \"haunted\"."
+
+#. event 63, page 1 | screen 128, cell (0,3)
+#, fuzzy
+msgctxt "IVENT12/e063/p1/t00"
+msgid "伊達　：あれ？　どうしたの？"
+msgstr "Date: Huh? What's wrong?"
+
+#. event 64, page 1 | screen 128, cell (10,3)
+#, fuzzy
+msgctxt "IVENT12/e064/p1/t00"
+msgid "霊撮隊：じゃぁ、校内だけでも！　　　　　　　　　校舎の一階だけでも！　　　　　　　　　　・・・ホント、お願いしますよー。"
+msgstr "Ghost Crew: Then just inside the school! Just the first floor of the building! ...Really, we're begging you."
+
+#. event 66, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT12/e066/p1/t00"
+msgid "学長　：ブブー。駄目です。お断り。"
+msgstr "Principal: Bzzzt. No. Request denied."
+
+#. event 72, page 0 | screen 768, cell (17,1)
+#, fuzzy
+msgctxt "IVENT12/e072/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 73, page 0 | screen 768, cell (17,2)
+#, fuzzy
+msgctxt "IVENT12/e073/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 74, page 0 | screen 768, cell (17,3)
+#, fuzzy
+msgctxt "IVENT12/e074/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 75, page 0 | screen 768, cell (17,4)
+#, fuzzy
+msgctxt "IVENT12/e075/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 76, page 0 | screen 769, cell (8,3)
+#, fuzzy
+msgctxt "IVENT12/e076/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 77, page 0 | screen 769, cell (17,4)
+#, fuzzy
+msgctxt "IVENT12/e077/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 78, page 0 | screen 769, cell (17,3)
+#, fuzzy
+msgctxt "IVENT12/e078/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 79, page 0 | screen 769, cell (17,2)
+#, fuzzy
+msgctxt "IVENT12/e079/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 80, page 0 | screen 769, cell (17,1)
+#, fuzzy
+msgctxt "IVENT12/e080/p0/t00"
+msgid "千歳　：青木！　早く行こうぜ！　　　　　　　　　本物の霊撮隊を見るの初めてだぜ！"
+msgstr "Chitose: Aoki! Come on, let's go! It's my first time seeing the real Ghost Crew!"
+
+#. event 93, page 0 | screen 768, cell (14,2)
+#, fuzzy
+msgctxt "IVENT12/e093/p0/t00"
+msgid "　　　　－－－自動販売機－－－　　　　　　夜、販売機の中からドンドンと叩く音が　　　　　聞こえたらしい。"
+msgstr ""
+"{center}--- Vending Machine ---\n"
+"They say that at night a banging sound was heard from inside the machine."
+
+#. event 94, page 0 | screen 802, cell (14,2)
+#, fuzzy
+msgctxt "IVENT12/e094/p0/t00"
+msgid "　　　　－－－自動販売機－－－　　　　　　夜、販売機の中からドンドンと叩く音が　　　　　聞こえたらしい。"
+msgstr ""
+"{center}--- Vending Machine ---\n"
+"They say that at night a banging sound was heard from inside the machine."
+
+#. event 95, page 0 | screen 802, cell (13,2)
+#, fuzzy
+msgctxt "IVENT12/e095/p0/t00"
+msgid "　　　　－－－自動販売機－－－　　　　　　買ったらゲジゲジがドロドロでてきた　　　　　　という話があるけど・・・"
+msgstr ""
+"{center}--- Vending Machine ---\n"
+"There's a story that someone bought a drink and centipedes came oozing out..."
+
+#. event 96, page 0 | screen 768, cell (13,2)
+#, fuzzy
+msgctxt "IVENT12/e096/p0/t00"
+msgid "　　　　－－－自動販売機－－－　　　　　　買ったらゲジゲジがドロドロでてきた　　　　　　という話があるけど・・・"
+msgstr ""
+"{center}--- Vending Machine ---\n"
+"There's a story that someone bought a drink and centipedes came oozing out..."
+

@@ -1,0 +1,57 @@
+# PLAYER.DAT - names, at most 16 half-width columns each.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/000"
+msgid "青木"
+msgstr "Aoki"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/001"
+msgid "美広"
+msgstr "Bihiro"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/002"
+msgid "学長(若月きりゆ)"
+msgstr "Principal Kiriyu"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/003"
+msgid "若月みおみ"
+msgstr "Miomi Wakatsuki"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/004"
+msgid "千歳"
+msgstr "Chitose"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/005"
+msgid "伊達"
+msgstr "Date"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/006"
+msgid "予備欄"
+msgstr "(spare)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "PLAYER/007"
+msgid "透明きゃらくたー"
+msgstr "Invisible chara"
+

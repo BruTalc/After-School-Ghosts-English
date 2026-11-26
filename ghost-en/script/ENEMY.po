@@ -1,0 +1,213 @@
+# ENEMY.DAT - names, at most 16 half-width columns each.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/000"
+msgid "餓鬼"
+msgstr "Hungry Ghost"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/001"
+msgid "怪士 (あやかし)"
+msgstr "Ayakashi"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/002"
+msgid "法力時代の犠牲者"
+msgstr "Victim of Dharma"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/003"
+msgid "悲劇の浮遊霊"
+msgstr "Tragic Wanderer"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/004"
+msgid "根岸家の祖霊"
+msgstr "Negishi Ancestor"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/007"
+msgid "基"
+msgstr "Base"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/012"
+msgid "？？？"
+msgstr "???"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/016"
+msgid "餓鬼"
+msgstr "Hungry Ghost"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/022"
+msgid "あやかし"
+msgstr "Ayakashi"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/026"
+msgid "さまよう魂"
+msgstr "Wandering Soul"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/028"
+msgid "さまよう魂"
+msgstr "Wandering Soul"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/029"
+msgid "さまよう魂"
+msgstr "Wandering Soul"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/031"
+msgid "餓鬼"
+msgstr "Hungry Ghost"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/033"
+msgid "餓鬼"
+msgstr "Hungry Ghost"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/037"
+msgid "影の狐"
+msgstr "Shadow Fox"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/040"
+msgid "餓鬼 Lv.5"
+msgstr "Hungry Ghost Lv5"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/042"
+msgid "餓鬼 Lv.3"
+msgstr "Hungry Ghost Lv3"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/043"
+msgid "餓鬼 Lv.3"
+msgstr "Hungry Ghost Lv3"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/046"
+msgid "屋敷霊"
+msgstr "House Spirit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/048"
+msgid "屋敷霊"
+msgstr "House Spirit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/051"
+msgid "冥邪鬼"
+msgstr "Dark Demon"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/057"
+msgid "水蛇龍"
+msgstr "Water Serpent"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/060"
+msgid "冥邪鬼 Lv.5"
+msgstr "Dark Demon Lv.5"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/062"
+msgid "冥邪鬼 Lv.5"
+msgstr "Dark Demon Lv.5"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/065"
+msgid "屋敷霊"
+msgstr "House Spirit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/066"
+msgid "屋敷霊"
+msgstr "House Spirit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/067"
+msgid "冥邪鬼 Lv.5"
+msgstr "Dark Demon Lv.5"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/068"
+msgid "屋敷霊"
+msgstr "House Spirit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/069"
+msgid "屋敷霊"
+msgstr "House Spirit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/071"
+msgid "影の狐 Lv.18"
+msgstr "Shadow Fox Lv.18"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/072"
+msgid "影の狐 Lv.20"
+msgstr "Shadow Fox Lv.20"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/077"
+msgid "根岸の祖霊"
+msgstr "Negishi Ancestor"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/082"
+msgid "餓鬼 Lv.30"
+msgstr "HungryGhost Lv30"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ENEMY/087"
+msgid "餓鬼 Lv.32"
+msgstr "HungryGhost Lv32"
+

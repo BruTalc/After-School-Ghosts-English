@@ -1,0 +1,157 @@
+# IVENT14.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 0, page 0 | screen 817, cell (12,6)
+#, fuzzy
+msgctxt "IVENT14/e000/p0/t00"
+msgid "花子　：どもー、花子です。"
+msgstr "Hanako: Hiya, Hanako here."
+
+#. event 0, page 0 | screen 817, cell (12,6)
+#, fuzzy
+msgctxt "IVENT14/e000/p0/t01"
+msgid "花子　：今回、陰陽道については触れてない　　　　けど間接的に取り入れている所は　　　　　あるよ！　コドクとかね。"
+msgstr "Hanako: This time we don't go into Onmyodo, but parts of it are worked in indirectly! Like kodoku."
+
+#. event 0, page 0 | screen 817, cell (12,6)
+#, fuzzy
+msgctxt "IVENT14/e000/p0/t02"
+msgid "花子　：陰陽寮とか出てくると異常に複雑に　　　　なるし、風水学も関係するから、　　　　　ちょっとしたサワリを使ってるよ！"
+msgstr "Hanako: Bring in the Bureau of Onmyo and it gets insanely complicated, and feng shui is involved too, so we only use a little taste of it!"
+
+#. event 1, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e001/p1/t00"
+msgid "花子　：呼んだぁ？　花子！"
+msgstr "Hanako: You called? Hanako!"
+
+#. event 1, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e001/p1/t01"
+msgid "花子　：霊峰とかで”口寄せ”の人とか　　　　　　いるでしょ？　先祖の霊とか呼んで　　　　代わりに喋ったりする人！"
+msgstr "Hanako: You know the \"kuchiyose\" mediums at sacred mountains? The people who call up your ancestors' spirits and speak in their place!"
+
+#. event 1, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e001/p1/t02"
+msgid "花子　：あんなの大ウソ・・・いやいや、　　　　　信用できない人、多いハズ！"
+msgstr "Hanako: That's all a big li... no, no, I mean, plenty of them can't be trusted!"
+
+#. event 1, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e001/p1/t03"
+msgid "花子　：実際はね・・・霊を呼んだ途端、　　　　　別の低級な霊とかがねぇ・・・ふぅ"
+msgstr "Hanako: What really happens is... the moment they call a spirit, some other low-grade spirit goes and... sigh."
+
+#. event 1, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e001/p1/t04"
+msgid "花子　：あんまり露骨に書くと苦情とか　　　　　　来そうだからやめとく・・・。"
+msgstr "Hanako: If I write it too bluntly we'll get complaints, so I'll stop there..."
+
+#. event 25, page 0 | screen 854, cell (16,3)
+#, fuzzy
+msgctxt "IVENT14/e025/p0/t00"
+msgid "美広　：こっちじゃないよ！"
+msgstr "Bihiro: Not this way!"
+
+#. event 26, page 0 | screen 854, cell (17,4)
+#, fuzzy
+msgctxt "IVENT14/e026/p0/t00"
+msgid "美広　：こっちじゃないよ！"
+msgstr "Bihiro: Not this way!"
+
+#. event 50, page 0 | screen 851, cell (5,5)
+#, fuzzy
+msgctxt "IVENT14/e050/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　３　階"
+msgstr ""
+"\n"
+"{center}3rd Floor"
+
+#. event 90, page 0 | screen 818, cell (8,6)
+#, fuzzy
+msgctxt "IVENT14/e090/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 91, page 0 | screen 818, cell (10,5)
+#, fuzzy
+msgctxt "IVENT14/e091/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 92, page 0 | screen 818, cell (11,5)
+#, fuzzy
+msgctxt "IVENT14/e092/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 93, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e093/p1/t00"
+msgid "花子　：花子！　花子！　はーなこ！"
+msgstr "Hanako: Hanako! Hanako! Haaanako!"
+
+#. event 93, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e093/p1/t01"
+msgid "花子　：このゲームでホラーもの、という　　　　　より”幽霊”そのものに興味を持つ　　　　人がいると思うけど・・・"
+msgstr "Hanako: I think this game will get some people interested not so much in horror as in \"ghosts\" themselves, but..."
+
+#. event 93, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e093/p1/t02"
+msgid "花子　：中途半端な興味は危険！　ホント！　　　　こんなゲーム作っておきながら　　　　　　悪いんだけど・・・"
+msgstr "Hanako: A half-hearted interest is dangerous! Really! Sorry to say so after making a game like this, but..."
+
+#. event 93, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT14/e093/p1/t03"
+msgid "花子　：ホント、責任は持たないから・・・"
+msgstr "Hanako: Really, we take no responsibility..."
+
+#. event 94, page 0 | screen 822, cell (8,6)
+#, fuzzy
+msgctxt "IVENT14/e094/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 95, page 0 | screen 822, cell (10,5)
+#, fuzzy
+msgctxt "IVENT14/e095/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 96, page 0 | screen 822, cell (11,5)
+#, fuzzy
+msgctxt "IVENT14/e096/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 113, page 0 | screen 851, cell (7,5)
+#, fuzzy
+msgctxt "IVENT14/e113/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　１　階"
+msgstr ""
+"\n"
+"{center}1st Floor"
+

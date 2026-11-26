@@ -1,0 +1,759 @@
+# ITEM.DAT - names, at most 16 half-width columns each.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/000"
+msgid "オリゴフルーツ"
+msgstr "Oligo Fruit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/001"
+msgid "メンタルフルーツ"
+msgstr "Mental Fruit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/002"
+msgid "傘（青木）"
+msgstr "Umbrella (Aoki)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/003"
+msgid "傘（美広）"
+msgstr "Umbrella(Bihiro)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/004"
+msgid "MP回復：３０茶"
+msgstr "Tea: MP+30"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/005"
+msgid "MP回復：５０茶"
+msgstr "Tea: MP+50"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/006"
+msgid "MP回復：１００茶"
+msgstr "Tea: MP+100"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/007"
+msgid "MP回復：２００茶"
+msgstr "Tea: MP+200"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/008"
+msgid "HP回復：５０水"
+msgstr "Water: HP+50"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/009"
+msgid "HP回復：８０水"
+msgstr "Water: HP+80"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/010"
+msgid "HP回復：１５０水"
+msgstr "Water: HP+150"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/011"
+msgid "HP回復：２００水"
+msgstr "Water: HP+200"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/012"
+msgid "パルチザン"
+msgstr "Partisan"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/013"
+msgid "フレイル"
+msgstr "Flail"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/014"
+msgid "レイピア"
+msgstr "Rapier"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/015"
+msgid "マンゴーシュ"
+msgstr "Main Gauche"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/016"
+msgid "マジックスタッフ"
+msgstr "Magic Staff"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/017"
+msgid "ランス"
+msgstr "Lance"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/018"
+msgid "トライデント"
+msgstr "Trident"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/019"
+msgid "ファイアスタッフ"
+msgstr "Fire Staff"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/020"
+msgid "ロングスピア"
+msgstr "Long Spear"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/021"
+msgid "ウォーハンマー"
+msgstr "War Hammer"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/022"
+msgid "ブロードソード"
+msgstr "Broadsword"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/023"
+msgid "モーニングスター"
+msgstr "Morning Star"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/024"
+msgid "タルワール"
+msgstr "Talwar"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/025"
+msgid "ライトスタッフ"
+msgstr "Light Staff"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/026"
+msgid "クロスボウ"
+msgstr "Crossbow"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/027"
+msgid "ハルバード"
+msgstr "Halberd"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/028"
+msgid "ロングソード"
+msgstr "Long Sword"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/029"
+msgid "バトルアックス"
+msgstr "Battle Axe"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/030"
+msgid "クレイモアー"
+msgstr "Claymore"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/031"
+msgid "ホｰリｰチャクラム"
+msgstr "Holy Chakram"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/032"
+msgid "ホーリーフレイル"
+msgstr "Holy Flail"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/033"
+msgid "マジックダガー"
+msgstr "Magic Dagger"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/034"
+msgid "バスタードソード"
+msgstr "Bastard Sword"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/035"
+msgid "ファイヤーソード"
+msgstr "Fire Sword"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/036"
+msgid "エクスカリバー"
+msgstr "Excalibur"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/037"
+msgid "ローブ"
+msgstr "Robe"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/038"
+msgid "クロースアーマー"
+msgstr "Cloth Armor"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/039"
+msgid "ハイドアーマー"
+msgstr "Hide Armor"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/040"
+msgid "スパイクドレザー"
+msgstr "Spiked Leather"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/041"
+msgid "スケールアーマー"
+msgstr "Scale Armor"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/042"
+msgid "マジックローブ"
+msgstr "Magic Robe"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/043"
+msgid "ラメラー"
+msgstr "Lamellar"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/044"
+msgid "チェインメイル"
+msgstr "Chain Mail"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/045"
+msgid "プレートコート"
+msgstr "Plate Coat"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/046"
+msgid "ホーリーローブ"
+msgstr "Holy Robe"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/047"
+msgid "プレートアーマー"
+msgstr "Plate Armor"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/048"
+msgid "バンデッドメイル"
+msgstr "Banded Mail"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/049"
+msgid "ライトローブ"
+msgstr "Light Robe"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/050"
+msgid "マジックアーマー"
+msgstr "Magic Armor"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/051"
+msgid "ドラゴンメイル"
+msgstr "Dragon Mail"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/052"
+msgid "ウッドシールド"
+msgstr "Wooden Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/053"
+msgid "レザーシールド"
+msgstr "Leather Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/054"
+msgid "バックラー"
+msgstr "Buckler"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/055"
+msgid "スモールシールド"
+msgstr "Small Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/056"
+msgid "カイトシールド"
+msgstr "Kite Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/057"
+msgid "ラージシールド"
+msgstr "Large Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/058"
+msgid "マジｯクバｯクラー"
+msgstr "Magic Buckler"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/059"
+msgid "バンデｯドシｰルド"
+msgstr "Banded Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/060"
+msgid "ホｰリｰバックラー"
+msgstr "Holy Buckler"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/061"
+msgid "タワーシールド"
+msgstr "Tower Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/062"
+msgid "ドラゴンシールド"
+msgstr "Dragon Shield"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/063"
+msgid "ヘルメット"
+msgstr "Helmet"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/064"
+msgid "アーメットヘルム"
+msgstr "Armet Helm"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/065"
+msgid "クロスヘルム"
+msgstr "Cross Helm"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/066"
+msgid "ホーンヘルム"
+msgstr "Horned Helm"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/067"
+msgid "ホーリークラウン"
+msgstr "Holy Crown"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/068"
+msgid "マジックヘルム"
+msgstr "Magic Helm"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/069"
+msgid "ドラゴンヘルム"
+msgstr "Dragon Helm"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/070"
+msgid "スライムの剣"
+msgstr "Slime Sword"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/071"
+msgid "日本刀"
+msgstr "Katana"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/072"
+msgid "グリーンリング"
+msgstr "Green Ring"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/073"
+msgid "レッドリング"
+msgstr "Red Ring"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/074"
+msgid "ブルーリング"
+msgstr "Blue Ring"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/075"
+msgid "ライトリング"
+msgstr "Light Ring"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/076"
+msgid "ホーリーリング"
+msgstr "Holy Ring"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/077"
+msgid "鍵"
+msgstr "Key"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/078"
+msgid "ろうやの鍵"
+msgstr "Jail Key"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/079"
+msgid "お城の鍵"
+msgstr "Castle Key"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/080"
+msgid "塔の鍵"
+msgstr "Tower Key"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/081"
+msgid "パン"
+msgstr "Bread"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/082"
+msgid "薬草"
+msgstr "Herb"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/083"
+msgid "回復の実"
+msgstr "Healing Fruit"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/084"
+msgid "ポーション"
+msgstr "Potion"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/085"
+msgid "伝説の秘薬"
+msgstr "Legendary Elixir"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/086"
+msgid "魔力の仁丹"
+msgstr "Magic Jintan"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/087"
+msgid "魔力の丸薬"
+msgstr "Magic Pill"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/088"
+msgid "魔力の細粒"
+msgstr "Magic Granules"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/089"
+msgid "魔力の錠剤"
+msgstr "Magic Tablet"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/090"
+msgid "魔力のカプセル"
+msgstr "Magic Capsule"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/091"
+msgid "解毒剤"
+msgstr "Antidote"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/092"
+msgid "マヒ回復薬"
+msgstr "Paralysis Cure"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/093"
+msgid "虹のかけ橋"
+msgstr "Rainbow Bridge"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/094"
+msgid "エリクサー"
+msgstr "Elixir"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/095"
+msgid "状態回復薬"
+msgstr "Status Cure"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/096"
+msgid "闇の聖水"
+msgstr "Dark Holy Water"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/097"
+msgid "悪魔の針"
+msgstr "Devil's Needle"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/098"
+msgid "静寂の雨水"
+msgstr "Rain of Silence"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/099"
+msgid "狂気の笛"
+msgstr "Flute of Madness"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/100"
+msgid "星の霧吹き"
+msgstr "Star Mist Spray"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/101"
+msgid "波動の印"
+msgstr "Wave Seal"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/102"
+msgid "火竜の鱗"
+msgstr "Fire Drake Scale"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/103"
+msgid "烈火の紋章"
+msgstr "Blaze Crest"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/104"
+msgid "炎の封印"
+msgstr "Seal of Flame"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/105"
+msgid "水竜の鱗"
+msgstr "Sea Drake Scale"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/106"
+msgid "雪の結晶"
+msgstr "Snow Crystal"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/107"
+msgid "氷の封印"
+msgstr "Seal of Ice"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/108"
+msgid "アーミーナイフ"
+msgstr "Army Knife"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/109"
+msgid "お守り（盾）"
+msgstr "Charm (Shield)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/110"
+msgid "スタンガン"
+msgstr "Stun Gun"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/111"
+msgid "ダイヤの原石"
+msgstr "Rough Diamond"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/112"
+msgid "剣印"
+msgstr "Sword Mudra"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/113"
+msgid "錫杖"
+msgstr "Priest's Staff"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/114"
+msgid "払い串"
+msgstr "Purifying Wand"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/115"
+msgid "薬師如来像画(HP)"
+msgstr "Yakushi Icon(HP)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/116"
+msgid "筋肉修練の意志"
+msgstr "Will to Train"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/117"
+msgid "念仏"
+msgstr "Nembutsu"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/118"
+msgid "薬師如来像画(MP)"
+msgstr "Yakushi Icon(MP)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/120"
+msgid "直接守護背後霊団"
+msgstr "Direct Guardians"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/121"
+msgid "間接守護背後霊団"
+msgstr "Remote Guardians"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/122"
+msgid "人形 (魔法封じ)"
+msgstr "Doll (Seal)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/123"
+msgid "霊薬 (HP回復)"
+msgstr "Spirit Drug (HP)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/124"
+msgid "霊液 (MP回復)"
+msgstr "Spirit Tonic(MP)"
+
+#. at most 16 columns
+#, fuzzy
+msgctxt "ITEM/125"
+msgid "薬師如来の涙(蘇)"
+msgstr "Yakushi's Tear"
+

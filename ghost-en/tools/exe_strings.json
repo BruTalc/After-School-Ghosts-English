@@ -1,0 +1,1446 @@
+{
+ "ds_paragraph": 5415,
+ "strings": [
+  {
+   "off": 339,
+   "len": 32,
+   "code": [
+    15452
+   ],
+   "data": [],
+   "layout": [
+    2,
+    16
+   ]
+  },
+  {
+   "off": 424,
+   "len": 22,
+   "code": [
+    16159
+   ],
+   "data": []
+  },
+  {
+   "off": 447,
+   "len": 34,
+   "code": [
+    16191
+   ],
+   "data": []
+  },
+  {
+   "off": 482,
+   "len": 64,
+   "code": [
+    16514
+   ],
+   "data": [],
+   "note": "Printed by DOS after quitting (plain text mode; \r\n line ends)."
+  },
+  {
+   "off": 28025,
+   "len": 16,
+   "code": [],
+   "data": [
+    27918
+   ]
+  },
+  {
+   "off": 28042,
+   "len": 13,
+   "code": [],
+   "data": [
+    27922
+   ]
+  },
+  {
+   "off": 28079,
+   "len": 60,
+   "code": [],
+   "data": [
+    27930
+   ],
+   "layout": [
+    6,
+    10
+   ]
+  },
+  {
+   "off": 28140,
+   "len": 14,
+   "code": [],
+   "data": [
+    27934
+   ]
+  },
+  {
+   "off": 28155,
+   "len": 14,
+   "code": [],
+   "data": [
+    27938
+   ]
+  },
+  {
+   "off": 28170,
+   "len": 10,
+   "code": [],
+   "data": [
+    27942
+   ]
+  },
+  {
+   "off": 28181,
+   "len": 20,
+   "code": [],
+   "data": [
+    27946
+   ]
+  },
+  {
+   "off": 28202,
+   "len": 22,
+   "code": [],
+   "data": [
+    27950
+   ]
+  },
+  {
+   "off": 28225,
+   "len": 22,
+   "code": [],
+   "data": [
+    27954
+   ]
+  },
+  {
+   "off": 28248,
+   "len": 22,
+   "code": [],
+   "data": [
+    27958
+   ]
+  },
+  {
+   "off": 28271,
+   "len": 18,
+   "code": [],
+   "data": [
+    27962
+   ]
+  },
+  {
+   "off": 28290,
+   "len": 18,
+   "code": [],
+   "data": [
+    27966
+   ]
+  },
+  {
+   "off": 28309,
+   "len": 12,
+   "code": [],
+   "data": [
+    27970
+   ]
+  },
+  {
+   "off": 28322,
+   "len": 18,
+   "code": [],
+   "data": [
+    27974
+   ]
+  },
+  {
+   "off": 28341,
+   "len": 21,
+   "code": [],
+   "data": [
+    27978
+   ]
+  },
+  {
+   "off": 28363,
+   "len": 12,
+   "code": [],
+   "data": [
+    27982
+   ],
+   "layout": [
+    2,
+    6
+   ]
+  },
+  {
+   "off": 28376,
+   "len": 6,
+   "code": [],
+   "data": [
+    27986
+   ],
+   "note": "Equip screen slot label, 6 columns."
+  },
+  {
+   "off": 28383,
+   "len": 6,
+   "code": [],
+   "data": [
+    27990
+   ],
+   "note": "Equip slot label, 6 columns."
+  },
+  {
+   "off": 28390,
+   "len": 6,
+   "code": [],
+   "data": [
+    27994
+   ],
+   "note": "Equip slot label, 6 columns."
+  },
+  {
+   "off": 28397,
+   "len": 6,
+   "code": [],
+   "data": [
+    27998
+   ],
+   "note": "Equip slot label, 6 columns."
+  },
+  {
+   "off": 28404,
+   "len": 6,
+   "code": [],
+   "data": [
+    28002
+   ],
+   "note": "Equip slot label, 6 columns."
+  },
+  {
+   "off": 28418,
+   "len": 4,
+   "code": [
+    28880
+   ],
+   "data": [],
+   "note": "Status ailment tag, 4 columns: poison"
+  },
+  {
+   "off": 28423,
+   "len": 4,
+   "code": [
+    28927
+   ],
+   "data": [],
+   "note": "ailment tag, 4 columns: magic sealed"
+  },
+  {
+   "off": 28428,
+   "len": 4,
+   "code": [
+    28974
+   ],
+   "data": [],
+   "note": "ailment tag, 4 columns: confused"
+  },
+  {
+   "off": 28433,
+   "len": 4,
+   "code": [
+    29021
+   ],
+   "data": [],
+   "note": "ailment tag, 4 columns: asleep"
+  },
+  {
+   "off": 28438,
+   "len": 4,
+   "code": [
+    29068
+   ],
+   "data": [],
+   "note": "ailment tag, 4 columns: paralysed"
+  },
+  {
+   "off": 28490,
+   "len": 12,
+   "code": [
+    29601
+   ],
+   "data": [],
+   "note": "Status (Attack). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 4 characters before the %-4d."
+  },
+  {
+   "off": 28503,
+   "len": 12,
+   "code": [
+    29649
+   ],
+   "data": [],
+   "note": "Status (Defense). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 4 characters before the %-4d."
+  },
+  {
+   "off": 28516,
+   "len": 8,
+   "code": [
+    29700
+   ],
+   "data": [],
+   "note": "Status (Strength). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 2 characters before the %-4d."
+  },
+  {
+   "off": 28525,
+   "len": 10,
+   "code": [
+    29756
+   ],
+   "data": [],
+   "note": "Status (Vitality). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 3 characters before the %-4d."
+  },
+  {
+   "off": 28536,
+   "len": 10,
+   "code": [
+    29812
+   ],
+   "data": [],
+   "note": "Status (Intelligence). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 3 characters before the %-4d."
+  },
+  {
+   "off": 28547,
+   "len": 14,
+   "code": [
+    29868
+   ],
+   "data": [],
+   "note": "Status (Speed). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 5 characters before the %-4d."
+  },
+  {
+   "off": 28562,
+   "len": 8,
+   "code": [
+    29925
+   ],
+   "data": [],
+   "note": "Status (Luck). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 2 characters before the %-4d."
+  },
+  {
+   "off": 28571,
+   "len": 9,
+   "code": [
+    30581
+   ],
+   "data": []
+  },
+  {
+   "off": 28613,
+   "len": 6,
+   "code": [
+    30802
+   ],
+   "data": []
+  },
+  {
+   "off": 28627,
+   "len": 20,
+   "code": [
+    30878
+   ],
+   "data": []
+  },
+  {
+   "off": 28655,
+   "len": 2,
+   "code": [
+    31039
+   ],
+   "data": []
+  },
+  {
+   "off": 28670,
+   "len": 14,
+   "code": [
+    31790
+   ],
+   "data": []
+  },
+  {
+   "off": 28685,
+   "len": 16,
+   "code": [
+    32133
+   ],
+   "data": []
+  },
+  {
+   "off": 28709,
+   "len": 17,
+   "code": [
+    32824
+   ],
+   "data": []
+  },
+  {
+   "off": 28727,
+   "len": 3,
+   "code": [
+    32867
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. Field menu. Full message: NAME + this + MAGIC + [703B]."
+  },
+  {
+   "off": 28731,
+   "len": 17,
+   "code": [
+    32847
+   ],
+   "data": [],
+   "note": "Printed right after a magic name (see 7037)."
+  },
+  {
+   "off": 28749,
+   "len": 11,
+   "code": [
+    32969
+   ],
+   "data": [],
+   "note": "Printed right after an item name: NAME + [\u306f#] + ITEM + this."
+  },
+  {
+   "off": 28761,
+   "len": 8,
+   "code": [
+    33101
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7062]."
+  },
+  {
+   "off": 28770,
+   "len": 14,
+   "code": [
+    33095
+   ],
+   "data": [],
+   "note": "Follows a number (HP amount)."
+  },
+  {
+   "off": 28785,
+   "len": 14,
+   "code": [
+    33209
+   ],
+   "data": [],
+   "note": "this + NUMBER + [7080] (whole party healed)."
+  },
+  {
+   "off": 28800,
+   "len": 18,
+   "code": [
+    33203
+   ],
+   "data": []
+  },
+  {
+   "off": 28819,
+   "len": 15,
+   "code": [
+    33468
+   ],
+   "data": []
+  },
+  {
+   "off": 28835,
+   "len": 15,
+   "code": [
+    33588
+   ],
+   "data": []
+  },
+  {
+   "off": 28851,
+   "len": 19,
+   "code": [
+    33640
+   ],
+   "data": []
+  },
+  {
+   "off": 28873,
+   "len": 27,
+   "code": [
+    33710
+   ],
+   "data": []
+  },
+  {
+   "off": 28907,
+   "len": 7,
+   "code": [
+    34275
+   ],
+   "data": []
+  },
+  {
+   "off": 28915,
+   "len": 11,
+   "code": [
+    34568
+   ],
+   "data": []
+  },
+  {
+   "off": 28927,
+   "len": 8,
+   "code": [
+    34706
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7108]."
+  },
+  {
+   "off": 28936,
+   "len": 14,
+   "code": [
+    34698
+   ],
+   "data": []
+  },
+  {
+   "off": 28951,
+   "len": 8,
+   "code": [
+    34836
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7120] (MP)."
+  },
+  {
+   "off": 28960,
+   "len": 14,
+   "code": [
+    34828
+   ],
+   "data": [],
+   "note": "Follows a number (MP amount)."
+  },
+  {
+   "off": 28975,
+   "len": 15,
+   "code": [
+    34973
+   ],
+   "data": []
+  },
+  {
+   "off": 28991,
+   "len": 19,
+   "code": [
+    35089
+   ],
+   "data": []
+  },
+  {
+   "off": 29011,
+   "len": 27,
+   "code": [
+    35141
+   ],
+   "data": []
+  },
+  {
+   "off": 29039,
+   "len": 12,
+   "code": [
+    35190
+   ],
+   "data": [],
+   "layout": [
+    2,
+    6
+   ]
+  },
+  {
+   "off": 29052,
+   "len": 14,
+   "code": [
+    35492
+   ],
+   "data": []
+  },
+  {
+   "off": 29067,
+   "len": 24,
+   "code": [
+    36220
+   ],
+   "data": [],
+   "layout": [
+    2,
+    12
+   ]
+  },
+  {
+   "off": 29092,
+   "len": 41,
+   "code": [
+    37427
+   ],
+   "data": []
+  },
+  {
+   "off": 29134,
+   "len": 8,
+   "code": [
+    37503
+   ],
+   "data": [],
+   "note": "Debug flag monitor, printf format. Do NOT use the # character (it means newline)."
+  },
+  {
+   "off": 29143,
+   "len": 64,
+   "code": [
+    37584
+   ],
+   "data": [],
+   "layout": [
+    4,
+    16
+   ]
+  },
+  {
+   "off": 29448,
+   "len": 4,
+   "code": [
+    40709
+   ],
+   "data": [],
+   "note": "Party lands a critical: this + [7312]."
+  },
+  {
+   "off": 29453,
+   "len": 4,
+   "code": [
+    40729
+   ],
+   "data": [],
+   "note": "Enemy lands a critical: this + [7312]."
+  },
+  {
+   "off": 29458,
+   "len": 9,
+   "code": [
+    40747
+   ],
+   "data": [],
+   "note": "See 7308/730D."
+  },
+  {
+   "off": 29468,
+   "len": 17,
+   "code": [
+    41903
+   ],
+   "data": []
+  },
+  {
+   "off": 29486,
+   "len": 22,
+   "code": [
+    42855
+   ],
+   "data": []
+  },
+  {
+   "off": 29509,
+   "len": 10,
+   "code": [
+    42875
+   ],
+   "data": []
+  },
+  {
+   "off": 29520,
+   "len": 18,
+   "code": [
+    45409
+   ],
+   "data": []
+  },
+  {
+   "off": 29539,
+   "len": 32,
+   "code": [
+    45461
+   ],
+   "data": []
+  },
+  {
+   "off": 29572,
+   "len": 20,
+   "code": [
+    45575
+   ],
+   "data": []
+  },
+  {
+   "off": 29593,
+   "len": 2,
+   "code": [
+    46498
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + ( [739C]  or  NUMBER + [73B0] )."
+  },
+  {
+   "off": 29596,
+   "len": 19,
+   "code": [
+    46558
+   ],
+   "data": [],
+   "note": "NAME + [7399] + this."
+  },
+  {
+   "off": 29616,
+   "len": 16,
+   "code": [
+    46578
+   ],
+   "data": [],
+   "note": "NAME + [7399] + NUMBER + this."
+  },
+  {
+   "off": 29633,
+   "len": 2,
+   "code": [
+    46921
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + one of [73C4] / [73D0] / [73E0] (target unavailable)."
+  },
+  {
+   "off": 29636,
+   "len": 11,
+   "code": [
+    46994
+   ],
+   "data": []
+  },
+  {
+   "off": 29648,
+   "len": 15,
+   "code": [
+    47014
+   ],
+   "data": []
+  },
+  {
+   "off": 29664,
+   "len": 16,
+   "code": [
+    47034
+   ],
+   "data": []
+  },
+  {
+   "off": 29683,
+   "len": 3,
+   "code": [
+    47387
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. Battle. NAME + this + MAGIC + [73F7]."
+  },
+  {
+   "off": 29687,
+   "len": 17,
+   "code": [
+    47367
+   ],
+   "data": []
+  },
+  {
+   "off": 29705,
+   "len": 27,
+   "code": [
+    47523
+   ],
+   "data": []
+  },
+  {
+   "off": 29733,
+   "len": 8,
+   "code": [
+    47569
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [742E]."
+  },
+  {
+   "off": 29742,
+   "len": 14,
+   "code": [
+    47563
+   ],
+   "data": []
+  },
+  {
+   "off": 29757,
+   "len": 14,
+   "code": [
+    47644
+   ],
+   "data": [],
+   "note": "this + NUMBER + [744C]."
+  },
+  {
+   "off": 29772,
+   "len": 19,
+   "code": [
+    47638
+   ],
+   "data": []
+  },
+  {
+   "off": 29792,
+   "len": 19,
+   "code": [
+    47701
+   ],
+   "data": []
+  },
+  {
+   "off": 29812,
+   "len": 15,
+   "code": [
+    47787
+   ],
+   "data": []
+  },
+  {
+   "off": 29828,
+   "len": 16,
+   "code": [
+    47892
+   ],
+   "data": []
+  },
+  {
+   "off": 29845,
+   "len": 20,
+   "code": [
+    47953
+   ],
+   "data": []
+  },
+  {
+   "off": 29866,
+   "len": 17,
+   "code": [
+    47974
+   ],
+   "data": []
+  },
+  {
+   "off": 29884,
+   "len": 21,
+   "code": [
+    48023
+   ],
+   "data": []
+  },
+  {
+   "off": 29906,
+   "len": 21,
+   "code": [
+    48072
+   ],
+   "data": []
+  },
+  {
+   "off": 29928,
+   "len": 17,
+   "code": [
+    48157
+   ],
+   "data": []
+  },
+  {
+   "off": 29946,
+   "len": 21,
+   "code": [
+    48177
+   ],
+   "data": []
+  },
+  {
+   "off": 29968,
+   "len": 19,
+   "code": [
+    48198
+   ],
+   "data": []
+  },
+  {
+   "off": 29988,
+   "len": 8,
+   "code": [
+    48267
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + [7541] + NUMBER + [7545] (stat up)."
+  },
+  {
+   "off": 29997,
+   "len": 8,
+   "code": [
+    48277
+   ],
+   "data": [],
+   "note": "see 7524"
+  },
+  {
+   "off": 30006,
+   "len": 10,
+   "code": [
+    48287
+   ],
+   "data": [],
+   "note": "see 7524"
+  },
+  {
+   "off": 30017,
+   "len": 3,
+   "code": [
+    48304
+   ],
+   "data": [],
+   "note": "see 7524"
+  },
+  {
+   "off": 30021,
+   "len": 14,
+   "code": [
+    48294
+   ],
+   "data": [],
+   "note": "see 7524"
+  },
+  {
+   "off": 30036,
+   "len": 8,
+   "code": [
+    48390
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + [7571] + NUMBER + [7575] (stat down)."
+  },
+  {
+   "off": 30045,
+   "len": 8,
+   "code": [
+    48400
+   ],
+   "data": [],
+   "note": "see 7554"
+  },
+  {
+   "off": 30054,
+   "len": 10,
+   "code": [
+    48410
+   ],
+   "data": [],
+   "note": "see 7554"
+  },
+  {
+   "off": 30065,
+   "len": 3,
+   "code": [
+    48423
+   ],
+   "data": [],
+   "note": "see 7554"
+  },
+  {
+   "off": 30069,
+   "len": 14,
+   "code": [
+    48417
+   ],
+   "data": [],
+   "note": "see 7554"
+  },
+  {
+   "off": 30084,
+   "len": 3,
+   "code": [
+    48646
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. Battle. NAME + this + ITEM + [7588]."
+  },
+  {
+   "off": 30088,
+   "len": 11,
+   "code": [
+    48688
+   ],
+   "data": []
+  },
+  {
+   "off": 30100,
+   "len": 17,
+   "code": [
+    48714
+   ],
+   "data": []
+  },
+  {
+   "off": 30118,
+   "len": 8,
+   "code": [
+    48846
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [75AF]."
+  },
+  {
+   "off": 30127,
+   "len": 14,
+   "code": [
+    48840
+   ],
+   "data": []
+  },
+  {
+   "off": 30142,
+   "len": 8,
+   "code": [
+    48969
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [75C7] (MP)."
+  },
+  {
+   "off": 30151,
+   "len": 14,
+   "code": [
+    48963
+   ],
+   "data": []
+  },
+  {
+   "off": 30166,
+   "len": 15,
+   "code": [
+    49084
+   ],
+   "data": []
+  },
+  {
+   "off": 30182,
+   "len": 19,
+   "code": [
+    49200
+   ],
+   "data": []
+  },
+  {
+   "off": 30202,
+   "len": 27,
+   "code": [
+    49302
+   ],
+   "data": []
+  },
+  {
+   "off": 30230,
+   "len": 10,
+   "code": [
+    49412
+   ],
+   "data": []
+  },
+  {
+   "off": 30241,
+   "len": 13,
+   "code": [
+    49467
+   ],
+   "data": []
+  },
+  {
+   "off": 30255,
+   "len": 15,
+   "code": [
+    49493
+   ],
+   "data": []
+  },
+  {
+   "off": 30271,
+   "len": 15,
+   "code": [
+    49535
+   ],
+   "data": []
+  },
+  {
+   "off": 30287,
+   "len": 18,
+   "code": [
+    49621
+   ],
+   "data": []
+  },
+  {
+   "off": 30306,
+   "len": 10,
+   "code": [
+    49673
+   ],
+   "data": []
+  },
+  {
+   "off": 30317,
+   "len": 14,
+   "code": [
+    49777
+   ],
+   "data": []
+  },
+  {
+   "off": 30332,
+   "len": 10,
+   "code": [
+    49885
+   ],
+   "data": []
+  },
+  {
+   "off": 30343,
+   "len": 8,
+   "code": [
+    49937
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7690]."
+  },
+  {
+   "off": 30352,
+   "len": 14,
+   "code": [
+    49931
+   ],
+   "data": []
+  },
+  {
+   "off": 30367,
+   "len": 23,
+   "code": [
+    50021
+   ],
+   "data": []
+  },
+  {
+   "off": 30391,
+   "len": 14,
+   "code": [
+    50503
+   ],
+   "data": []
+  },
+  {
+   "off": 30406,
+   "len": 6,
+   "code": [
+    50665
+   ],
+   "data": []
+  },
+  {
+   "off": 30413,
+   "len": 16,
+   "code": [
+    51040
+   ],
+   "data": []
+  },
+  {
+   "off": 30437,
+   "len": 40,
+   "code": [
+    51538
+   ],
+   "data": [],
+   "layout": [
+    5,
+    8
+   ]
+  },
+  {
+   "off": 30478,
+   "len": 14,
+   "code": [
+    52922
+   ],
+   "data": []
+  },
+  {
+   "off": 30493,
+   "len": 18,
+   "code": [
+    53380
+   ],
+   "data": []
+  },
+  {
+   "off": 30512,
+   "len": 18,
+   "code": [
+    53511
+   ],
+   "data": []
+  },
+  {
+   "off": 30531,
+   "len": 15,
+   "code": [
+    53658
+   ],
+   "data": []
+  },
+  {
+   "off": 30549,
+   "len": 21,
+   "code": [
+    53802
+   ],
+   "data": []
+  },
+  {
+   "off": 30571,
+   "len": 17,
+   "code": [
+    53851
+   ],
+   "data": []
+  },
+  {
+   "off": 30589,
+   "len": 17,
+   "code": [
+    53953
+   ],
+   "data": [],
+   "note": "this + NUMBER + [778F]."
+  },
+  {
+   "off": 30607,
+   "len": 9,
+   "code": [
+    53942
+   ],
+   "data": []
+  },
+  {
+   "off": 30617,
+   "len": 7,
+   "code": [
+    54002
+   ],
+   "data": [],
+   "note": "this + NUMBER + [77A1]."
+  },
+  {
+   "off": 30625,
+   "len": 14,
+   "code": [
+    53991
+   ],
+   "data": []
+  },
+  {
+   "off": 30640,
+   "len": 8,
+   "code": [
+    54071
+   ],
+   "data": [],
+   "note": "NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [77B9]."
+  },
+  {
+   "off": 30649,
+   "len": 11,
+   "code": [
+    54065
+   ],
+   "data": []
+  },
+  {
+   "off": 30661,
+   "len": 14,
+   "code": [
+    54268
+   ],
+   "data": []
+  },
+  {
+   "off": 30676,
+   "len": 16,
+   "code": [
+    54469
+   ],
+   "data": []
+  },
+  {
+   "off": 31837,
+   "len": 19,
+   "code": [],
+   "data": [
+    31817
+   ]
+  },
+  {
+   "off": 31857,
+   "len": 21,
+   "code": [],
+   "data": [
+    31821
+   ]
+  },
+  {
+   "off": 31879,
+   "len": 21,
+   "code": [],
+   "data": [
+    31828
+   ]
+  },
+  {
+   "off": 31901,
+   "len": 14,
+   "code": [
+    55689
+   ],
+   "data": []
+  },
+  {
+   "off": 31916,
+   "len": 6,
+   "code": [
+    55851
+   ],
+   "data": []
+  },
+  {
+   "off": 31923,
+   "len": 20,
+   "code": [
+    56066
+   ],
+   "data": [],
+   "layout": [
+    2,
+    10
+   ]
+  },
+  {
+   "off": 31948,
+   "len": 15,
+   "code": [
+    56514
+   ],
+   "data": []
+  },
+  {
+   "off": 31964,
+   "len": 27,
+   "code": [
+    56628
+   ],
+   "data": []
+  },
+  {
+   "off": 31992,
+   "len": 6,
+   "code": [
+    56679
+   ],
+   "data": [],
+   "note": "Shop, selling. this + PRICE + [7CFF]."
+  },
+  {
+   "off": 31999,
+   "len": 31,
+   "code": [
+    56671
+   ],
+   "data": []
+  },
+  {
+   "off": 32031,
+   "len": 13,
+   "code": [
+    56760
+   ],
+   "data": []
+  },
+  {
+   "off": 32045,
+   "len": 11,
+   "code": [
+    63161
+   ],
+   "data": [],
+   "note": "Inn. this + PRICE + [7D39]. Then a Yes/No menu appears."
+  },
+  {
+   "off": 32057,
+   "len": 21,
+   "code": [
+    63153
+   ],
+   "data": []
+  },
+  {
+   "off": 32184,
+   "len": 34,
+   "code": [
+    69004
+   ],
+   "data": []
+  },
+  {
+   "off": 32219,
+   "len": 34,
+   "code": [
+    69091
+   ],
+   "data": []
+  },
+  {
+   "off": 32254,
+   "len": 30,
+   "code": [
+    69116
+   ],
+   "data": []
+  },
+  {
+   "off": 32285,
+   "len": 28,
+   "code": [
+    69141
+   ],
+   "data": []
+  }
+ ]
+}

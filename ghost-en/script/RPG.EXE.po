@@ -1,0 +1,1115 @@
+# RPG.EXE - menus, battle and system messages. NOT wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. menu item 1 of 2 - at most 16 columns
+#, fuzzy
+msgctxt "RPG.EXE/0153[0]"
+msgid "最初から始める"
+msgstr "New Game"
+
+#. menu item 2 of 2 - at most 16 columns
+#, fuzzy
+msgctxt "RPG.EXE/0153[1]"
+msgid "ゲームを読み込む"
+msgstr "Load Game"
+
+#, fuzzy
+msgctxt "RPG.EXE/01A8"
+msgid "メモリーが足りません。"
+msgstr "Not enough memory."
+
+#, fuzzy
+msgctxt "RPG.EXE/01BF"
+msgid "音楽ドライバーが登録されてません。"
+msgstr "Music driver is not loaded."
+
+#. Printed by DOS after quitting (plain text mode; 
+ line ends).
+#, fuzzy
+msgctxt "RPG.EXE/01E2"
+msgid ""
+"ゲームを終了しました。\n"
+"ディスクを抜いて電源を切ってください。\n"
+msgstr ""
+"Game ended.\n"
+"Please remove the disk and switch off.\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/6D79"
+msgid "選択してください"
+msgstr "Please choose"
+
+msgctxt "RPG.EXE/6D8A"
+msgid "← Page %d →"
+msgstr ""
+
+#. menu item 1 of 6 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/6DAF[0]"
+msgid "アイテム"
+msgstr "Items"
+
+#. menu item 2 of 6 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/6DAF[1]"
+msgid "魔法"
+msgstr "Magic"
+
+#. menu item 3 of 6 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/6DAF[2]"
+msgid "装備"
+msgstr "Equip"
+
+#. menu item 4 of 6 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/6DAF[3]"
+msgid "ステータス"
+msgstr "Status"
+
+#. menu item 5 of 6 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/6DAF[4]"
+msgid "並び替え"
+msgstr "Order"
+
+#. menu item 6 of 6 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/6DAF[5]"
+msgid "システム"
+msgstr "System"
+
+#, fuzzy
+msgctxt "RPG.EXE/6DEC"
+msgid "コマンドの選択"
+msgstr "Pick a command"
+
+#, fuzzy
+msgctxt "RPG.EXE/6DFB"
+msgid "アイテムの選択"
+msgstr "Choose an item"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E0A"
+msgid "魔法の選択"
+msgstr "Pick magic"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E15"
+msgid "先頭の主人公キャラを"
+msgstr "Pick the 1st member"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E2A"
+msgid "２番目の主人公キャラを"
+msgstr "Pick the 2nd member"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E41"
+msgid "３番目の主人公キャラを"
+msgstr "Pick the 3rd member"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E58"
+msgid "４番目の主人公キャラを"
+msgstr "Pick the 4th member"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E6F"
+msgid "だれが使いますか？"
+msgstr "Who will use it?"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E82"
+msgid "だれに使いますか？"
+msgstr "Use it on whom?"
+
+#, fuzzy
+msgctxt "RPG.EXE/6E95"
+msgid "装備品の選択"
+msgstr "Choose gear"
+
+#, fuzzy
+msgctxt "RPG.EXE/6EA2"
+msgid "捨てていいですか？"
+msgstr "Throw it away?"
+
+#, fuzzy
+msgctxt "RPG.EXE/6EB5"
+msgid "持物がいっぱいです！{wait}"
+msgstr "Your bag is full!{wait}"
+
+#. menu item 1 of 2 - at most 6 columns
+#, fuzzy
+msgctxt "RPG.EXE/6ECB[0]"
+msgid "はい"
+msgstr "Yes"
+
+#. menu item 2 of 2 - at most 6 columns
+#, fuzzy
+msgctxt "RPG.EXE/6ECB[1]"
+msgid "いいえ"
+msgstr "No"
+
+#. Equip screen slot label, 6 columns.
+#, fuzzy
+msgctxt "RPG.EXE/6ED8"
+msgid "武器／"
+msgstr "Weap: "
+
+#. Equip slot label, 6 columns.
+#, fuzzy
+msgctxt "RPG.EXE/6EDF"
+msgid "　鎧／"
+msgstr "Armor:"
+
+#. Equip slot label, 6 columns.
+#, fuzzy
+msgctxt "RPG.EXE/6EE6"
+msgid "　盾／"
+msgstr "Shld: "
+
+#. Equip slot label, 6 columns.
+#, fuzzy
+msgctxt "RPG.EXE/6EED"
+msgid "　兜／"
+msgstr "Helm: "
+
+#. Equip slot label, 6 columns.
+#, fuzzy
+msgctxt "RPG.EXE/6EF4"
+msgid "指輪／"
+msgstr "Ring: "
+
+#. Status ailment tag, 4 columns: poison
+#, fuzzy
+msgctxt "RPG.EXE/6F02"
+msgid "　毒"
+msgstr " Psn"
+
+#. ailment tag, 4 columns: magic sealed
+#, fuzzy
+msgctxt "RPG.EXE/6F07"
+msgid "　封"
+msgstr " Sil"
+
+#. ailment tag, 4 columns: confused
+#, fuzzy
+msgctxt "RPG.EXE/6F0C"
+msgid "　乱"
+msgstr " Cnf"
+
+#. ailment tag, 4 columns: asleep
+#, fuzzy
+msgctxt "RPG.EXE/6F11"
+msgid "　眠"
+msgstr " Slp"
+
+#. ailment tag, 4 columns: paralysed
+#, fuzzy
+msgctxt "RPG.EXE/6F16"
+msgid "　ﾏﾋ"
+msgstr " Par"
+
+#. Status (Attack). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 4 characters before the %-4d.
+#, fuzzy
+msgctxt "RPG.EXE/6F4A"
+msgid "攻撃力…%-4d"
+msgstr "ATK:%-4d"
+
+#. Status (Defense). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 4 characters before the %-4d.
+#, fuzzy
+msgctxt "RPG.EXE/6F57"
+msgid "防御力…%-4d"
+msgstr "DEF:%-4d"
+
+#. Status (Strength). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 2 characters before the %-4d.
+#, fuzzy
+msgctxt "RPG.EXE/6F64"
+msgid "力…%-4d"
+msgstr "S:%-4d"
+
+#. Status (Vitality). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 3 characters before the %-4d.
+#, fuzzy
+msgctxt "RPG.EXE/6F6D"
+msgid "体力…%-4d"
+msgstr "VT:%-4d"
+
+#. Status (Intelligence). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 3 characters before the %-4d.
+#, fuzzy
+msgctxt "RPG.EXE/6F78"
+msgid "知力…%-4d"
+msgstr "IN:%-4d"
+
+#. Status (Speed). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 5 characters before the %-4d.
+#, fuzzy
+msgctxt "RPG.EXE/6F83"
+msgid "すばやさ…%-4d"
+msgstr "SPD: %-4d"
+
+#. Status (Luck). Status screen, printf format: keep the %-4d. This screen draws formatted text DOUBLE WIDTH, and the number must start where it did originally, so use at most 2 characters before the %-4d.
+#, fuzzy
+msgctxt "RPG.EXE/6F92"
+msgid "運…%-4d"
+msgstr "L:%-4d"
+
+#, fuzzy
+msgctxt "RPG.EXE/6F9B"
+msgid "レベル%2d"
+msgstr "Level %2d"
+
+#, fuzzy
+msgctxt "RPG.EXE/6FC5"
+msgid "経験値"
+msgstr "EXP"
+
+#, fuzzy
+msgctxt "RPG.EXE/6FD3"
+msgid "次のレベルまで　あと"
+msgstr "To next level:"
+
+msgctxt "RPG.EXE/6FEF"
+msgid "※"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPG.EXE/6FFE"
+msgid "装備できません"
+msgstr "Can't equip it"
+
+#, fuzzy
+msgctxt "RPG.EXE/700D"
+msgid "魔法は使えません"
+msgstr "Can't use magic"
+
+#, fuzzy
+msgctxt "RPG.EXE/7025"
+msgid "ＭＰが足りない！{wait}"
+msgstr "Not enough MP!{wait}"
+
+#. NAME = a character/enemy name printed just before this. Field menu. Full message: NAME + this + MAGIC + [703B].
+#, fuzzy
+msgctxt "RPG.EXE/7037"
+msgid ""
+"は\n"
+msgstr ""
+" casts\n"
+
+#. Printed right after a magic name (see 7037).
+#, fuzzy
+msgctxt "RPG.EXE/703B"
+msgid ""
+"の魔法を唱えた！\n"
+msgstr ""
+"!\n"
+
+#. Printed right after an item name: NAME + [は#] + ITEM + this.
+#, fuzzy
+msgctxt "RPG.EXE/704D"
+msgid ""
+"を使った！\n"
+msgstr ""
+" is used!\n"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7062].
+#, fuzzy
+msgctxt "RPG.EXE/7059"
+msgid "のＨＰが"
+msgstr " recovers "
+
+#. Follows a number (HP amount).
+#, fuzzy
+msgctxt "RPG.EXE/7062"
+msgid " p.回復した！{wait}"
+msgstr " HP!{wait}"
+
+#. this + NUMBER + [7080] (whole party healed).
+#, fuzzy
+msgctxt "RPG.EXE/7071"
+msgid "ＨＰがそれぞれ"
+msgstr "Everyone recovers "
+
+#, fuzzy
+msgctxt "RPG.EXE/7080"
+msgid " p.ずつ回復した！{wait}"
+msgstr " HP!{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7093"
+msgid "が生き返った！{wait}"
+msgstr " is revived!{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/70A3"
+msgid ""
+"の毒が消えた！\n"
+msgstr ""
+"'s poison is cured!\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/70B3"
+msgid ""
+"の麻痺が回復した！\n"
+msgstr ""
+"'s paralysis is cured!\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/70C9"
+msgid "しかし、何も起きなかった！{wait}"
+msgstr "But nothing happened!{wait}"
+
+msgctxt "RPG.EXE/70EB"
+msgid " ×%-2d"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPG.EXE/70F3"
+msgid ""
+"を使った！\n"
+msgstr ""
+" is used!\n"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7108].
+#, fuzzy
+msgctxt "RPG.EXE/70FF"
+msgid "のＨＰが"
+msgstr " recovers "
+
+#, fuzzy
+msgctxt "RPG.EXE/7108"
+msgid " p.回復した！{wait}"
+msgstr " HP!{wait}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7120] (MP).
+#, fuzzy
+msgctxt "RPG.EXE/7117"
+msgid "のＭＰが"
+msgstr " recovers "
+
+#. Follows a number (MP amount).
+#, fuzzy
+msgctxt "RPG.EXE/7120"
+msgid " p.回復した！{wait}"
+msgstr " MP!{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/712F"
+msgid "の毒が消えた！{wait}"
+msgstr "'s poison is cured!{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/713F"
+msgid "の麻痺が回復した！{wait}"
+msgstr "'s paralysis is cured!{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7153"
+msgid "しかし、何も起きなかった！{wait}"
+msgstr "But nothing happened!{wait}"
+
+#. menu item 1 of 2 - at most 6 columns
+#, fuzzy
+msgctxt "RPG.EXE/716F[0]"
+msgid "使う"
+msgstr "Use"
+
+#. menu item 2 of 2 - at most 6 columns
+#, fuzzy
+msgctxt "RPG.EXE/716F[1]"
+msgid "捨てる"
+msgstr "Drop"
+
+#, fuzzy
+msgctxt "RPG.EXE/717C"
+msgid "を捨てました。"
+msgstr " thrown away."
+
+#. menu item 1 of 2 - at most 12 columns
+#, fuzzy
+msgctxt "RPG.EXE/718B[0]"
+msgid "装備する"
+msgstr "Equip"
+
+#. menu item 2 of 2 - at most 12 columns
+#, fuzzy
+msgctxt "RPG.EXE/718B[1]"
+msgid "装備をはずす"
+msgstr "Remove"
+
+#, fuzzy
+msgctxt "RPG.EXE/71A4"
+msgid ""
+"★オンになっているゲーム進行スイッチ‥‥\n"
+msgstr ""
+"★ Story flags currently ON...\n"
+
+#. Debug flag monitor, printf format. Do NOT use the # character (it means newline).
+#, fuzzy
+msgctxt "RPG.EXE/71CE"
+msgid "[%3d番] "
+msgstr "[ %3d ] "
+
+#. menu item 1 of 4 - at most 16 columns
+#, fuzzy
+msgctxt "RPG.EXE/71D7[0]"
+msgid "ゲームを保存する"
+msgstr "Save Game"
+
+#. menu item 2 of 4 - at most 16 columns
+#, fuzzy
+msgctxt "RPG.EXE/71D7[1]"
+msgid "ゲームを読み込む"
+msgstr "Load Game"
+
+#. menu item 3 of 4 - at most 16 columns
+#, fuzzy
+msgctxt "RPG.EXE/71D7[2]"
+msgid "終了する"
+msgstr "Quit"
+
+#. menu item 4 of 4 - at most 16 columns
+#, fuzzy
+msgctxt "RPG.EXE/71D7[3]"
+msgid "ゲーム進行モニタ"
+msgstr "Story Flags"
+
+#. Party lands a critical: this + [7312].
+#, fuzzy
+msgctxt "RPG.EXE/7308"
+msgid "会心"
+msgstr "Critical"
+
+#. Enemy lands a critical: this + [7312].
+#, fuzzy
+msgctxt "RPG.EXE/730D"
+msgid "痛恨"
+msgstr "Painful"
+
+#. See 7308/730D.
+#, fuzzy
+msgctxt "RPG.EXE/7312"
+msgid ""
+"の一撃！\n"
+msgstr ""
+" hit!\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/731C"
+msgid "は隠れている‥‥{pause}"
+msgstr " is hiding...{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/732E"
+msgid "は気絶してしまった‥‥"
+msgstr " has fainted..."
+
+#, fuzzy
+msgctxt "RPG.EXE/7345"
+msgid "を倒した！"
+msgstr " is defeated!"
+
+#, fuzzy
+msgctxt "RPG.EXE/7350"
+msgid ""
+"ＭＰが足りない！\n"
+"{pause}"
+msgstr ""
+"Not enough MP!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7363"
+msgid ""
+"しかし、魔法は封じられている！\n"
+"{pause}"
+msgstr ""
+"But magic is sealed!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7384"
+msgid ""
+"には効かなかった！\n"
+"{pause}"
+msgstr ""
+" is unaffected!\n"
+"{pause}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + ( [739C]  or  NUMBER + [73B0] ).
+#, fuzzy
+msgctxt "RPG.EXE/7399"
+msgid "は"
+msgstr ": "
+
+#. NAME + [7399] + this.
+#, fuzzy
+msgctxt "RPG.EXE/739C"
+msgid ""
+"攻撃をかわした！\n"
+"{pause}{pause}"
+msgstr ""
+"dodged the attack!\n"
+"{pause}{pause}"
+
+#. NAME + [7399] + NUMBER + this.
+#, fuzzy
+msgctxt "RPG.EXE/73B0"
+msgid ""
+" p.のダメージ！\n"
+msgstr ""
+" damage!\n"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + one of [73C4] / [73D0] / [73E0] (target unavailable).
+#, fuzzy
+msgctxt "RPG.EXE/73C1"
+msgid "は"
+msgstr " "
+
+#, fuzzy
+msgctxt "RPG.EXE/73C4"
+msgid ""
+"いない‥‥\n"
+msgstr ""
+"is not there...\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/73D0"
+msgid ""
+"死んでいる‥‥\n"
+msgstr ""
+"is dead...\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/73E0"
+msgid "気絶している‥‥"
+msgstr "is out cold..."
+
+#. NAME = a character/enemy name printed just before this. Battle. NAME + this + MAGIC + [73F7].
+#, fuzzy
+msgctxt "RPG.EXE/73F3"
+msgid ""
+"は\n"
+msgstr ""
+" casts\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/73F7"
+msgid ""
+"の魔法を唱えた！\n"
+msgstr ""
+"!\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/7409"
+msgid "しかし、失敗してしまった！{pause}"
+msgstr "But it failed!{pause}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [742E].
+#, fuzzy
+msgctxt "RPG.EXE/7425"
+msgid "のＨＰが"
+msgstr " recovers "
+
+#, fuzzy
+msgctxt "RPG.EXE/742E"
+msgid " p.回復した！{pause}"
+msgstr " HP!{pause}"
+
+#. this + NUMBER + [744C].
+#, fuzzy
+msgctxt "RPG.EXE/743D"
+msgid "ＨＰがそれぞれ"
+msgstr "Everyone recovers "
+
+#, fuzzy
+msgctxt "RPG.EXE/744C"
+msgid ""
+" p.ずつ回復した！\n"
+"{pause}"
+msgstr ""
+" HP!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7460"
+msgid "消えてしまった‥‥{pause}"
+msgstr "It faded away...{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7474"
+msgid "が生き返った！{pause}"
+msgstr " is revived!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7484"
+msgid ""
+"の毒が消えた！\n"
+"{pause}"
+msgstr ""
+"'s poison is cured!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7495"
+msgid ""
+"の麻痺が回復した！\n"
+"{pause}"
+msgstr ""
+"'s paralysis is cured!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/74AA"
+msgid "は毒に侵された！{pause}"
+msgstr " is poisoned!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/74BC"
+msgid "は麻痺してしまった！{pause}"
+msgstr " is paralyzed!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/74D2"
+msgid "は魔法を封じられた！{pause}"
+msgstr "'s magic is sealed!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/74E8"
+msgid "は正気に戻った！{pause}"
+msgstr " snaps out of it!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/74FA"
+msgid "は混乱してしまった！{pause}"
+msgstr " is confused!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7510"
+msgid "は眠ってしまった！{pause}"
+msgstr " falls asleep!{pause}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + [7541] + NUMBER + [7545] (stat up).
+#, fuzzy
+msgctxt "RPG.EXE/7524"
+msgid "の攻撃力"
+msgstr "'s Attack"
+
+#. see 7524
+#, fuzzy
+msgctxt "RPG.EXE/752D"
+msgid "の防御力"
+msgstr "'s Defense"
+
+#. see 7524
+#, fuzzy
+msgctxt "RPG.EXE/7536"
+msgid "のすばやさ"
+msgstr "'s Speed"
+
+#. see 7524
+#, fuzzy
+msgctxt "RPG.EXE/7541"
+msgid ""
+"が\n"
+msgstr ""
+"\n"
+"rises by "
+
+#. see 7524
+#, fuzzy
+msgctxt "RPG.EXE/7545"
+msgid " p.上がった！{pause}"
+msgstr "!{pause}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + [7571] + NUMBER + [7575] (stat down).
+#, fuzzy
+msgctxt "RPG.EXE/7554"
+msgid "の攻撃力"
+msgstr "'s Attack"
+
+#. see 7554
+#, fuzzy
+msgctxt "RPG.EXE/755D"
+msgid "の防御力"
+msgstr "'s Defense"
+
+#. see 7554
+#, fuzzy
+msgctxt "RPG.EXE/7566"
+msgid "のすばやさ"
+msgstr "'s Speed"
+
+#. see 7554
+#, fuzzy
+msgctxt "RPG.EXE/7571"
+msgid ""
+"が\n"
+msgstr ""
+"\n"
+"falls by "
+
+#. see 7554
+#, fuzzy
+msgctxt "RPG.EXE/7575"
+msgid " p.下がった！{pause}"
+msgstr "!{pause}"
+
+#. NAME = a character/enemy name printed just before this. Battle. NAME + this + ITEM + [7588].
+#, fuzzy
+msgctxt "RPG.EXE/7584"
+msgid ""
+"は\n"
+msgstr ""
+" uses\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/7588"
+msgid ""
+"を使った！\n"
+msgstr ""
+"!\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/7594"
+msgid "を持っていない！{pause}"
+msgstr " - none left!{pause}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [75AF].
+#, fuzzy
+msgctxt "RPG.EXE/75A6"
+msgid "のＨＰが"
+msgstr " recovers "
+
+#, fuzzy
+msgctxt "RPG.EXE/75AF"
+msgid " p.回復した！{pause}"
+msgstr " HP!{pause}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [75C7] (MP).
+#, fuzzy
+msgctxt "RPG.EXE/75BE"
+msgid "のＭＰが"
+msgstr " recovers "
+
+#, fuzzy
+msgctxt "RPG.EXE/75C7"
+msgid " p.回復した！{pause}"
+msgstr " MP!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/75D6"
+msgid "の毒が消えた！{pause}"
+msgstr "'s poison is cured!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/75E6"
+msgid "の麻痺が回復した！{pause}"
+msgstr "'s paralysis is cured!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/75FA"
+msgid "しかし、何も起きなかった！{pause}"
+msgstr "But nothing happened!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7616"
+msgid ""
+"の攻撃！\n"
+"{pause}"
+msgstr ""
+" attacks!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7621"
+msgid "は身構えた！{pause}"
+msgstr " braces for it!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/762F"
+msgid "は身を隠した！{pause}"
+msgstr " hides!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/763F"
+msgid "は逃げ出した！{pause}"
+msgstr " runs away!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/764F"
+msgid ""
+"が突撃してきた！\n"
+"{pause}"
+msgstr ""
+" charges!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7662"
+msgid ""
+"の反撃！\n"
+"{pause}"
+msgstr ""
+" counterattacks!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/766D"
+msgid ""
+"が自爆した！\n"
+"{pause}"
+msgstr ""
+" self-destructs!\n"
+"{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/767C"
+msgid ""
+"の攻撃！\n"
+"{pause}"
+msgstr ""
+" attacks!\n"
+"{pause}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [7690].
+#, fuzzy
+msgctxt "RPG.EXE/7687"
+msgid "はＭＰを"
+msgstr " loses "
+
+#, fuzzy
+msgctxt "RPG.EXE/7690"
+msgid " p.奪われた！{pause}"
+msgstr " MP!{pause}"
+
+#, fuzzy
+msgctxt "RPG.EXE/769F"
+msgid "は　じっとしている‥‥{pause}"
+msgstr " is standing still...{pause}"
+
+msgctxt "RPG.EXE/76B7"
+msgid "← Page %-2d→"
+msgstr ""
+
+msgctxt "RPG.EXE/76C6"
+msgid " ×%2d"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPG.EXE/76CD"
+msgid "魔法は使えません"
+msgstr "Can't use magic"
+
+#. menu item 1 of 5 - at most 8 columns
+#, fuzzy
+msgctxt "RPG.EXE/76E5[0]"
+msgid "戦う"
+msgstr "Fight"
+
+#. menu item 2 of 5 - at most 8 columns
+#, fuzzy
+msgctxt "RPG.EXE/76E5[1]"
+msgid "魔法"
+msgstr "Magic"
+
+#. menu item 3 of 5 - at most 8 columns
+#, fuzzy
+msgctxt "RPG.EXE/76E5[2]"
+msgid "アイテム"
+msgstr "Item"
+
+#. menu item 4 of 5 - at most 8 columns
+#, fuzzy
+msgctxt "RPG.EXE/76E5[3]"
+msgid "逃げる"
+msgstr "Run"
+
+#. menu item 5 of 5 - at most 8 columns
+#, fuzzy
+msgctxt "RPG.EXE/76E5[4]"
+msgid "自動戦闘"
+msgstr "Auto"
+
+#, fuzzy
+msgctxt "RPG.EXE/770E"
+msgid "敵と遭遇した！"
+msgstr "Enemies appear!"
+
+#, fuzzy
+msgctxt "RPG.EXE/771D"
+msgid "は目を覚ました！{pause}{clear}"
+msgstr " wakes up!{pause}{clear}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7730"
+msgid "は正気に戻った！{pause}{clear}"
+msgstr " snaps out of it!{pause}{clear}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7743"
+msgid "は逃げ出した！{wait}"
+msgstr " ran away!{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7755"
+msgid "全滅してしまった‥‥{wait}"
+msgstr "The party was wiped out...{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/776B"
+msgid ""
+"敵を全滅させた！\n"
+msgstr ""
+"The enemies are defeated!\n"
+
+#. this + NUMBER + [778F].
+#, fuzzy
+msgctxt "RPG.EXE/777D"
+msgid "経験値をそれぞれ "
+msgstr "Everyone gains "
+
+#, fuzzy
+msgctxt "RPG.EXE/778F"
+msgid ""
+"p.獲得！\n"
+msgstr ""
+" EXP!\n"
+
+#. this + NUMBER + [77A1].
+#, fuzzy
+msgctxt "RPG.EXE/7799"
+msgid "お金を "
+msgstr "Got "
+
+#, fuzzy
+msgctxt "RPG.EXE/77A1"
+msgid " 手に入れた！{wait}"
+msgstr " G!{wait}"
+
+#. NAME = a character/enemy name printed just before this. NAME + this + NUMBER + [77B9].
+#, fuzzy
+msgctxt "RPG.EXE/77B0"
+msgid "はレベル"
+msgstr " reached level "
+
+#, fuzzy
+msgctxt "RPG.EXE/77B9"
+msgid "になった！{wait}"
+msgstr "!{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/77C5"
+msgid "を見つけた！{pause}{clear}"
+msgstr " found!{pause}{clear}"
+
+#, fuzzy
+msgctxt "RPG.EXE/77D4"
+msgid "が生き返った！{pause}{clear}"
+msgstr " is revived!{pause}{clear}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7C5D"
+msgid "お金が足りません。{wait}"
+msgstr "Not enough money.{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7C71"
+msgid "持物がいっぱいです。{wait}"
+msgstr "Your bag is full.{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7C87"
+msgid "全滅してしまった‥‥{wait}"
+msgstr "The party was wiped out...{wait}"
+
+msgctxt "RPG.EXE/7C9D"
+msgid "← Page %-2d→"
+msgstr ""
+
+msgctxt "RPG.EXE/7CAC"
+msgid " ×%2d"
+msgstr ""
+
+#. menu item 1 of 2 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/7CB3[0]"
+msgid "品物を買う"
+msgstr "Buy"
+
+#. menu item 2 of 2 - at most 10 columns
+#, fuzzy
+msgctxt "RPG.EXE/7CB3[1]"
+msgid "持物を売る"
+msgstr "Sell"
+
+#, fuzzy
+msgctxt "RPG.EXE/7CCC"
+msgid "を購入しました{wait}"
+msgstr " purchased.{wait}"
+
+#, fuzzy
+msgctxt "RPG.EXE/7CDC"
+msgid "この品物は買い取れません。{wait}"
+msgstr "I can't buy that item.{wait}"
+
+#. Shop, selling. this + PRICE + [7CFF].
+#, fuzzy
+msgctxt "RPG.EXE/7CF8"
+msgid "ひとつ"
+msgstr "That's "
+
+#, fuzzy
+msgctxt "RPG.EXE/7CFF"
+msgid ""
+" になります。\n"
+"よろしいですか？\n"
+msgstr ""
+" each.\n"
+"Is that OK?\n"
+
+#, fuzzy
+msgctxt "RPG.EXE/7D1F"
+msgid "を売りました{wait}"
+msgstr " sold.{wait}"
+
+#. Inn. this + PRICE + [7D39]. Then a Yes/No menu appears.
+#, fuzzy
+msgctxt "RPG.EXE/7D2D"
+msgid ""
+"\n"
+"宿泊料金は"
+msgstr ""
+"\n"
+"One night costs "
+
+#, fuzzy
+msgctxt "RPG.EXE/7D39"
+msgid " です。泊まりますか？"
+msgstr " G. Stay?"
+
+#, fuzzy
+msgctxt "RPG.EXE/7DB8"
+msgid "準備ができたらキーを押してください"
+msgstr "Press a key when ready"
+
+#, fuzzy
+msgctxt "RPG.EXE/7DDB"
+msgid "正しいディスクをセットしてください"
+msgstr "Please insert the correct disk"
+
+#, fuzzy
+msgctxt "RPG.EXE/7DFE"
+msgid "書き込み禁止を解除してください"
+msgstr "Please remove write protection"
+
+#, fuzzy
+msgctxt "RPG.EXE/7E1D"
+msgid "ディスクをセットしてください"
+msgstr "Please insert a disk"
+

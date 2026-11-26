@@ -1,0 +1,685 @@
+# IVENT06.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 17, page 0 | screen 338, cell (7,8)
+#, fuzzy
+msgctxt "IVENT06/e017/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　休みます。　全回復！"
+msgstr ""
+"\n"
+"{center}You take a rest. Fully restored!"
+
+#. event 26, page 0 | screen 305, cell (3,9)
+#, fuzzy
+msgctxt "IVENT06/e026/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　オリゴフルーツを見つけた！"
+msgstr ""
+"\n"
+"{center}Found an Oligo Fruit!"
+
+#. event 26, page 0 | screen 305, cell (3,9)
+#, fuzzy
+msgctxt "IVENT06/e026/p0/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　メンタルフルーツを見つけた！"
+msgstr ""
+"\n"
+"{center}Found a Mental Fruit!"
+
+#. event 67, page 0 | screen 278, cell (13,6)
+#, fuzzy
+msgctxt "IVENT06/e067/p0/t00"
+msgid "花子　：よっしゃー！　はなこー！"
+msgstr "Hanako: All riiight! Hanako!"
+
+#. event 67, page 0 | screen 278, cell (13,6)
+#, fuzzy
+msgctxt "IVENT06/e067/p0/t01"
+msgid "花子　：ドンドン下までつっこめば根岸が　　　　　いるよ。　けど、結構強いよ。　　　　　　全員レベル１０ぐらいでないと。"
+msgstr "Hanako: If you keep charging down and down, Negishi is there. But he's pretty strong. Everyone should be about level 10."
+
+#. event 67, page 0 | screen 278, cell (13,6)
+#, fuzzy
+msgctxt "IVENT06/e067/p0/t02"
+msgid "花子　：ガンバレ！"
+msgstr "Hanako: Good luck!"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t00"
+msgid "若月　：ああ、青木君、大丈夫？"
+msgstr "Wakatsuki: Ah, Aoki, are you all right?"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t01"
+msgid "美広　：これから・・・どうするんですか？"
+msgstr "Bihiro: What... are we going to do now?"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t02"
+msgid "若月　：起きてそうそう悪いケド、用意　　　　　　して！"
+msgstr "Wakatsuki: Sorry to ask the moment you're awake, but get ready!"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t03"
+msgid "学長　：階段の方は崩れてるから、工事中の　　　　階段を使って行きましょう。"
+msgstr "Principal: The stairs have collapsed, so let's take the staircase that's under construction."
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t04"
+msgid "美広　：・・・根岸・・・ですか？"
+msgstr "Bihiro: ...Is it... Negishi?"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t05"
+msgid "学長　：つい、この前まで私達二人の霊能力　　　　では力不足で根岸を除霊できな　　　　　　かったんだけど・・・。"
+msgstr "Principal: Until just recently, the psychic power of the two of us wasn't enough to exorcise Negishi, but..."
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t06"
+msgid "若月　：今なら！　できる！！　爆発の　　　　　　おかげで向こう側にいた悪霊は建物　　　　ごと消し飛んだり強制除霊されたり　　　　したわ！"
+msgstr "Wakatsuki: Now! We can!! Thanks to the explosion, the evil spirits on the far side were blown away building and all, or forcibly exorcised!"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t07"
+msgid "若月　：その分、根岸はよわくなっている　　　　　はず！　それに貴方達の”突然　　　　　　使えるようになった霊能力”はもう　　　　ピークを過ぎてるわ！"
+msgstr "Wakatsuki: Negishi should be that much weaker! And your \"psychic power that suddenly appeared\" is already past its peak!"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t08"
+msgid "若月　：今、やるしかないのよ！！"
+msgstr "Wakatsuki: It's now or never!!"
+
+#. event 76, page 1 | screen 128, cell (5,2)
+#, fuzzy
+msgctxt "IVENT06/e076/p1/t09"
+msgid "　　　　　　　　　　　　　　　　　　　　（学長と若月みおみが仲間になりました）"
+msgstr ""
+"\n"
+"(The Principal and Miomi Wakatsuki joined)"
+
+#. event 86, page 0 | screen 309, cell (5,5)
+#, fuzzy
+msgctxt "IVENT06/e086/p0/t00"
+msgid "若月　：ほこりっぽいけど、通れそうね。　　　　　青木君、これ、どかせる？"
+msgstr "Wakatsuki: It's dusty, but it looks passable. Aoki, can you move this?"
+
+#. event 86, page 0 | screen 309, cell (5,5)
+#, fuzzy
+msgctxt "IVENT06/e086/p0/t01"
+msgid "青木　：おりゃあ！"
+msgstr "Aoki: Hrraah!"
+
+#. event 86, page 1 | screen 128, cell (9,2)
+#, fuzzy
+msgctxt "IVENT06/e086/p1/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　屋上にでるドアにはいつも鍵が締めてある。"
+msgstr ""
+"\n"
+"The door to the roof is always kept locked."
+
+#. event 87, page 0 | screen 309, cell (6,5)
+#, fuzzy
+msgctxt "IVENT06/e087/p0/t00"
+msgid "若月　：ほこりっぽいけど、通れそうね。　　　　　青木君、これ、どかせる？"
+msgstr "Wakatsuki: It's dusty, but it looks passable. Aoki, can you move this?"
+
+#. event 87, page 0 | screen 309, cell (6,5)
+#, fuzzy
+msgctxt "IVENT06/e087/p0/t01"
+msgid "青木　：おりゃあ！"
+msgstr "Aoki: Hrraah!"
+
+#. event 88, page 0 | screen 309, cell (7,5)
+#, fuzzy
+msgctxt "IVENT06/e088/p0/t00"
+msgid "若月　：ほこりっぽいけど、通れそうね。　　　　　青木君、これ、どかせる？"
+msgstr "Wakatsuki: It's dusty, but it looks passable. Aoki, can you move this?"
+
+#. event 88, page 0 | screen 309, cell (7,5)
+#, fuzzy
+msgctxt "IVENT06/e088/p0/t01"
+msgid "青木　：おりゃあ！"
+msgstr "Aoki: Hrraah!"
+
+#. event 89, page 0 | screen 339, cell (8,6)
+#, fuzzy
+msgctxt "IVENT06/e089/p0/t00"
+msgid "餓鬼　：高い所は苦手じゃ・・・"
+msgstr "Hungry Ghost: I don't like high places..."
+
+#. event 134, page 0 | screen 375, cell (7,8)
+#, fuzzy
+msgctxt "IVENT06/e134/p0/t00"
+msgid "花子　：ぎーがー！　花子よ！"
+msgstr "Hanako: Gii-gaa! It's Hanako!"
+
+#. event 134, page 0 | screen 375, cell (7,8)
+#, fuzzy
+msgctxt "IVENT06/e134/p0/t01"
+msgid "花子　：根岸の祖霊っても、時間がたつに　　　　　つれて輪郭がボヤけてるから　　　　　　　人間の形なんかしてないよ！"
+msgstr "Hanako: They say Negishi's ancestral spirit, but its outline has blurred with time, so it isn't shaped like a human at all!"
+
+#. event 134, page 0 | screen 375, cell (7,8)
+#, fuzzy
+msgctxt "IVENT06/e134/p0/t02"
+msgid "花子　：まぁ、幽霊ってのは人間の格好　　　　　　なんかする方が珍しいけどさ！"
+msgstr "Hanako: Well, it's rarer for a ghost to look like a person anyway!"
+
+#. event 135, page 0 | screen 406, cell (6,5)
+#, fuzzy
+msgctxt "IVENT06/e135/p0/t00"
+msgid "青木　：おりゃあ！"
+msgstr "Aoki: Hrraah!"
+
+#. event 136, page 0 | screen 406, cell (7,5)
+#, fuzzy
+msgctxt "IVENT06/e136/p0/t00"
+msgid "青木　：おりゃあ！"
+msgstr "Aoki: Hrraah!"
+
+#. event 136, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT06/e136/p1/t00"
+msgid "青木　：下は２階か・・うわ！"
+msgstr "Aoki: Below is the 2nd floor.. whoa!"
+
+#. event 136, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT06/e136/p1/t01"
+msgid "美広　：２階が！　ない！？"
+msgstr "Bihiro: The 2nd floor! It's gone!?"
+
+#. event 136, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT06/e136/p1/t02"
+msgid "青木　：いってー！"
+msgstr "Aoki: Owww!"
+
+#. event 136, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT06/e136/p1/t03"
+msgid "美広　：２階が・・・なかった・・・"
+msgstr "Bihiro: The 2nd floor... wasn't there..."
+
+#. event 136, page 1 | screen 128, cell (10,2)
+#, fuzzy
+msgctxt "IVENT06/e136/p1/t04"
+msgid "若月　：４階と３階に潰されたのかしら・・　　　　・・・・？"
+msgstr "Wakatsuki: Was it crushed by the 4th and 3rd floors, I wonder.....?"
+
+#. event 139, page 0 | screen 438, cell (8,6)
+#, fuzzy
+msgctxt "IVENT06/e139/p0/t00"
+msgid "餓鬼　：邪魔だ！　消えろ！"
+msgstr "Hungry Ghost: Out of my way! Begone!"
+
+#. event 146, page 0 | screen 467, cell (5,5)
+#, fuzzy
+msgctxt "IVENT06/e146/p0/t00"
+msgid "青木　：２階がない・・・！？"
+msgstr "Aoki: There's no 2nd floor...!?"
+
+#. event 147, page 0 | screen 467, cell (6,5)
+#, fuzzy
+msgctxt "IVENT06/e147/p0/t00"
+msgid "青木　：２階がない・・・！？"
+msgstr "Aoki: There's no 2nd floor...!?"
+
+#. event 148, page 0 | screen 467, cell (12,5)
+#, fuzzy
+msgctxt "IVENT06/e148/p0/t00"
+msgid "若月　：崩れかけてるわ！　離れて！"
+msgstr "Wakatsuki: It's about to collapse! Get away!"
+
+#. event 149, page 0 | screen 467, cell (13,5)
+#, fuzzy
+msgctxt "IVENT06/e149/p0/t00"
+msgid "若月　：崩れかけてるわ！　離れて！"
+msgstr "Wakatsuki: It's about to collapse! Get away!"
+
+#. event 150, page 0 | screen 467, cell (14,6)
+#, fuzzy
+msgctxt "IVENT06/e150/p0/t00"
+msgid "若月　：崩れかけてるわ！　離れて！"
+msgstr "Wakatsuki: It's about to collapse! Get away!"
+
+#. event 151, page 0 | screen 467, cell (11,4)
+#, fuzzy
+msgctxt "IVENT06/e151/p0/t00"
+msgid "若月　：崩れかけてるわ！　離れて！"
+msgstr "Wakatsuki: It's about to collapse! Get away!"
+
+#. event 152, page 0 | screen 467, cell (10,4)
+#, fuzzy
+msgctxt "IVENT06/e152/p0/t00"
+msgid "若月　：崩れかけてるわ！　離れて！"
+msgstr "Wakatsuki: It's about to collapse! Get away!"
+
+#. event 153, page 0 | screen 467, cell (4,7)
+#, fuzzy
+msgctxt "IVENT06/e153/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　押してもなんの反応もない・・・"
+msgstr ""
+"\n"
+"{center}You push it, but nothing happens..."
+
+#. event 159, page 0 | screen 466, cell (17,4)
+#, fuzzy
+msgctxt "IVENT06/e159/p0/t00"
+msgid "若月　：後戻りはできないよ！！　　　　　　　　　根岸はこの先にいるわ！"
+msgstr "Wakatsuki: There's no turning back!! Negishi is just ahead!"
+
+#. event 160, page 0 | screen 466, cell (17,3)
+#, fuzzy
+msgctxt "IVENT06/e160/p0/t00"
+msgid "若月　：後戻りはできないよ！！　　　　　　　　　根岸はこの先にいるわ！"
+msgstr "Wakatsuki: There's no turning back!! Negishi is just ahead!"
+
+#. event 161, page 0 | screen 466, cell (17,2)
+#, fuzzy
+msgctxt "IVENT06/e161/p0/t00"
+msgid "若月　：後戻りはできないよ！！　　　　　　　　　根岸はこの先にいるわ！"
+msgstr "Wakatsuki: There's no turning back!! Negishi is just ahead!"
+
+#. event 162, page 0 | screen 466, cell (17,1)
+#, fuzzy
+msgctxt "IVENT06/e162/p0/t00"
+msgid "若月　：後戻りはできないよ！！　　　　　　　　　根岸はこの先にいるわ！"
+msgstr "Wakatsuki: There's no turning back!! Negishi is just ahead!"
+
+#. event 168, page 0 | screen 465, cell (17,4)
+#, fuzzy
+msgctxt "IVENT06/e168/p0/t00"
+msgid "学長　：・・・いたわ！"
+msgstr "Principal: ...There he is!"
+
+#. event 169, page 0 | screen 465, cell (17,3)
+#, fuzzy
+msgctxt "IVENT06/e169/p0/t00"
+msgid "学長　：・・・いたわ！"
+msgstr "Principal: ...There he is!"
+
+#. event 170, page 0 | screen 465, cell (17,2)
+#, fuzzy
+msgctxt "IVENT06/e170/p0/t00"
+msgid "学長　：・・・いたわ！"
+msgstr "Principal: ...There he is!"
+
+#. event 171, page 0 | screen 465, cell (17,1)
+#, fuzzy
+msgctxt "IVENT06/e171/p0/t00"
+msgid "学長　：・・・いたわ！"
+msgstr "Principal: ...There he is!"
+
+#. event 172, page 0 | screen 465, cell (8,8)
+#, fuzzy
+msgctxt "IVENT06/e172/p0/t00"
+msgid "若月　：凄いわ・・！"
+msgstr "Wakatsuki: Incredible..!"
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t00"
+msgid "若月　：青木君！　美広さん！　準備は　　　　　　いい！？"
+msgstr "Wakatsuki: Aoki! Bihiro! Are you ready!?"
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　根岸の声は、もう音としか聞こえなかった。"
+msgstr ""
+"\n"
+"Negishi's voice could no longer be heard as anything but noise."
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　しかし、すさまじい冷気を通じて　　　　　　　　　　思念は伝わってきた・・・　"
+msgstr ""
+"\n"
+"{center}But through the terrible cold,\n"
+"{center}its thoughts came across..."
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t03"
+msgid "仲間が離れていく、光の方向を目指す者も、闇に残る者もいる、色即是空・空即是色、　色不異空・空不異色・・・・お前が若月家の子孫か・・・・・。"
+msgstr "My comrades are leaving me. Some head for the light, some remain in the dark. Form is emptiness, emptiness is form. Form is no other than emptiness.... So you are the descendant of the Wakatsuki...."
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t04"
+msgid "　　　　　　　　　　　　　　　　　　　　　逃げてばかりの腰ヌケかと思ったが・・・　　　貴様から出向いてくるとは！"
+msgstr ""
+"\n"
+"I took you for a coward who only ever ran... and yet you come to me yourself!"
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t05"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　馬鹿が！"
+msgstr ""
+"\n"
+"{center}Fool!"
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t06"
+msgid "学長　：キャテイキャテイハラキャテイハラ　　　　ソウキャテイボジソワカ・・・"
+msgstr "Principal: Gyatei gyatei haragyatei harasogyatei boji sowaka..."
+
+#. event 186, page 0 | screen 497, cell (9,8)
+#, fuzzy
+msgctxt "IVENT06/e186/p0/t07"
+msgid "若月　：・・・消えない！？"
+msgstr "Wakatsuki: ...It won't vanish!?"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t00"
+msgid "若月　：学長！？"
+msgstr "Wakatsuki: Principal!?"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t01"
+msgid "美広　：消えた・・・"
+msgstr "Bihiro: It vanished..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t02"
+msgid "若月　：・・・学長！"
+msgstr "Wakatsuki: ...Principal!"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t03"
+msgid "美広　：根岸に連れていかれた・・・！？"
+msgstr "Bihiro: Negishi took her away...!?"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t04"
+msgid "若月　：そうか・・・根岸の願い・・・　　　　　　”若月家代々の子孫を苦しめ殺す”　　　　を果たしたから・・・。"
+msgstr "Wakatsuki: I see... because Negishi's wish... \"to torment and kill the descendants of the Wakatsuki for generations\"... has been fulfilled..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t05"
+msgid "美広　：でも、若月さんは・・・？"
+msgstr "Bihiro: But what about you, Wakatsuki...?"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t06"
+msgid "若月　：私は養女だから。　　　　　　　　　　　　籍を抜けば名前も元に戻るわ。　　　　　　そうなれば、もう若月家は絶えて　　　　　根岸の祖霊も若月家の子孫がいなく"
+msgstr "Wakatsuki: I'm adopted. If I leave the family register, my name goes back to what it was. Then the Wakatsuki line ends, and with no Wakatsuki descendants left, Negishi's ancestral spirit"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t07"
+msgid "若月　：なれば、自然消滅・・・"
+msgstr "Wakatsuki: will fade away on its own..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t08"
+msgid "美広　：養女・・・ですか？"
+msgstr "Bihiro: Adopted...?"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t09"
+msgid "何年も前に、根岸たかふみってココの学長をやってた人から頼まれたのよ。　私が調査をしてる内、自分の祖霊を鎮めようとして逆に殺された・・・死体も残らないほど粉々に。"
+msgstr "Years ago, I was asked by a man named Takafumi Negishi, who was principal here. While I was investigating, he tried to pacify his own ancestral spirit and was killed instead... smashed so finely no body was left."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t10"
+msgid "私は自分から若月家の養女になって祖霊を　除霊するチャンスを待っていたのよ・・・。"
+msgstr "I became an adopted daughter of the Wakatsuki of my own accord and waited for a chance to exorcise the ancestral spirit..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t11"
+msgid "でも、多分、爆発は伊達さんの仕業。　　　貴方達を助けたかったんじゃないかなぁ。　祖霊を除霊するだけの爆発だし、校内も半分が吹き飛んだぐらいだから、死体も残って"
+msgstr "But the explosion was probably Date's doing. I think she wanted to save you. It was just enough of a blast to exorcise the ancestral spirit, and it only blew away half the school, so I wonder if there's a body"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t12"
+msgid "るかなぁ・・・まぁ、警察が捜すだろうけど"
+msgstr "left... well, the police will search."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t13"
+msgid "青木　：・・・・・・。"
+msgstr "Aoki: ......"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t14"
+msgid "若月　：今までの霊調査の中でも１位２位を　　　　争う、凄い体験だったわ・・・ふぅ"
+msgstr "Wakatsuki: Of all my ghost investigations, that was one of the top one or two experiences... phew."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t15"
+msgid "青木　：・・・・。"
+msgstr "Aoki: ...."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t16"
+msgid "若月　：本当にご苦労様。　もうなんの心配　　　　もないわ。　まぁ、しばらくは強烈　　　　な霊も集まるだろうけど、数か月で　　　　普通の学校みたいに"
+msgstr "Wakatsuki: Truly, well done. There's nothing more to worry about. Well, strong spirits will gather for a while, but in a few months, like any ordinary school,"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t17"
+msgid "若月　：浮遊霊が動く程度の学校になるわ。　　　　さぁ・・・今・・・朝の５時か。　　　　　さぁ、外へでましょ。"
+msgstr "Wakatsuki: it will be a school with no more than a few wandering spirits. Now... it's... five in the morning. Come on, let's go outside."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t18"
+msgid "美広　：若月さ・・・じゃないや、えっと　　　　　・・・・・"
+msgstr "Bihiro: Wakatsu... no, that's not right, um....."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t19"
+msgid "若月　：んー？　どうしたの？"
+msgstr "Wakatsuki: Mm? What is it?"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t20"
+msgid "美広　：これから、どうするんですか？"
+msgstr "Bihiro: What will you do now?"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t21"
+msgid "若月　：んー、どうしようかなぁ・・・。"
+msgstr "Wakatsuki: Mm, what shall I do..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t22"
+msgid "　　山火事は、雨が消し止めたようで　　　　　青木達が外にでた時は警察、消防隊　　　　霊撮隊や報道陣が集まっていた・・・"
+msgstr "The rain seemed to have put out the forest fire. When Aoki and the others came outside, the police, firefighters, ghost-filming crew and the press had gathered..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t23"
+msgid "　　スッキリ晴れた空は朱色に染まり　　　　　空気は冷たくて心地よい・・・"
+msgstr "The sky had cleared and was dyed vermilion, and the air was cold and pleasant..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t24"
+msgid "　　　　　　　　　　　　　　　　　　　　報道陣に囲まれながら、警察に保護され病院へ向かう青木、美広、若月（？）・・・。　"
+msgstr ""
+"\n"
+"Surrounded by the press, Aoki, Bihiro and Wakatsuki (?) are taken into police care and head for the hospital..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t25"
+msgid "若月寺と根岸霊廟は山火事で完全に焼け落ちていた。　学園も４分の１が大破と判明。　現在、復旧のメドはたっていない。"
+msgstr "Wakatsuki Temple and the Negishi Mausoleum burned down completely in the forest fire. A quarter of the school was found to be wrecked. There is currently no prospect of restoration."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t26"
+msgid "　　　　　　千歳：ちとせ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ガレキの中から遺体で発見。"
+msgstr ""
+"{center}Chitose\n"
+"\n"
+"{center}Found dead in the rubble."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t27"
+msgid "　　　　　　　伊達：だて　　　　　　　　　　　　遺体損傷が著しいが発見。　　　　　　　千歳と折り重なるような形で。"
+msgstr ""
+"{center}Date\n"
+"{center}Found, though the body was badly damaged.\n"
+"{center}Lying as if folded over Chitose."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t28"
+msgid "　　　　　学長：若月きりゆ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　遺体は見つからなかった。"
+msgstr ""
+"{center}Principal: Kiriyu Wakatsuki\n"
+"\n"
+"{center}Her body was never found."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t29"
+msgid "　　　　若月みおみ：本名、不詳　　　　　　　　東北地方の某霊峰の奥の院で　　　　　　　死者のための結婚式を依頼。"
+msgstr ""
+"{center}Miomi Wakatsuki: real name unknown\n"
+"At the inner sanctuary of a certain sacred mountain in Tohoku, she requested a wedding for the dead."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t30"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　千歳と伊達のために"
+msgstr ""
+"\n"
+"{center}For Chitose and Date"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t31"
+msgid "　　　青木：あおき　　美広：びひろ　　　　病院の検査後、霊撮隊のしつこい取材を　　　　受けるハメになったが・・・"
+msgstr ""
+"{center}Aoki    Bihiro\n"
+"After their hospital checkups they were stuck with persistent interviews from the ghost-filming crew, but..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t32"
+msgid "　　　　　　　　　　　　　　　　　　　　　［閉じ込められただけ］・・・と美広。　　［そういうこと］・・・・・・と青木。"
+msgstr ""
+"\n"
+"\"We just got locked in\"... said Bihiro.\n"
+"\"That's all it was\"...... said Aoki."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t33"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　そして、二人は気づいた・・・"
+msgstr ""
+"\n"
+"{center}And then the two of them noticed..."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t34"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　霊能力が少しずつ弱くなり"
+msgstr ""
+"\n"
+"{center}that their psychic power grew weaker,"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t35"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　最後には消えてしまったことに"
+msgstr ""
+"\n"
+"{center}little by little, and at last was gone."
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t36"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　ＳＴＡＦＦ"
+msgstr ""
+"\n"
+"{center}STAFF"
+
+#. event 186, page 1 | screen 128, cell (0,4)
+#, fuzzy
+msgctxt "IVENT06/e186/p1/t37"
+msgid "　　　　　　　総制作　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　渡辺裕司"
+msgstr ""
+"{center}Created by\n"
+"\n"
+"{center}Yuji Watanabe"
+
+#. event 218, page 1 | screen 128, cell (10,4)
+#, fuzzy
+msgctxt "IVENT06/e218/p1/t00"
+msgid "餓鬼　：・・・お前らか？"
+msgstr "Hungry Ghost: ...Is it you?"
+
+#. event 218, page 1 | screen 128, cell (10,4)
+#, fuzzy
+msgctxt "IVENT06/e218/p1/t01"
+msgid "餓鬼　：・・・お前らか？　最近、俺達を　　　　　やたらに落とす者は。"
+msgstr "Hungry Ghost: ...Is it you? The ones who've been striking us down left and right lately."
+
+#. event 218, page 1 | screen 128, cell (10,4)
+#, fuzzy
+msgctxt "IVENT06/e218/p1/t02"
+msgid "餓鬼　：ここまで来た以上、今までのよう　　　　　には・・・いかないぞ！！"
+msgstr "Hungry Ghost: Now that you've come this far, it won't go... the way it has until now!!"
+
+#. event 218, page 1 | screen 128, cell (10,4)
+#, fuzzy
+msgctxt "IVENT06/e218/p1/t03"
+msgid "餓鬼　：お・・・うぅ、やるじゃねーか！"
+msgstr "Hungry Ghost: O... uuh, not bad!"
+
+#. event 223, page 0 | screen 466, cell (9,6)
+#, fuzzy
+msgctxt "IVENT06/e223/p0/t00"
+msgid "餓鬼　：うおぉおぉぉ・・・"
+msgstr "Hungry Ghost: Uoooooh..."
+
+#. event 223, page 0 | screen 466, cell (9,6)
+#, fuzzy
+msgctxt "IVENT06/e223/p0/t01"
+msgid "餓鬼　：まだ、無理だったか・・・無念！"
+msgstr "Hungry Ghost: So it was still too soon... what a shame!"
+

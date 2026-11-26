@@ -1,0 +1,1471 @@
+# IVENT09.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 4, page 0 | screen 652, cell (3,9)
+#, fuzzy
+msgctxt "IVENT09/e004/p0/t00"
+msgid "　　　　－－調理カウンター－－　　　　　　　　　　食べものが置いてある。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　はい・・・体力回復"
+msgstr ""
+"{center}-- Kitchen Counter --\n"
+"There's some food set out here.\n"
+"\n"
+"{center}Yes ... restore HP"
+
+#. event 4, page 0 | screen 652, cell (3,9)
+#, fuzzy
+msgctxt "IVENT09/e004/p0/t01"
+msgid "　　　　－－調理カウンター－－　　　　　　”アイテム”として持っていきますか？"
+msgstr ""
+"{center}-- Kitchen Counter --\n"
+"Take some with you as \"items\"?"
+
+#. event 4, page 0 | screen 652, cell (3,9)
+#, fuzzy
+msgctxt "IVENT09/e004/p0/t02"
+msgid "　体力回復アイテム”オリゴフルーツ”　　　魔力回復アイテム”メンタルフルーツ”　　　　　　　　　　　　を手にいれました。"
+msgstr "Got the HP restoring item \"Oligo Fruit\" and the MP restoring item \"Mental Fruit\"."
+
+#. event 17, page 0 | screen 590, cell (5,5)
+#, fuzzy
+msgctxt "IVENT09/e017/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 17, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e017/p1/t00"
+msgid "美広　：落下事故か・・・これも霊の仕業　　　　　なのかな？"
+msgstr "Bihiro: A falling accident... I wonder if that was the spirits' doing, too?"
+
+#. event 17, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e017/p1/t01"
+msgid "青木　：なんでも霊の仕業・・・にするのも　　　　おかしいと思うけど・・・。"
+msgstr "Aoki: I think it's weird to blame everything on spirits, though..."
+
+#. event 17, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e017/p1/t02"
+msgid "美広　：冷えた空気が流れて来るよ・・・。"
+msgstr "Bihiro: There's cold air flowing this way..."
+
+#. event 18, page 0 | screen 590, cell (6,5)
+#, fuzzy
+msgctxt "IVENT09/e018/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 18, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e018/p1/t00"
+msgid "美広　：落下事故か・・・これも霊の仕業　　　　　なのかな？"
+msgstr "Bihiro: A falling accident... I wonder if that was the spirits' doing, too?"
+
+#. event 18, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e018/p1/t01"
+msgid "青木　：なんでも霊の仕業・・・にするのも　　　　おかしいと思うけど・・・。"
+msgstr "Aoki: I think it's weird to blame everything on spirits, though..."
+
+#. event 18, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e018/p1/t02"
+msgid "美広　：冷えた空気が流れて来るよ・・・。"
+msgstr "Bihiro: There's cold air flowing this way..."
+
+#. event 19, page 0 | screen 590, cell (7,5)
+#, fuzzy
+msgctxt "IVENT09/e019/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 19, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e019/p1/t00"
+msgid "美広　：落下事故か・・・これも霊の仕業　　　　　なのかな？"
+msgstr "Bihiro: A falling accident... I wonder if that was the spirits' doing, too?"
+
+#. event 19, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e019/p1/t01"
+msgid "青木　：なんでも霊の仕業・・・にするのも　　　　おかしいと思うけど・・・。"
+msgstr "Aoki: I think it's weird to blame everything on spirits, though..."
+
+#. event 19, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e019/p1/t02"
+msgid "美広　：冷えた空気が流れて来るよ・・・。"
+msgstr "Bihiro: There's cold air flowing this way..."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t00"
+msgid "味方　：へぇ・・・、君達には僕が見えるの　　　　かい？　生きてる生徒に気づかれた　　　　のは・・・十年ぶりかな？"
+msgstr "Friend: Oh...? You two can see me? It must be... ten years since a living student noticed me."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t01"
+msgid "美広　：（善霊？）・・・貴方は？"
+msgstr "Bihiro: (A good spirit?) ...Who are you?"
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t02"
+msgid "味方　：僕は、自らココに住んでいる。"
+msgstr "Friend: I live here of my own choosing."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t03"
+msgid "青木　：肩までしか・・・"
+msgstr "Aoki: Only down to the shoulders..."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t04"
+msgid "味方　：昔から、ゆっくり結界が昇ってきて　　　　僕は今、腰まで浸かってる。"
+msgstr "Friend: The barrier has been rising slowly for a long time. I'm in it up to my waist now."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t05"
+msgid "青木　：幽霊の声って餓鬼と違うんだなぁ。　　　　”もう少しで同調するラジオ”の音　　　　みたいだ・・・。"
+msgstr "Aoki: A ghost's voice is different from a hungry ghost's. It's like the sound of \"a radio that's almost tuned in\"..."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t06"
+msgid "味方　：餓鬼には一応、肉体の声帯がある　　　　　からね。　いつも腫れてるケド。"
+msgstr "Friend: Hungry ghosts do have physical vocal cords, after all. Always swollen, though."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t07"
+msgid "美広　：この学園・・・どうなってるの？"
+msgstr "Bihiro: This school... what's happening to it?"
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t08"
+msgid "味方　：・・・・・。"
+msgstr "Friend: ....."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t09"
+msgid "味方　：・・・・・。　・・・僕は医者志望　　　　だから・・・あ、他の人なら知って　　　　るかも。"
+msgstr "Friend: ..... ...I wanted to be a doctor, so... ah, someone else might know."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t10"
+msgid "青木　：他の人ってのは・・・やっぱり幽霊　　　　？"
+msgstr "Aoki: By someone else... you mean another ghost?"
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t11"
+msgid "味方　：もちろん。　でも自分が幽霊だって　　　　気づいてない場合が多いからね。"
+msgstr "Friend: Of course. But a lot of them haven't noticed they're ghosts."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t12"
+msgid "青木　：はぁ。"
+msgstr "Aoki: I see."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t13"
+msgid "味方　：僕だって、最初は気づかなかった。　　　　それに、今の結界の状態が続けば　　　　　いつまで住めるか・・・わからない"
+msgstr "Friend: I didn't notice at first, either. And if the barrier stays like this, I don't know... how long I can go on living here."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t14"
+msgid "青木　：・・・・・霊も死ぬ、と？"
+msgstr "Aoki: .....You mean spirits die, too?"
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t15"
+msgid "味方　：さぁ？　そこまでは僕にも・・・・　　　　そうだ！　これからは、僕が霊力を　　　　(MP)を回復する”医者”になって　　　　　あげるよ。"
+msgstr "Friend: Who knows? Even I can't say.... I know! From now on I'll be your \"doctor\" and restore your spirit power (MP)."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t16"
+msgid "青木　：結界って？　誰が張った？"
+msgstr "Aoki: What's the barrier? Who put it up?"
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t17"
+msgid "味方　：・・・・・。"
+msgstr "Friend: ....."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t18"
+msgid "味方　：・・・・・。　僕は医者になれずに　　　　殺された。　だから、今は君達の　　　　　医者になりたいんだけど・・・。"
+msgstr "Friend: ..... I was killed before I could become a doctor. So now I'd like to be your doctor, but..."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t19"
+msgid "青木　：いや、だから結界・・・"
+msgstr "Aoki: No, I mean, the barrier..."
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t20"
+msgid "美広　：待った。　青木君・・・聞かないで　　　　おこうよ。　幽霊には幽霊の都合が　　　　あるんじゃない・・・？"
+msgstr "Bihiro: Wait. Aoki... let's not ask. Ghosts have their own circumstances, don't you think...?"
+
+#. event 28, page 0 | screen 589, cell (8,5)
+#, fuzzy
+msgctxt "IVENT09/e028/p0/t21"
+msgid "味方　：ああ、いつでも来なさい。　　　　　　　　元々は保健室にもいたんだから。"
+msgstr "Friend: Yes, come any time. I used to be in the nurse's office too, after all."
+
+#. event 28, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e028/p1/t00"
+msgid "医者幽霊：ヲンコロコロ・・・センダリ・・　　　　　マトオギ・・・ソワカ・・・"
+msgstr "Doctor Ghost: On koro koro... sendari.. matogi... sowaka..."
+
+#. event 28, page 2 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e028/p2/t00"
+msgid "味方　：ううー。"
+msgstr "Friend: Uuuh."
+
+#. event 28, page 3 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e028/p3/t00"
+msgid "味方　：ヲンコロコロセンダリソワカ・・・"
+msgstr "Friend: On koro koro sendari sowaka..."
+
+#. event 29, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e029/p1/t00"
+msgid "影の狐：くーん・・・"
+msgstr "Shadow Fox: Whine..."
+
+#. event 41, page 0 | screen 553, cell (12,6)
+#, fuzzy
+msgctxt "IVENT09/e041/p0/t00"
+msgid "花子　：ぷぅぷぅ。　花子だよー！"
+msgstr "Hanako: Poo-poo. It's Hanako!"
+
+#. event 41, page 0 | screen 553, cell (12,6)
+#, fuzzy
+msgctxt "IVENT09/e041/p0/t01"
+msgid "花子　：調理カウンターのフルーツは何回　　　　　取っても大丈夫！　戦闘に不安な人　　　　は、たくさん持とう！"
+msgstr "Hanako: You can take fruit from the kitchen counter as many times as you like! If you're worried about battles, carry plenty!"
+
+#. event 63, page 0 | screen 558, cell (9,6)
+#, fuzzy
+msgctxt "IVENT09/e063/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 63, page 1 | screen 128, cell (0,5)
+#, fuzzy
+msgctxt "IVENT09/e063/p1/t00"
+msgid "花子　：はやー！　花子だよー！"
+msgstr "Hanako: Hyaa! It's Hanako!"
+
+#. event 63, page 1 | screen 128, cell (0,5)
+#, fuzzy
+msgctxt "IVENT09/e063/p1/t01"
+msgid "花子　：レベル上げは、あんまり必要ない　　　　　ようにしてあるよ！　だけど、この　　　　筋に詳しい人のために真言やなんか　　　　をほとんど登録してあるの！"
+msgstr "Hanako: The game is made so you don't need much level grinding! But for people who know this field, nearly all the mantras and such are in here!"
+
+#. event 63, page 1 | screen 128, cell (0,5)
+#, fuzzy
+msgctxt "IVENT09/e063/p1/t02"
+msgid "花子　：認知不足や意味の違う所もあるけど　　　　できる限り、事実に基づいて構成　　　　　してあるんだよ！"
+msgstr "Hanako: There are gaps in knowledge and places where the meaning differs, but as far as possible it's built on fact!"
+
+#. event 64, page 0 | screen 558, cell (8,6)
+#, fuzzy
+msgctxt "IVENT09/e064/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 64, page 0 | screen 558, cell (8,6)
+#, fuzzy
+msgctxt "IVENT09/e064/p0/t01"
+msgid "青木　：・・・・"
+msgstr "Aoki: ...."
+
+#. event 64, page 0 | screen 558, cell (8,6)
+#, fuzzy
+msgctxt "IVENT09/e064/p0/t02"
+msgid "青木　：・・・・誰もいないみたいだな。"
+msgstr "Aoki: ....Looks like nobody's in there."
+
+#. event 65, page 0 | screen 554, cell (9,6)
+#, fuzzy
+msgctxt "IVENT09/e065/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 65, page 1 | screen 128, cell (0,5)
+#, fuzzy
+msgctxt "IVENT09/e065/p1/t00"
+msgid "花子　：うほー！　あたし花子ー！"
+msgstr "Hanako: Uhoo! I'm Hanako!"
+
+#. event 65, page 1 | screen 128, cell (0,5)
+#, fuzzy
+msgctxt "IVENT09/e065/p1/t01"
+msgid "花子　：基本的にショート・ストーリー！　　　　　実は霊撮隊や若月みおみを主人公に　　　　したシナリオもあったりするよ！　　　　　でも今回はこのストーリーだけ・・"
+msgstr "Hanako: It's basically a short story! Actually there are also scenarios starring the ghost-filming crew and Miomi Wakatsuki! But this time it's only this story.."
+
+#. event 65, page 1 | screen 128, cell (0,5)
+#, fuzzy
+msgctxt "IVENT09/e065/p1/t02"
+msgid "花子　：もちろんクォータービューだよ！　　　　　顔グラフィックもあたりまえ！"
+msgstr "Hanako: Quarter view, of course! And face graphics, naturally!"
+
+#. event 66, page 0 | screen 554, cell (8,6)
+#, fuzzy
+msgctxt "IVENT09/e066/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 67, page 0 | screen 554, cell (10,5)
+#, fuzzy
+msgctxt "IVENT09/e067/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 68, page 0 | screen 554, cell (11,5)
+#, fuzzy
+msgctxt "IVENT09/e068/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 73, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e073/p1/t00"
+msgid "美広　：・・・こ・・・この冷気は何！？"
+msgstr "Bihiro: ...Wh... what is this cold air!?"
+
+#. event 73, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e073/p1/t01"
+msgid "青木　：階段・・・階段の下が”ない”！？"
+msgstr "Aoki: The stairs... below the stairs there's \"nothing\"!?"
+
+#. event 73, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e073/p1/t02"
+msgid "美広　：３階が・・・ない！？"
+msgstr "Bihiro: The 3rd floor... is gone!?"
+
+#. event 73, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e073/p1/t03"
+msgid "青木　：こんなことが・・・現実に・・・？"
+msgstr "Aoki: Can this... really be happening...?"
+
+#. event 73, page 2 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e073/p2/t00"
+msgid "青木　：よし！　階段がある！"
+msgstr "Aoki: All right! The stairs are there!"
+
+#. event 73, page 2 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e073/p2/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　３　階"
+msgstr ""
+"\n"
+"{center}3rd Floor"
+
+#. event 73, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e073/p3/t00"
+msgid "青木　：ふん！　またコイツか！　剣印！"
+msgstr "Aoki: Hmph! This one again! Sword mudra!"
+
+#. event 73, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e073/p3/t01"
+msgid "青木　：ありょ？　・・・効かない？"
+msgstr "Aoki: Huh? ...It doesn't work?"
+
+#. event 73, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e073/p3/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　ナウマクサーマンダバザラダンカン！"
+msgstr ""
+"\n"
+"{center}Namaku samanda bazara dan kan!"
+
+#. event 73, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e073/p3/t03"
+msgid "青木　：効かねぇ！？"
+msgstr "Aoki: It doesn't work!?"
+
+#. event 73, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e073/p3/t04"
+msgid "美広　：強くなってる・・・強い霊が４階　　　　　まで昇ってきてるんだ！"
+msgstr "Bihiro: They're stronger... Strong spirits have climbed all the way up to the 4th floor!"
+
+#. event 99, page 0 | screen 587, cell (5,5)
+#, fuzzy
+msgctxt "IVENT09/e099/p0/t00"
+msgid "　　　　　　－－－屋上－－－　　　　　　　　屋上に出るドアにはいつも　　　　　　　　　　　　　　　　鍵がしめてある。"
+msgstr ""
+"{center}--- Rooftop ---\n"
+"The door to the roof is always kept locked."
+
+#. event 132, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e132/p1/t00"
+msgid "餓鬼　：うー。"
+msgstr "Hungry Ghost: Uuh."
+
+#. event 133, page 0 | screen 619, cell (10,7)
+#, fuzzy
+msgctxt "IVENT09/e133/p0/t00"
+msgid "餓鬼　：眺めがいいのぉ・・・ココは。"
+msgstr "Hungry Ghost: What a fine view... from here."
+
+#. event 133, page 0 | screen 619, cell (10,7)
+#, fuzzy
+msgctxt "IVENT09/e133/p0/t01"
+msgid "餓鬼　：こ・・れで俺は助かるのか・・・？　　　　うぐぅ・・・若者よ・・・"
+msgstr "Hungry Ghost: Wi..th this, am I saved...? Ugh... young ones..."
+
+#. event 133, page 0 | screen 619, cell (10,7)
+#, fuzzy
+msgctxt "IVENT09/e133/p0/t02"
+msgid "餓鬼　：あり・・・がとう・・・"
+msgstr "Hungry Ghost: Tha... nk you..."
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t00"
+msgid "美広　：さっきの、顔の霊・・・？"
+msgstr "Bihiro: That face spirit from before...?"
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t01"
+msgid "青木　：ああ・・いつ見てもすげぇな・・・"
+msgstr "Aoki: Yeah.. it's a hell of a sight every time..."
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t02"
+msgid "霊　　：・・・根岸め・・・"
+msgstr "Spirit: ...Damn you, Negishi..."
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t03"
+msgid "青木　：根岸？　・・・根岸霊廟か！？"
+msgstr "Aoki: Negishi? ...The Negishi Mausoleum!?"
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t04"
+msgid "霊　　：おそるべし呪祖（ずそ）。　　　　　　　　幽邪鬼から木霊、果ては水陀龍とは　　　　・・・おそるべし呪祖・・・。"
+msgstr "Spirit: A fearsome curse. From yujaki to tree spirits, and even a water serpent... a fearsome curse..."
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t05"
+msgid "青木　：呪祖？　（だめだ・・・どの顔も　　　　　目が完全にイッてやがる・・・。）"
+msgstr "Aoki: A curse? (No good... every one of those faces has completely vacant eyes...)"
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t06"
+msgid "霊　：この、糞忌々しい悪霊どもめ！！　　　　　我が意納血（いのち）、おぬしらを　　　　一網打尽にハフることで引き換えに　　　　してやる！　見知りおけ！！"
+msgstr "Spirit: You damnable evil spirits!! I will trade this life of mine to slaughter every last one of you at a stroke! Mark my words!!"
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t07"
+msgid "青木　：今・・・どの顔が言ってるんだ！？　　　　どれも口が勝手に動いてるぞ！？"
+msgstr "Aoki: Which face... is talking now!? All their mouths are moving on their own!?"
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t08"
+msgid "霊　　：達者でなぁ！！　若月住職！！"
+msgstr "Spirit: Fare you well!! Head Priest Wakatsuki!!"
+
+#. event 134, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p1/t09"
+msgid "美広　：若月住職！？　若月さんのこと！？"
+msgstr "Bihiro: Head Priest Wakatsuki!? Does it mean Wakatsuki!?"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t00"
+msgid "青木　：若月住職・・・か・・・。"
+msgstr "Aoki: Head Priest Wakatsuki... huh..."
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t01"
+msgid "美広　：アレ・・・涙が・・・止まらない？"
+msgstr "Bihiro: Huh... my tears... won't stop?"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t02"
+msgid "青木　：あ、俺もだ・・・"
+msgstr "Aoki: Ah, mine too..."
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t03"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　根岸は！？　どうだ！？"
+msgstr ""
+"\n"
+"{center}What of Negishi!? How is he!?"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t04"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　どんどん、膨張しています！"
+msgstr ""
+"\n"
+"{center}He keeps on swelling!"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t05"
+msgid "　　　　　　　　　　　　　　　　　　　　霊を・・・自分の魂に組み込んでるのか！？"
+msgstr ""
+"\n"
+"Is he... absorbing spirits into his own soul!?"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t06"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　あれは根岸の技にあらず！！"
+msgstr ""
+"\n"
+"{center}That is no technique of Negishi's!!"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t07"
+msgid "　　　　　　　　　　　　　　　　　　　　実力の限界を越えた法力の乱用によるもの！"
+msgstr ""
+"\n"
+"It comes from abusing dharma power beyond the limit of his ability!"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t08"
+msgid "　　　　　　　　　　　　　　　　　　　　　根岸は霊気を吸い、さらに膨張する模様！"
+msgstr ""
+"\n"
+"Negishi is drawing in spirit energy and looks set to swell further!"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t09"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　膨張を食い止めよ！　　　　　　　　時と共に収縮と膨張を繰り返すよう　　　　　　　こちらも呪祖を放つ！"
+msgstr ""
+"{center}Hold back the swelling!\n"
+"We will cast a curse of our own, so that it contracts and swells in turn as time passes!"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t10"
+msgid "　　　　　　　　　　　　　　　　　　　　しかし！！　それでは解決になりません！　いつの日か同調は狂い始め、多数の犠牲者がでること、必須！"
+msgstr ""
+"\n"
+"But!! That solves nothing! Some day the rhythm will begin to slip, and many victims are certain!"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t11"
+msgid "　　　今の我々では法力不足だ！　　　　　　　　　根岸を除霊できん！！"
+msgstr ""
+"We lack the dharma power as we are now!\n"
+"We cannot exorcise Negishi!!"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t12"
+msgid "美広　：声・・・聞こえた？"
+msgstr "Bihiro: Did you... hear voices?"
+
+#. event 134, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT09/e134/p2/t13"
+msgid "青木　：膨張がなんとかって・・・。"
+msgstr "Aoki: Something about swelling..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t00"
+msgid "味方　：私が・・・わかりますの？"
+msgstr "Friend: Can you... tell that I am here?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t01"
+msgid "美広　：（・・・善？）女性の方・・・　　　　　　ですか？"
+msgstr "Bihiro: (...Good?) Are you... a woman?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t02"
+msgid "味方　：・・・はい。　貴方達は・・・随分　　　　新鮮な霊能者ですね。"
+msgstr "Friend: ...Yes. You two are... very fresh psychics, aren't you."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t03"
+msgid "青木　：新鮮・・・？　まぁ、確かに、霊　　　　　とか餓鬼に会ったのはつい昨日の　　　　　ことだけど・・・。"
+msgstr "Aoki: Fresh...? Well, true, we only met spirits and hungry ghosts yesterday..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t04"
+msgid "味方　：私は、ついさっき、ここへ来ました　　　　の。　霊廟からここへ。"
+msgstr "Friend: I came here only a moment ago. From the mausoleum to here."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t05"
+msgid "美広　：根岸霊廟・・・ですか？"
+msgstr "Bihiro: The Negishi Mausoleum...?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t06"
+msgid "味方　：はい。　今では、この建物のほうが　　　　仲間が多いもので・・・。"
+msgstr "Friend: Yes. These days there are more of my kind in this building..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t07"
+msgid "青木　：やっぱり、幽・・・仲間がいた方が　　　　安心できる？"
+msgstr "Aoki: So it's more reassuring to have gho... companions around?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t08"
+msgid "味方　：霊とは、そういうものです。　　　　　　　悪霊であれ善霊であれ、私には別の　　　　問題です。"
+msgstr "Friend: That is how spirits are. Whether they are evil or good spirits is a separate matter to me."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t09"
+msgid "美広　：結構いるんだね、善霊って。"
+msgstr "Bihiro: There are quite a few good spirits, aren't there."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t10"
+msgid "青木　：うん。　意外と善悪のバランスが　　　　　とれてるみたいだ・・・。"
+msgstr "Aoki: Yeah. Good and evil seem surprisingly balanced..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t11"
+msgid "味方　：いいえ・・・おそらく・・・この階　　　　だけですわ。"
+msgstr "Friend: No... most likely... only on this floor."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t12"
+msgid "美広　：そうなんですか！？　・・・下の階　　　　には若月さんと学長が・・・。"
+msgstr "Bihiro: Really!? ...But Wakatsuki and the Principal are on the floor below..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t13"
+msgid "味方　：あぁ、あの人達なら大丈夫だと　　　　　　思いますヨ。”審神”ができるから"
+msgstr "Friend: Oh, I think those two will be fine. They can perform \"saniwa\"."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t14"
+msgid "青木　：さにわ？"
+msgstr "Aoki: Saniwa?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t15"
+msgid "味方　：審神とは、霊の善悪を判断すること　　　　です。　それなりの法力がないと　　　　　できない高級な技です。"
+msgstr "Friend: Saniwa is judging whether a spirit is good or evil. It is a high-level art that requires considerable dharma power."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t16"
+msgid "美広　：・・・じゃ、どうして私達は貴方の　　　　ような霊を”善”だと・・・？"
+msgstr "Bihiro: ...Then how do we know a spirit like you is \"good\"...?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t17"
+msgid "青木　：俺達の霊能力はそれほどレベルが　　　　　高い？"
+msgstr "Aoki: Is our psychic power at that high a level?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t18"
+msgid "味方　：いいえ。　今は私の方から守護霊を　　　　通じて話しています。　　　　　　　　　　残念ですが、今の貴方達では単独で　　　　審神はできないようです。"
+msgstr "Friend: No. Right now I am the one speaking to you, through your guardian spirits. I'm sorry, but as you are now, you can't perform saniwa on your own."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t19"
+msgid "青木　：そうだよなぁ。昨日から霊能力に　　　　　気づいて、今出来ることなんて　　　　　　不動明王呪ぐらいだもんなぁ。"
+msgstr "Aoki: That figures. We only noticed our powers yesterday, and all we can do right now is the Fudo Myoo spell."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t20"
+msgid "美広　：それでも、ふつうの人よりは　　　　　　　スゴイんじゃない？　全部、背後霊　　　　のおかげなんだろうけど。"
+msgstr "Bihiro: Even so, isn't that more amazing than ordinary people? Though it's all thanks to our guardian spirits."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t21"
+msgid "味方　：普通の人でもその程度には　　　　　　　　なりますが・・・貴方達は背後霊に　　　　恵まれた即席の霊能者、ですね・・"
+msgstr "Friend: Even ordinary people can reach that level, but... you two are instant psychics, blessed with good guardian spirits.."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t22"
+msgid "美広　：でも、ここまできたら、後戻り　　　　　　できないよ。"
+msgstr "Bihiro: But having come this far, we can't turn back."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t23"
+msgid "青木　：後戻り・・・？　俺は突き進むぞ。　　　　幽霊にもいいかげん慣れたし、　　　　　　大して恐くもなくなった・・・。"
+msgstr "Aoki: Turn back...? I'm pushing on. I've had enough time to get used to ghosts, and they don't scare me much any more..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t24"
+msgid "味方　：・・・・・。"
+msgstr "Friend: ....."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t25"
+msgid "味方　：・・・・・。　ここの結界は・・・"
+msgstr "Friend: ..... The barrier here..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t26"
+msgid "味方　：・・・・・。　ここの結界は・・・　　　　根岸の祖霊が・・・"
+msgstr "Friend: ..... The barrier here... Negishi's ancestral spirit..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t27"
+msgid "美広　：はい？・・・なんですか？"
+msgstr "Bihiro: Yes...? What is it?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t28"
+msgid "味方　：こんな、若い人を巻き込むなんて、　　　　関係もないのに・・・間違ってます"
+msgstr "Friend: To drag in such young people, who have nothing to do with it... it's wrong."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t29"
+msgid "青木　：・・・学校ってのは若い奴らの　　　　　　集まる所だと思うけど・・・？"
+msgstr "Aoki: ...I'd say a school is exactly where young people gather, though...?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t30"
+msgid "味方　：自然と人が集まる所は、霊も集まる　　　　のです。学校、病院、駅・・・。"
+msgstr "Friend: Where people naturally gather, spirits gather too. Schools, hospitals, train stations..."
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t31"
+msgid "美広　：駅・・・も？"
+msgstr "Bihiro: Stations... too?"
+
+#. event 135, page 1 | screen 128, cell (8,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p1/t32"
+msgid "味方　：はい。　数分で全ての人間が　　　　　　　入れ替わる所ですが、意外に　　　　　　　あつまります。私も一時期、駅に　　　　　いましたから。"
+msgstr "Friend: Yes. Everyone there changes over within minutes, yet a surprising number gather. I was at a station myself for a time."
+
+#. event 135, page 2 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e135/p2/t00"
+msgid "味方　：大きな災害の兆があります・・・　　　　　充分、気をつけて・・・"
+msgstr "Friend: There are signs of a great disaster... Please be very careful..."
+
+#. event 141, page 1 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e141/p1/t00"
+msgid "美広　：ちょっと・・・一人にしないでよ！"
+msgstr "Bihiro: Hey... don't leave me by myself!"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t00"
+msgid "餓鬼　：上は、薄いな。　まだまだ、俺達の　　　　力は半減されるな。"
+msgstr "Hungry Ghost: It's thin up here. Our power will be halved for a good while yet."
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t01"
+msgid "餓鬼　：う、うわ！　なんだ、これは！？　　　　　か、体がぁ！！　うわあああ！"
+msgstr "Hungry Ghost: Wh-whoa! What is this!? M-my body!! Uwaaaah!"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t02"
+msgid "美広　：！？"
+msgstr "Bihiro: !?"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t03"
+msgid "青木　：この音・・・"
+msgstr "Aoki: That sound..."
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t04"
+msgid "青木　：この音・・・校内放送！？"
+msgstr "Aoki: That sound... the school PA!?"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t05"
+msgid "放送　：青木君！　美広さん！　　　　　　　　　　聞こえる！？　　　　　　　　　　　　　　今なら、外にでられるわ！！　　　　　　　急いで！　玄関から外へ！！"
+msgstr "PA: Aoki! Bihiro! Can you hear me!? You can get outside now!! Hurry! Out through the entrance!!"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t06"
+msgid "美広　：若月さん！？"
+msgstr "Bihiro: Wakatsuki!?"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t07"
+msgid "放送　：青木君！　美広さん！　　　　　　　　　　聞こえる！？　お願い！　早く！　　　　　急いで外にでて！"
+msgstr "PA: Aoki! Bihiro! Can you hear me!? Please! Quickly! Hurry and get outside!"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t08"
+msgid "青木　：・・・行くぞ！　美広！！"
+msgstr "Aoki: ...Let's go! Bihiro!!"
+
+#. event 147, page 1 | screen 128, cell (9,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p1/t09"
+msgid "放送　：聞こえる！？　早く！　速く！"
+msgstr "PA: Can you hear me!? Quickly! Faster!"
+
+#. event 147, page 2 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e147/p2/t00"
+msgid "餓鬼　：いたたたた・・・"
+msgstr "Hungry Ghost: Ow ow ow ow..."
+
+#. event 155, page 1 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e155/p1/t00"
+msgid "若月　：朝、若月さんに会ったんだけど、　　　　　一緒に食堂来てくれって。"
+msgstr "Bihiro: I ran into Wakatsuki this morning, and she asked us to come to the cafeteria together."
+
+#. event 155, page 1 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e155/p1/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　（美広が仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Bihiro joined the party)"
+
+#. event 156, page 1 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e156/p1/t00"
+msgid "美広　：ちょっと・・・一人にしないでよ！"
+msgstr "Bihiro: Hey... don't leave me by myself!"
+
+#. event 157, page 1 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e157/p1/t00"
+msgid "美広　：ちょっと・・・一人にしないでよ！"
+msgstr "Bihiro: Hey... don't leave me by myself!"
+
+#. event 158, page 1 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e158/p1/t00"
+msgid "美広　：ちょっと・・・一人にしないでよ！"
+msgstr "Bihiro: Hey... don't leave me by myself!"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t00"
+msgid "若月　：さて・・・"
+msgstr "Wakatsuki: Now then..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t01"
+msgid "若月　：さて・・・貴方達を呼んだのは協力　　　　してもらうためなんだけど・・・。"
+msgstr "Wakatsuki: Now then... I called you here because I'd like your help..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t02"
+msgid "青木　：・・・何をですか？"
+msgstr "Aoki: ...With what?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t03"
+msgid "学長　：ここは、私から説明するわ。　　　　　　　・・・・・まず・・・"
+msgstr "Principal: Let me explain this part. .....First..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t04"
+msgid "学長　：もう知ってるでしょ？　　　　　　　　　　この学園には、昔から幽霊がでる　　　　　のよ。　それもそこらの学校の幽霊　　　　と違ってもっと強烈な悪霊が"
+msgstr "Principal: You already know, don't you? Ghosts have appeared at this school since long ago. And unlike the ghosts at any old school, far more ferocious evil spirits"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t05"
+msgid "学長　：でる・・・今、ここはもう結界の中　　　　に入っているから・・・"
+msgstr "Principal: appear... because this place is already inside the barrier now..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t06"
+msgid "学長　：全ての原因は、江戸時代。　　　　　　　　ダンテ学園がまだ寺小屋だった時　　　　　から続く根岸家の”怨念”・・・　　　　　なのよ。"
+msgstr "Principal: The cause of it all lies in the Edo period. It is the \"grudge\" of the Negishi family, going back to when Dante Academy was still a temple school."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t07"
+msgid "美広　：・・・根岸・・・"
+msgstr "Bihiro: ...Negishi..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t08"
+msgid "当時、若月家と根岸家の宗派の違いから法力戦争みたいになって・・・その影響を受けてツかれた農民や商人も多かったようね。　　結果としては若月家が勝利、根岸家の"
+msgstr "Back then, a difference of sect between the Wakatsuki and Negishi families turned into something like a war of dharma power... Many farmers and merchants were caught up in it and possessed. In the end the Wakatsuki won, and the Negishi"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t09"
+msgid "住職は役人に捕まる直前に自害したのよ。　その時から根岸の祖霊として若月家を代々　呪うようになり、同時に仲間も集め、吸収して強烈な力を持つようになった・・・。"
+msgstr "head priest killed himself just before the officials could arrest him. From then on, as the Negishi ancestral spirit, he cursed the Wakatsuki generation after generation, gathering and absorbing others until he held tremendous power..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t10"
+msgid "餓鬼、浮遊霊、水子霊、地獄霊、屋敷霊、　稲荷狐、水蛇龍、木霊、天狗、幽邪鬼、　　昆虫霊、動物霊、霊団霊、たたり霊、狂魔鬼・・・それらを吸い込み、膨張して・・・"
+msgstr "Hungry ghosts, wandering spirits, spirits of unborn children, hell spirits, house spirits, Inari foxes, water serpents, tree spirits, tengu, yujaki, insect spirits, animal spirits, spirit bands, cursing spirits, kyomaki... sucking them in, swelling..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t11"
+msgid "祖霊の魂である空間、”結界”はドーム状に膨らんで、今は４階の半分くらいを埋めて　いるわ。　結界の中なら、夕方くらいからでも暴れられる。”生徒”というエサも向こう"
+msgstr "The \"barrier\", the space that is the ancestral spirit's soul, has swollen into a dome and now fills about half of the 4th floor. Inside the barrier they can rampage even from the evening. And their food, the \"students\","
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t12"
+msgid "からやって来てくれる・・・祖霊を除霊　　しない限り犠牲も増えるばかりだけど、法力戦争のリスクが大きすぎて若月家では代々　自分の身を守ことで精いっぱい・・・"
+msgstr "comes to them of its own accord... Unless the ancestral spirit is exorcised the victims will only increase, but the risk of a dharma war is too great, and for generations the Wakatsuki have had their hands full just protecting themselves..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t13"
+msgid "かと言って、学校だから火事で強制的に除霊するわけにもいかない・・・そんなこんなで現在に至るってワケ。"
+msgstr "And yet, since it's a school, we can't very well exorcise it by force with a fire... And so here we are today."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t14"
+msgid "学長　：毎晩が遠隔除霊の嵐だったわ。　　　　　　一時しのぎなんだけど・・・"
+msgstr "Principal: Every night was a storm of remote exorcisms. Only a stopgap, though..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t15"
+msgid "美広　：私達には今まで見えなかった幽霊達　　　　が突然見えるようになったのは、　　　　　どうしてですか？"
+msgstr "Bihiro: Why can we suddenly see ghosts that we could never see before?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t16"
+msgid "学長　：ああ、それはねぇ、例えば・・・"
+msgstr "Principal: Ah, well, for example..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t17"
+msgid "学長　：超能力とか霊能者のテレビ番組を　　　　　見てて突然、似たような力が身に　　　　　ついたりすることが現実に起きる　　　　　のよ。"
+msgstr "Principal: It really does happen that someone watching a TV show about psychics or mediums suddenly gains a similar power."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t18"
+msgid "若月　：私、いつだったか、そういう人に　　　　　会ったことあるんだけど・・・。　　　　　実は、低級な霊とか水子がイタズラ　　　　するだけだったりするのよ。"
+msgstr "Wakatsuki: I met someone like that once... In fact it's often just low-grade spirits or the spirits of unborn children playing tricks."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t19"
+msgid "若月　：それに・・・テレビの前とか、パソ　　　　コンのディスプレーの前とか、実際　　　　かなり集まるしね。　幽霊って。"
+msgstr "Wakatsuki: Besides... in front of TVs, in front of computer displays, quite a lot of them really do gather. Ghosts, I mean."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t20"
+msgid "青木　：テレビの前・・・ですか？"
+msgstr "Aoki: In front of TVs...?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t21"
+msgid "若月　：電磁波か周波数とかが原因だと思う　　　　けど、そのへんはよくわかんないわ"
+msgstr "Wakatsuki: I think electromagnetic waves or frequencies are the cause, but I don't really understand that part."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t22"
+msgid "美広　：じゃ、幽霊関係のゲーム作る人って　　　　危ないんですか？"
+msgstr "Bihiro: Then, are people who make ghost-related games in danger?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t23"
+msgid "若月　：そうねぇ。モニターに向かって、　　　　　浮幽霊だの生霊だのってやるん　　　　　　でしょ？　すぐ隣に幽霊がワンサカ　　　　いるんだろうね。"
+msgstr "Wakatsuki: I'd say so. They sit facing a monitor working on wandering ghosts and living spirits, right? There must be swarms of ghosts right beside them."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t24"
+msgid "青木　：それって凄くヤバいんじゃないスか　　　　？"
+msgstr "Aoki: Isn't that really bad?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t25"
+msgid "若月　：うん。かなりヤバいわね。"
+msgstr "Wakatsuki: Yes. Pretty bad."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t26"
+msgid "美広　：このゲームの作者のマシンだって　　　　　突然、壊れたぐらいですもんね・・　　　　真剣に恐くなって、マシンの上に　　　　　除霊の本を乗っけておいたり"
+msgstr "Bihiro: After all, the machine of this game's author suddenly broke down.. He got seriously scared and now keeps a book on exorcism on top of the machine,"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t27"
+msgid "美広　：モニターの上に七福神の置物を　　　　　　置いたりしてます。"
+msgstr "Bihiro: and figurines of the Seven Lucky Gods on top of the monitor."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t28"
+msgid "学長　：へぇ、そうなの？　御利益あると　　　　　いいわねぇ。"
+msgstr "Principal: Oh, really? I hope they bring him good fortune."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t29"
+msgid "　　　　　－－－作者より－－－　　　　　　　今の所、御利益はないようです・・・"
+msgstr ""
+"{center}--- From the author ---\n"
+"So far, there seems to be no good fortune..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t30"
+msgid "若月　：そこで、でてくるのが、背後霊団　　　　　なの。超能力のテレビを見てて突然　　　　使えるようになった能力なんか　　　　　　タカが知れてるのよ。"
+msgstr "Wakatsuki: And that's where the guardian spirit band comes in. A power you suddenly gain from watching psychics on TV doesn't amount to much."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t31"
+msgid "若月　：低級霊なんざ背後霊団が追い払う　　　　　のよ。　だから、そういう能力は　　　　　時間的にも、すぐに失せるってわけ"
+msgstr "Wakatsuki: The spirit band drives off low-grade spirits. So that kind of power soon fades with time."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t32"
+msgid "青木　：じゃ、俺達は、そのうち霊能力を　　　　　失うと？"
+msgstr "Aoki: Then we'll lose our psychic power before long?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t33"
+msgid "学長　：さぁ、どうかしら？　”霊能力”に　　　　気づかせたのが背後霊団だったと　　　　　したら？"
+msgstr "Principal: Well, I wonder? What if it was your guardian spirit band that made you notice your \"psychic power\"?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t34"
+msgid "若月　：そうよ！　この学園でやって　　　　　　　いくのに、ここの悪霊が邪魔過ぎる　　　　と判断したら？"
+msgstr "Wakatsuki: Exactly! What if they judged that the evil spirits here are too much in the way of your life at this school?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t35"
+msgid "学長　：身近にいて、精神的にも肉体的にも　　　　強い人間と強力してでも悪霊を退治　　　　しようとする・・・"
+msgstr "Principal: They would try to destroy the evil spirits, even by joining forces with someone close by who is strong in mind and body..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t36"
+msgid "青木　：それで、俺が・・・？"
+msgstr "Aoki: And that's why I...?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t37"
+msgid "学長　：感受性の奇御霊（くしみたま）と　　　　　愛情の、幸御霊（さちみたま）に　　　　　優れた美広さん・・・"
+msgstr "Principal: Bihiro, who excels in the kushimitama of sensitivity and the sachimitama of love..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t38"
+msgid "学長　：筋肉質の荒御霊（あらみたま）と　　　　　協調の、和御霊（にぎみたま）に　　　　　優れた青木君・・・"
+msgstr "Principal: Aoki, who excels in the muscular aramitama and the nigimitama of harmony..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t39"
+msgid "学長　：二人の協調性しだいで、普通の人の　　　　何十倍もの「万能型」霊能力を　　　　　　持つことになるのよ。"
+msgstr "Principal: Depending on how well you two cooperate, you will hold \"all-round\" psychic power dozens of times that of an ordinary person."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t40"
+msgid "美広　：でも、生まれつきで霊能力の才能を　　　　持った生徒とかはこの学園には　　　　　　いないんですか？"
+msgstr "Bihiro: But aren't there any students at this school who were born with psychic talent?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t41"
+msgid "学長　：昔から、そういう人は、学園見学で　　　　ここにきて”何か気持ち悪い”とか　　　　”感覚的に嫌”とか言って入学　　　　　　しなかったわ。"
+msgstr "Principal: People like that have always come on a school visit, said \"something feels creepy\" or \"I just don't like it\", and never enrolled."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t42"
+msgid "学長　：・・・実を言うと、そういう生徒　　　　　には私が入学許可を出さなかった　　　　　んだけど。"
+msgstr "Principal: ...To tell the truth, I didn't grant admission to students like that."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t43"
+msgid "青木　：は！？　どうしてですか！？"
+msgstr "Aoki: What!? Why not!?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t44"
+msgid "若月　：”殺されやすい”からに　　　　　　　　　決ってるでしょ？"
+msgstr "Wakatsuki: Because they're \"easy to kill\", obviously."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t45"
+msgid "美広　：普通の人ならいいんですか？"
+msgstr "Bihiro: And ordinary people are all right?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t46"
+msgid "学長　：そう。　普段の生活で霊的な接触の　　　　ない人は大丈夫。　悪霊の方から　　　　　寄ってこないから。"
+msgstr "Principal: Yes. People with no spiritual contact in everyday life are fine. The evil spirits don't come to them."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t47"
+msgid "青木　：なら、どうして美広は・・・？"
+msgstr "Aoki: Then why was Bihiro...?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t48"
+msgid "美広　：確かに見学には来たけど・・・。　　　　　別に嫌でもなかったけど・・・。"
+msgstr "Bihiro: I did come on a visit... but I didn't particularly dislike it..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t49"
+msgid "学長　：そこが不思議なのよ！　　　　　　　　　　願書の顔写真を見た時点で、大体　　　　　その人の霊能とか背後霊団とかが　　　　　わかるのに・・・"
+msgstr "Principal: That's the strange part! Just from the photo on an application I can generally tell a person's psychic ability and guardian spirits, and yet..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t50"
+msgid "学長　：選考ミスかなぁ・・・・？"
+msgstr "Principal: A screening mistake, I wonder....?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t51"
+msgid "青木　：・・・・・"
+msgstr "Aoki: ....."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t52"
+msgid "青木　：・・・・・あ！"
+msgstr "Aoki: .....Ah!"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t53"
+msgid "青木　：・・・・・あ！　千歳は！？"
+msgstr "Aoki: .....Ah! What about Chitose!?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t54"
+msgid "青木　：・・・・・あ！　千歳は！？　　　　　　　千歳は、どうなったんですか！？"
+msgstr "Aoki: .....Ah! What about Chitose!? What happened to Chitose!?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t55"
+msgid "学長　：・・・昨日、階段で会った時には　　　　　もう餓鬼に・・・"
+msgstr "Principal: ...When I met him on the stairs yesterday, the hungry ghost had already..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t56"
+msgid "美広　：でも！　でも、しゃべってたじゃ　　　　　ないですか！？"
+msgstr "Bihiro: But! But he was talking, wasn't he!?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t57"
+msgid "若月　：こんな結界の中だから、魂も肉体　　　　　から完全に離れずにいたのね・・・　　　　体にへばりついてる形になってた　　　　　から・・・・"
+msgstr "Wakatsuki: Inside a barrier like this, his soul hadn't completely left his body... It was still clinging to the flesh...."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t58"
+msgid "青木　：千・・・歳が・・・死んだ・・・？　　　　千歳が・・・？　"
+msgstr "Aoki: Chi... tose is... dead...? Chitose...?"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t59"
+msgid "美広　：きゃー！"
+msgstr "Bihiro: Eeek!"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t60"
+msgid "青木　：美広！　つかまれ！"
+msgstr "Aoki: Bihiro! Hold on!"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t61"
+msgid "若月　：これは・・・"
+msgstr "Wakatsuki: This is..."
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t62"
+msgid "学長　：みおみさん！　霊的な爆発じゃない　　　　わ！！　下の階で何かが！"
+msgstr "Principal: Miomi! That's no spiritual explosion!! Something on the floor below!"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t63"
+msgid "若月　：ふせて！！　窓から飛ばされるわ！"
+msgstr "Wakatsuki: Get down!! You'll be blown out the window!"
+
+#. event 159, page 2 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT09/e159/p2/t64"
+msgid "美広　：きゃー！！"
+msgstr "Bihiro: Eeeek!!"
+
+#. event 176, page 1 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT09/e176/p1/t00"
+msgid "学長　：他の人を巻き込むことはしたく　　　　　　なかったけど、もう限界なの・・・"
+msgstr "Principal: I didn't want to drag anyone else into this, but I've reached my limit..."
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t00"
+msgid "美広　：あ、気がついた？"
+msgstr "Bihiro: Oh, you're awake?"
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t01"
+msgid "青木　：ここは？　・・・貯蔵室？"
+msgstr "Aoki: Where is this? ...The storeroom?"
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t02"
+msgid "美広　：うん・・・緊急用のマットレスで　　　　　ベッドを作ったの。"
+msgstr "Bihiro: Yes... I made a bed with the emergency mattress."
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t03"
+msgid "青木　：・・・なにが、どうなった？"
+msgstr "Aoki: ...What happened?"
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t04"
+msgid "美広　：爆発したのは１階の化学室みたい。　　　　校舎の向こうは吹き飛んでて崩れ　　　　　てるんだって。"
+msgstr "Bihiro: It seems the explosion was in the chemistry room on the 1st floor. They say the far side of the building was blown away and has collapsed."
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t05"
+msgid "美広　：山火事も起きてる・・・ホラ、　　　　　　サイレンの音、聞こえるでしょ？　　　　　だけど音だけで全然”近付いて　　　　　　来ない”のよ・・・。"
+msgstr "Bihiro: There's a forest fire, too... Listen, you can hear the sirens, right? But it's only the sound. They never \"come any closer\"..."
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t06"
+msgid "美広　：私はこの部屋に霊が入らないように　　　　印をむすんでたの。"
+msgstr "Bihiro: I've been forming mudras so no spirits could get into this room."
+
+#. event 178, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT09/e178/p1/t07"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　（美広が仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Bihiro joined the party)"
+
+#. event 188, page 0 | screen 558, cell (10,5)
+#, fuzzy
+msgctxt "IVENT09/e188/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 188, page 0 | screen 558, cell (10,5)
+#, fuzzy
+msgctxt "IVENT09/e188/p0/t01"
+msgid "青木　：・・・・"
+msgstr "Aoki: ...."
+
+#. event 188, page 0 | screen 558, cell (10,5)
+#, fuzzy
+msgctxt "IVENT09/e188/p0/t02"
+msgid "青木　：・・・・誰もいないみたいだな。"
+msgstr "Aoki: ....Looks like nobody's in there."
+
+#. event 189, page 0 | screen 558, cell (11,5)
+#, fuzzy
+msgctxt "IVENT09/e189/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　叩いてみますか？"
+msgstr ""
+"\n"
+"{center}Knock?"
+
+#. event 189, page 0 | screen 558, cell (11,5)
+#, fuzzy
+msgctxt "IVENT09/e189/p0/t01"
+msgid "青木　：・・・・"
+msgstr "Aoki: ...."
+
+#. event 189, page 0 | screen 558, cell (11,5)
+#, fuzzy
+msgctxt "IVENT09/e189/p0/t02"
+msgid "青木　：・・・・誰もいないみたいだな。"
+msgstr "Aoki: ....Looks like nobody's in there."
+
+#. event 190, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e190/p1/t00"
+msgid "影の狐：くーん・・・"
+msgstr "Shadow Fox: Whine..."
+
+#. event 191, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e191/p1/t00"
+msgid "影の狐：くーん・・・"
+msgstr "Shadow Fox: Whine..."
+
+#. event 192, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e192/p1/t00"
+msgid "影の狐：くーん・・・"
+msgstr "Shadow Fox: Whine..."
+
+#. event 193, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e193/p1/t00"
+msgid "影の狐：くーん・・・"
+msgstr "Shadow Fox: Whine..."
+
+#. event 194, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e194/p1/t00"
+msgid "影の狐：くーん・・・"
+msgstr "Shadow Fox: Whine..."
+
+#. event 195, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT09/e195/p1/t00"
+msgid "影の狐：くーん・・・"
+msgstr "Shadow Fox: Whine..."
+

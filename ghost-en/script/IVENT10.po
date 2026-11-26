@@ -1,0 +1,157 @@
+# IVENT10.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 5, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT10/e005/p1/t00"
+msgid "花子　：いらっしゃーい！　花子ちゃーん！"
+msgstr "Hanako: Welcooome! It's little Hanako!"
+
+#. event 5, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT10/e005/p1/t01"
+msgid "花子　：そこらの学校で、コックリさんとか　　　　やる人がいるけど、本当はやめた方　　　　がいいんだよー！"
+msgstr "Hanako: People at schools everywhere play Kokkuri-san, but really, you'd better not!"
+
+#. event 5, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT10/e005/p1/t02"
+msgid "花子　：ここだけの話、マジで”来る”よ。　　　　まぁ、低級な浮遊霊が見に来たり　　　　　する程度だけどさー。"
+msgstr "Hanako: Just between us, something seriously does \"come\". Well, it's only low-grade wandering spirits coming for a look, but still."
+
+#. event 5, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT10/e005/p1/t03"
+msgid "花子　：実はね、本格的なコックリさんの　　　　　方法があってね・・・。"
+msgstr "Hanako: Actually, there's a proper, full-on way to do Kokkuri-san..."
+
+#. event 5, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT10/e005/p1/t04"
+msgid "花子　：・・・"
+msgstr "Hanako: ..."
+
+#. event 5, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT10/e005/p1/t05"
+msgid "花子　：・・・くさ・・・"
+msgstr "Hanako: ...Kusa..."
+
+#. event 5, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT10/e005/p1/t06"
+msgid "花子　：やーめた！　ここで書くと本当に　　　　　やって何か召喚するおバカさんが　　　　　でるからねー！　危ない危ない！"
+msgstr "Hanako: Never mind! If I wrote it here, some dummy would really do it and summon something! Too dangerous!"
+
+#. event 6, page 0 | screen 562, cell (8,6)
+#, fuzzy
+msgctxt "IVENT10/e006/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 7, page 0 | screen 562, cell (10,5)
+#, fuzzy
+msgctxt "IVENT10/e007/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 8, page 0 | screen 562, cell (11,5)
+#, fuzzy
+msgctxt "IVENT10/e008/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　誰もいない・・・"
+msgstr ""
+"\n"
+"{center}Nobody here..."
+
+#. event 9, page 0 | screen 566, cell (12,6)
+#, fuzzy
+msgctxt "IVENT10/e009/p0/t00"
+msgid "花子　：べべんべーん！　花子ショー！"
+msgstr "Hanako: Ta-ta-daaa! The Hanako Show!"
+
+#. event 9, page 0 | screen 566, cell (12,6)
+#, fuzzy
+msgctxt "IVENT10/e009/p0/t01"
+msgid "花子　：女子トイレの花子さんは超有名な　　　　　話だけど、奥から３番目のトイレ　　　　　が一番、危ないんだって！"
+msgstr "Hanako: Hanako-san of the girls' toilet is a super famous story, but they say the third stall from the back is the most dangerous one!"
+
+#. event 9, page 0 | screen 566, cell (12,6)
+#, fuzzy
+msgctxt "IVENT10/e009/p0/t02"
+msgid "花子　：窓ぎわも危ないんだけど・・・。　　　　　まぁ、そういうこと！"
+msgstr "Hanako: By the window is dangerous too... Well, that's how it is!"
+
+#. event 10, page 0 | screen 561, cell (12,6)
+#, fuzzy
+msgctxt "IVENT10/e010/p0/t00"
+msgid "花子　：真言や陀羅尼は、元々は”ボン語”　　　　なの！　インドの文章語だから、　　　　　アルファベットを音訳した形で日本　　　　に伝わったのだー！"
+msgstr "Hanako: Mantras and dharani were originally in Sanskrit! Since it's the written language of India, they came to Japan in a form that copies the sounds!"
+
+#. event 10, page 0 | screen 561, cell (12,6)
+#, fuzzy
+msgctxt "IVENT10/e010/p0/t01"
+msgid "花子　：伝えたのは、［空海］って人！　　　　　　名前ぐらいは、どこかで聞いたコト　　　　あるでしょ？　室町時代に伝わった　　　　らしいよ！"
+msgstr "Hanako: The one who brought them was a man called [Kukai]! You've heard the name somewhere, right? They say they arrived in the Muromachi period!"
+
+#. event 10, page 0 | screen 561, cell (12,6)
+#, fuzzy
+msgctxt "IVENT10/e010/p0/t02"
+msgid "花子　：例えば、陀羅尼は dharani とか　　　　　　が音訳されたの！　ダラニでしょ？　　　　主に長い文を陀羅尼、真言は短い文　　　　とされて、区別されてるわけ！"
+msgstr "Hanako: For example, \"darani\" was copied from the sound of \"dharani\"! See? Mainly the long texts are called dharani and the short ones mantras. That's the difference!"
+
+#. event 90, page 0 | screen 595, cell (5,5)
+#, fuzzy
+msgctxt "IVENT10/e090/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　４　階"
+msgstr ""
+"\n"
+"{center}4th Floor"
+
+#. event 108, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT10/e108/p1/t00"
+msgid "怪士　：うあぁ・・・"
+msgstr "Ayakashi: Uaah..."
+
+#. event 109, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT10/e109/p1/t00"
+msgid "怪士　：おあぁ・・・"
+msgstr "Ayakashi: Oaah..."
+
+#. event 110, page 0 | screen 630, cell (12,3)
+#, fuzzy
+msgctxt "IVENT10/e110/p0/t00"
+msgid "餓鬼　：お前達の程度では見えんはず！　　　　　　ここには・・・３人いることを。"
+msgstr "Hungry Ghost: At your level you shouldn't be able to see it! That there are... three of us here."
+
+#. event 110, page 0 | screen 630, cell (12,3)
+#, fuzzy
+msgctxt "IVENT10/e110/p0/t01"
+msgid "餓鬼　：んぁああ・・・・"
+msgstr "Hungry Ghost: Nnaaah...."
+
+#. event 110, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT10/e110/p1/t00"
+msgid "餓鬼　：お、重い・・・くぅぅ・・・"
+msgstr "Hungry Ghost: H-heavy... khh..."
+
+#. event 111, page 0 | screen 595, cell (7,5)
+#, fuzzy
+msgctxt "IVENT10/e111/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　２　階"
+msgstr ""
+"\n"
+"{center}2nd Floor"
+

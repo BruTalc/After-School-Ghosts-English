@@ -1,0 +1,17 @@
+# Disk images: huge, and they contain MS-DOS plus the original game (not redistributable).
+*.hdi
+*.nhd
+*.zip
+
+# Original Japanese game files. Regenerate with: python tools/ghost.py extract
+ghost-en/original/
+
+# Build output. Regenerate with: python tools/ghost.py build
+ghost-en/build/
+
+# Third-party emulator binaries. Fetch Neko Project 21/W separately (see README).
+np21w-0.86-rev100/
+
+# Python
+__pycache__/
+*.pyc

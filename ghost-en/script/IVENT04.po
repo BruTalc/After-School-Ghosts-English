@@ -1,0 +1,1428 @@
+# IVENT04.DAT - dialogue. Window: 40 columns x 4 lines, wrapped automatically.
+# Edit the msgstr lines. Leave msgstr empty to keep the original Japanese.
+# "fuzzy" = unreviewed draft (still used by the build). See README.md for markup.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　DANTE98 学園仕様　「放課後の幽霊達」"
+msgstr ""
+"\n"
+"{center}DANTE98 School Edition\n"
+"{center}\"After School Ghosts\""
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t01"
+msgid "・・・夏、文化祭を一週間後に控えた・・・　　　　　　　　　　　　　　　　　　　　　・・・・「私立ダンテ学園」・・・・"
+msgstr ""
+"...Summer. One week before the school festival...\n"
+"\n"
+"{center}....the private \"Dante Academy\"...."
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t02"
+msgid "　　　４階の、この生暖かい教室に　　　　　　時々吹き抜ける涼しい風・・・・・　　　　　・・・・「放課後」・・・"
+msgstr ""
+"{center}Up on the 4th floor, a cool breeze\n"
+"{center}now and then blows through this\n"
+"{center}muggy classroom.....\n"
+"{center}....\"After school\"..."
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t03"
+msgid "青木　：さて・・・どうしようか？"
+msgstr "Aoki: So... what should we do?"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t04"
+msgid "千歳　：「飲食店」でいいんじゃないか？"
+msgstr "Chitose: Wouldn't a \"food stall\" be fine?"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t05"
+msgid "美広　：飲食店やるクラス、多いって聞いた　　　　からね・・・できれば別なのが　　　　　　いいんだけど・・・。"
+msgstr "Bihiro: I hear lots of classes are doing food stalls... I'd rather do something else if we can..."
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t06"
+msgid "伊達　：昼間のアンケートは？　　　　　　　　　　何て書いてある？"
+msgstr "Date: What about this afternoon's survey? What does it say?"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t07"
+msgid "青木　：えっと、ロクなのがなさそうだなぁ　　　　・・・「飲食店」・・・「休憩所」　　　　「演劇」、あとは・・・"
+msgstr "Aoki: Let's see, doesn't look like there's anything decent... \"food stall\"... \"rest area\", \"play\", and then..."
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t08"
+msgid "美広　：あとは？"
+msgstr "Bihiro: And then?"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t09"
+msgid "青木　：・・・・「校内宝探し」・・・・・　　　　「おばけやし"
+msgstr "Aoki: ....\"school treasure hunt\"..... \"haunted hou"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t10"
+msgid "青木　：・・・・「校内宝探し」・・・・・　　　　「おばけやしきぃ！？」"
+msgstr "Aoki: ....\"school treasure hunt\"..... \"haunted HOUSE!?\""
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t11"
+msgid "伊達　：キャー！"
+msgstr "Date: Eeek!"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t12"
+msgid "千歳　：大丈夫か、伊達！？"
+msgstr "Chitose: Are you okay, Date!?"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t13"
+msgid "青木　：・・・おさまった・・・か？"
+msgstr "Aoki: ...Has it... stopped?"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t14"
+msgid "伊達　：なんか最近、多くなったね。　　　　　　　地震・・・。"
+msgstr "Date: There've been a lot more lately, haven't there. Earthquakes..."
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t15"
+msgid "千歳　：・・・・・うん、確かにね。"
+msgstr "Chitose: .....Yeah, there sure have."
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t16"
+msgid "青木　：なんか気持ち悪いな・・・。　　　　　　　今日は、ここまでにして帰ろうぜ？"
+msgstr "Aoki: This is kind of creepy... Let's call it a day and go home, okay?"
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t17"
+msgid "美広　：私も何か気持ち悪いわ。　　　　　　　　　この続きは・・・明日にしようよ。"
+msgstr "Bihiro: I feel a bit creeped out too. Let's do the rest... tomorrow."
+
+#. event 0, page 1 | screen 128, cell (3,0)
+#, fuzzy
+msgctxt "IVENT04/e000/p1/t18"
+msgid "　　　　　　　　　　　　　　　　　　　　（美広、千歳、伊達が仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Bihiro, Chitose and Date joined)"
+
+#. event 20, page 0 | screen 323, cell (5,5)
+#, fuzzy
+msgctxt "IVENT04/e020/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　４　階"
+msgstr ""
+"\n"
+"{center}4th Floor"
+
+#. event 21, page 0 | screen 422, cell (16,3)
+#, fuzzy
+msgctxt "IVENT04/e021/p0/t00"
+msgid "　　　　－－－渡り廊下－－－　　　　　　　　　別館の「講師室」がある。　　　　　　　一般の生徒は、立ち入り禁止。"
+msgstr ""
+"{center}--- Connecting Corridor ---\n"
+"The annex \"Teachers' Room\" is this way. Off limits to ordinary students."
+
+#. event 22, page 0 | screen 422, cell (17,4)
+#, fuzzy
+msgctxt "IVENT04/e022/p0/t00"
+msgid "　　　　－－－渡り廊下－－－　　　　　　　　　別館の「講師室」がある。　　　　　　　一般の生徒は、立ち入り禁止。"
+msgstr ""
+"{center}--- Connecting Corridor ---\n"
+"The annex \"Teachers' Room\" is this way. Off limits to ordinary students."
+
+#. event 23, page 0 | screen 326, cell (5,5)
+#, fuzzy
+msgctxt "IVENT04/e023/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 24, page 0 | screen 326, cell (6,5)
+#, fuzzy
+msgctxt "IVENT04/e024/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 25, page 0 | screen 326, cell (7,5)
+#, fuzzy
+msgctxt "IVENT04/e025/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 28, page 0 | screen 323, cell (7,5)
+#, fuzzy
+msgctxt "IVENT04/e028/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　２　階"
+msgstr ""
+"\n"
+"{center}2nd Floor"
+
+#. event 28, page 1 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT04/e028/p1/t00"
+msgid "青木　：美広が気になる・・・"
+msgstr "Aoki: I'm worried about Bihiro..."
+
+#. event 29, page 0 | screen 419, cell (5,5)
+#, fuzzy
+msgctxt "IVENT04/e029/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　３　階"
+msgstr ""
+"\n"
+"{center}3rd Floor"
+
+#. event 30, page 0 | screen 419, cell (7,5)
+#, fuzzy
+msgctxt "IVENT04/e030/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　１　階"
+msgstr ""
+"\n"
+"{center}1st Floor"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　すいませぇーん、若月学長ォ"
+msgstr ""
+"\n"
+"{center}Excuse meee, Principal Wakatsukiii"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　　静かだね・・・誰もいないのかなぁ"
+msgstr ""
+"\n"
+"{center}It's quiet... Is nobody here?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　　ねぇ！　あの樹！　見て！　　　　　　　　　　　　　何か人の顔に見えない？"
+msgstr ""
+"\n"
+"{center}Hey! That tree! Look!\n"
+"{center}Doesn't it look like a face?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t03"
+msgid "　　　　　　　　　　　　　　　　　　　　　　それだったら、そこの庭石も　　　　　　　　　　　　　　人の顔に見えるよ？"
+msgstr ""
+"\n"
+"{center}If you say that, that garden rock\n"
+"{center}looks like a face too, you know?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t04"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　学長ォ！　いないんですかぁ？"
+msgstr ""
+"\n"
+"{center}Principaaal! Aren't you here?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t05"
+msgid "　　　　　　　　　　　　　　　　　　　　　　あれ？　あそこにいるの　　　　　　　　　　　　　学長じゃない・・・きゃー！"
+msgstr ""
+"\n"
+"{center}Huh? Isn't that the Principal\n"
+"{center}over there... Eeek!"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t06"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　どうしたの！？"
+msgstr ""
+"\n"
+"{center}What's wrong!?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t07"
+msgid "　　　　　　　　　　　　　　　　　　　　　　あそこ・・・学長が消えた・・・・"
+msgstr ""
+"\n"
+"{center}Over there... the Principal vanished...."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t08"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　　　　え？"
+msgstr ""
+"\n"
+"{center}Huh?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t09"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　あの、奥の建物の所・・・"
+msgstr ""
+"\n"
+"{center}Over by that building in the back..."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t10"
+msgid "美広　：そこが［根岸霊廟（れいびょう）］　　　　っていう所ですごい昔からある建物　　　　らしいよ。"
+msgstr "Bihiro: That place is called the [Negishi Mausoleum], and apparently the building has been there since ages ago."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t11"
+msgid "青木　：へぇー、ふぅーん・・・"
+msgstr "Aoki: Ohh, uh-huh..."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t12"
+msgid "美広　：あー、信じてないでしょー？"
+msgstr "Bihiro: Aah, you don't believe me, do you?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t13"
+msgid "青木　：俺、そういう・・・霊体験？　とか　　　　ないからさぁ。　いや別に全然　　　　　　信じないわけじゃないけどさぁ。"
+msgstr "Aoki: I've never had any of those... ghostly experiences? Not that I flat out don't believe it or anything."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t14"
+msgid "美広　：私、今みたいな説明のつかない　　　　　　不思議な事件とか、霊体験だったら　　　　何回かあったよ。"
+msgstr "Bihiro: I've had a few. Strange incidents you can't explain like that one, and ghostly experiences."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t15"
+msgid "青木　：・・・それはそれは。　ご苦労様。"
+msgstr "Aoki: ...Well, well. That must have been rough."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t16"
+msgid "美広　：霊体験。誰が何と言おうと霊体験。　　　　霊体験ー。"
+msgstr "Bihiro: Ghostly experiences. Whatever anyone says, ghostly experiences. Ghoostly."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t17"
+msgid "青木　：そういうことは霊撮隊に言えー。"
+msgstr "Aoki: Go tell that to the ghost-filming crew."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t18"
+msgid "美広　：あの人達、気持ち悪いから、イヤ。"
+msgstr "Bihiro: Those people are creepy. No thanks."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t19"
+msgid "美広　：！？"
+msgstr "Bihiro: !?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t20"
+msgid "青木　：なんだ！？"
+msgstr "Aoki: What was that!?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t21"
+msgid "美広　：随分、遠くから聞こえたわね・・・"
+msgstr "Bihiro: It came from pretty far away..."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t22"
+msgid "青木　：幽霊の話なんかしてたからかな？"
+msgstr "Aoki: Maybe because we were talking about ghosts?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t23"
+msgid "美広　：脅かさないでよ！　どうする？　　　　　　行く？"
+msgstr "Bihiro: Don't scare me! What do we do? Go?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t24"
+msgid "青木　：とりあえず・・・見てこよう・・・"
+msgstr "Aoki: For now... let's go have a look..."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t25"
+msgid "青木　：やだなぁ・・・この学園”でる”　　　　　って噂だからなぁ。"
+msgstr "Aoki: I don't like this... They do say this school is \"haunted\"."
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t26"
+msgid "美広　：今の時間さぁ、残ってる人って先生　　　　ぐらいじゃない？"
+msgstr "Bihiro: At this hour, the only people left would be teachers, right?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t27"
+msgid "青木　：・・・？　なぁ美広、なんか・・・　　　　寒くないか？"
+msgstr "Aoki: ...? Hey Bihiro, isn't it... kind of cold?"
+
+#. event 31, page 0 | screen 288, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e031/p0/t28"
+msgid "美広　：うん・・・風が妙に冷たいね・・・"
+msgstr "Bihiro: Yeah... the wind is strangely cold..."
+
+#. event 40, page 0 | screen 353, cell (12,2)
+#, fuzzy
+msgctxt "IVENT04/e040/p0/t00"
+msgid "　　　－－－掃除用具ロッカー－－－　　　　　　　　　ほうき、モップ、　　　　　　　　　　ちりとりが入っている。"
+msgstr ""
+"{center}--- Cleaning Locker ---\n"
+"Brooms, mops and a dustpan are inside."
+
+#. event 41, page 0 | screen 353, cell (9,2)
+#, fuzzy
+msgctxt "IVENT04/e041/p0/t00"
+msgid "青木　：うわぁ！　すげー寒いぞ！？"
+msgstr "Aoki: Whoa! It's freezing!?"
+
+#. event 41, page 0 | screen 353, cell (9,2)
+#, fuzzy
+msgctxt "IVENT04/e041/p0/t01"
+msgid "美広　：青木君・・・息、白いよ・・・？"
+msgstr "Bihiro: Aoki... your breath is white..."
+
+#. event 41, page 0 | screen 353, cell (9,2)
+#, fuzzy
+msgctxt "IVENT04/e041/p0/t02"
+msgid "青木　：あぁ・・・本当だ・・・。　　　　　　　　駄目だ！　寒い！　教室に戻ろう！"
+msgstr "Aoki: Ah... so it is... No good! Too cold! Let's go back to the classroom!"
+
+#. event 41, page 1 | screen 128, cell (5,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p1/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　寒過ぎる・・・通れない！"
+msgstr ""
+"\n"
+"{center}It's too cold... can't get through!"
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t00"
+msgid "美広　：！？　・・・あ・・・あ・・・　　　　　　きゃー！！"
+msgstr "Bihiro: !? ...Ah... ah... Eeeek!!"
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t01"
+msgid "青木　：な、なんだアイツ・・・！？"
+msgstr "Aoki: Wh-what is that thing...!?"
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t02"
+msgid "？？？：ぐ、なんだ・・・もう見えるのか？　　　　お前達にも・・？　うぅ、ううぅ。"
+msgstr "???: Gh, what... you can see already? Even you...? Uuh, uuuh."
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t03"
+msgid "美広　：！？　！？"
+msgstr "Bihiro: !? !?"
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t04"
+msgid "青木　：なんなんだ、アイツ・・・？"
+msgstr "Aoki: What the hell is that thing...?"
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t05"
+msgid "？？？：なんでもいい・・・喰いたい・・・"
+msgstr "???: Anything will do... I want to eat..."
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t06"
+msgid "青木　：さがって・・・さがってろ、美広。"
+msgstr "Aoki: Get back... stay back, Bihiro."
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t07"
+msgid "美広　：やだよ・・離れたくないもん・・・"
+msgstr "Bihiro: No.. I don't want to leave you..."
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t08"
+msgid "青木　：・・・・・・。"
+msgstr "Aoki: ......"
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t09"
+msgid "？？？：お前達でもいい！　喰わせろぉ！！"
+msgstr "???: You will do! Let me eat youuu!!"
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t10"
+msgid "青木　：はぁ、はぁ・・・。"
+msgstr "Aoki: Hah, hah..."
+
+#. event 41, page 2 | screen 128, cell (7,1)
+#, fuzzy
+msgctxt "IVENT04/e041/p2/t11"
+msgid "？？？：ふぉう・・・少し痛いぞ。　　　　　　　　苦しいぞ・・・"
+msgstr "???: Fooh... that hurts a little. It's painful..."
+
+#. event 50, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT04/e050/p1/t00"
+msgid "青木　：何が、なんなんだ？"
+msgstr "Aoki: What the hell is going on?"
+
+#. event 50, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT04/e050/p1/t01"
+msgid "美広　：・・・どうしよう・・・？"
+msgstr "Bihiro: ...What do we do...?"
+
+#. event 50, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT04/e050/p1/t02"
+msgid "青木　：ん？　今、何か・・・"
+msgstr "Aoki: Hm? Just now, something..."
+
+#. event 50, page 1 | screen 128, cell (6,1)
+#, fuzzy
+msgctxt "IVENT04/e050/p1/t03"
+msgid "美広　：うん・・・廊下？"
+msgstr "Bihiro: Yeah... the hallway?"
+
+#. event 60, page 0 | screen 417, cell (9,2)
+#, fuzzy
+msgctxt "IVENT04/e060/p0/t00"
+msgid "　　　　　　　　　　　　　　　　　　　　　　　　　臨兵闘者皆陣烈在前！"
+msgstr ""
+"\n"
+"{center}Rin Pyo To Sha Kai Jin Retsu Zai Zen!"
+
+#. event 60, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p1/t00"
+msgid "女性　：うわぁ・・・別の意味で凄いわねぇ　　　　ここは・・・・。"
+msgstr "Woman: Wow... this place is amazing, in a different sense...."
+
+#. event 60, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p1/t01"
+msgid "？？？：ここは・・・危険だぞ・・・"
+msgstr "???: This place... is dangerous..."
+
+#. event 60, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p1/t02"
+msgid "女性　：あんたには、ね。　残れないの？"
+msgstr "Woman: For you, sure. Can't you stay?"
+
+#. event 60, page 1 | screen 128, cell (10,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p1/t03"
+msgid "？？？：こいつらの背後霊団が・・・無理だ"
+msgstr "???: The spirit bands behind these two... impossible."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t00"
+msgid "女性　：あーあ、なんだ・・・やっちゃった　　　　わ。　・・・ちぇーっ"
+msgstr "Woman: Aah, oh dear... now I've done it. ...Tch."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t01"
+msgid "美広　：青木君、大丈夫！？"
+msgstr "Bihiro: Aoki, are you okay!?"
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t02"
+msgid "青木　：すごい、目まいがする・・・"
+msgstr "Aoki: I'm really dizzy..."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t03"
+msgid "女性　：慣れてないからスキができたのよ。　　　　それで蛇が頭に巻きついただけ。"
+msgstr "Woman: You're not used to it, so you left an opening. A snake just coiled around your head, that's all."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t04"
+msgid "美広　：・・・・・・・・？"
+msgstr "Bihiro: ........?"
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t05"
+msgid "女性　：えぇっと、青木君？　　　　　　　　　　　今、除霊して落したげるから。"
+msgstr "Woman: Um, Aoki, was it? I'll exorcise it off you right now."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t06"
+msgid "青木　：は？　え？　・・・・除霊？"
+msgstr "Aoki: Huh? What? ....Exorcise?"
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t07"
+msgid "女性　：と言っても・・・この時間じゃ地道　　　　に落としても無駄みたいね・・・。　　　　ヲンコロコロセンダリマトヲギ　　　　　　ソワカ・・ヲンコロコロセン・・・"
+msgstr "Woman: Though... at this hour it looks useless to take it off the slow way... On koro koro sendari matogi sowaka.. On koro koro sen..."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t08"
+msgid "女性　：青木君の背後霊団に任せて除霊　　　　　　させるけど、何十人も増えてるし、　　　　”筋肉”もありそうだからすぐ楽に　　　　なるわ。"
+msgstr "Woman: I'll leave the exorcism to the spirit band behind you. You've gained dozens more, and you seem to have \"muscle\", so you'll feel better soon."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t09"
+msgid "青木　：はぁ？　はぁ・・・あの・・・いえ　　　　・・・どうも・・・。"
+msgstr "Aoki: Huh? Uh... um... no... thanks..."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t10"
+msgid "女性　：それにしても・・・なんでこんな　　　　　時間まで残ってるの？　５時か６時　　　　過ぎたら全員下校なんでしょ？　　　　　　あ、”そういう関係”なの？"
+msgstr "Woman: Still... why are you here so late? Everyone's supposed to go home after 5 or 6, right? Oh, are you two \"like that\"?"
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t11"
+msgid "美広　：・・・違います。　教室に傘を　　　　　　忘れて、取りにきたんです！"
+msgstr "Bihiro: ...We are not. I forgot my umbrella in the classroom and came back for it!"
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t12"
+msgid "女性　：そんな露骨に怒らないで。　　　　　　　　背後霊は嘘をつかないのよ。　　　　　　　私は”若月みおみ”。　　　　　　　　　　この学園の非常勤講師。"
+msgstr "Woman: Don't get so openly angry. Guardian spirits don't lie. I'm \"Miomi Wakatsuki\". A part-time lecturer at this school."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t13"
+msgid "女性　：・・・と言っても授業はやったこと　　　　ないんだけどね。"
+msgstr "Woman: ...Not that I've ever actually taught a class."
+
+#. event 60, page 3 | screen 128, cell (12,1)
+#, fuzzy
+msgctxt "IVENT04/e060/p3/t14"
+msgid "美広　：あの・・・今の変な奴は？"
+msgstr "Bihiro: Um... what was that weird thing just now?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t00"
+msgid "若月　：ここらへんの土地に住んでいる悪霊　　　　が呼んだ”餓鬼”ってやつ。"
+msgstr "Wakatsuki: A \"hungry ghost\", called here by the evil spirits that live on this land."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t01"
+msgid "美広　：餓鬼・・・？　妖怪とかオバケとか　　　　のアレですか？"
+msgstr "Bihiro: A hungry ghost...? Like the monsters and spooks in stories?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t02"
+msgid "若月　：そう。　かなりひどい所よココは。　　　　学園の近くにある寺や霊廟も霊の　　　　　集まる目印みたいな存在だし。"
+msgstr "Wakatsuki: Right. This is a pretty awful place. The temple and mausoleum near the school are like landmarks that spirits gather around."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t03"
+msgid "青木　：幽霊とか・・・マジでいるんスか？　　　　本当に本物の幽霊が？"
+msgstr "Aoki: Ghosts... do they seriously exist? Real, actual ghosts?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t04"
+msgid "若月　：んじゃ、聞くけど・・・さっき見た　　　　のは何？　醜いツラした、お腹の　　　　　ブヨヨーンとした、飲まれて　　　　　　　消えた、さっきのあれは？"
+msgstr "Wakatsuki: Then let me ask... what did you just see? The thing with the ugly mug and the flabby belly that got swallowed up and vanished?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t05"
+msgid "青木　：・・・いや・・・でも・・・"
+msgstr "Aoki: ...Well... but..."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t06"
+msgid "若月　：霊がいないとしたら、人間は　　　　　　　どういう存在なの？　　　　　　　　　　　どうやって動いてるの？　　　　　　　　　なんで死ぬの？"
+msgstr "Wakatsuki: If there are no spirits, then what are humans? How do they move? Why do they die?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t07"
+msgid "若月　：動物はなぜ”死ぬ”時があるの？　　　　　なぜ、死体は生きてないの？　　　　　　　人形に生命がないのはなぜ？"
+msgstr "Wakatsuki: Why do animals \"die\"? Why isn't a corpse alive? Why does a doll have no life?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t08"
+msgid "若月　：大体、普段から「気合いが何とか」　　　　とか言ってるクセに、お正月に神社　　　　に初詣とかに行く人間が、霊を信じ　　　　ないほうがおかしいのよ。"
+msgstr "Wakatsuki: Honestly, people who always go on about \"fighting spirit\" and visit a shrine every New Year yet don't believe in spirits are the strange ones."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t09"
+msgid "若月　：霊ってのは念とか気の世界なの。　　　　　・・・とにかく、今の貴方達に　　　　　　とっては信じるとか信じないとかの　　　　レベルじゃないと思うけど？"
+msgstr "Wakatsuki: Spirits belong to the world of thought and ki. ...Anyway, for you two now, I'd say it's past the level of believing or not believing."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t10"
+msgid "青木　：・・・はぁ・・・うわ！　頭が！"
+msgstr "Aoki: ...Huh... Whoa! My head!"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t11"
+msgid "美広　：大丈夫！？"
+msgstr "Bihiro: Are you okay!?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t12"
+msgid "若月　：しがみついてるだけだから、大丈夫　　　　だって。　すぐ楽になるから。　　　　　　さて・・・私、車で来てるから、家　　　　まで送ったげる。"
+msgstr "Wakatsuki: It's only clinging to him, he's fine. He'll feel better soon. Now... I came by car, so I'll drive you home."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t13"
+msgid "美広　：あ、下で友達が待ってるんですけど"
+msgstr "Bihiro: Oh, but our friends are waiting downstairs."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t14"
+msgid "若月　：・・・誰もいないはずよ。"
+msgstr "Wakatsuki: ...There shouldn't be anyone."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t15"
+msgid "美広　：は？"
+msgstr "Bihiro: Huh?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t16"
+msgid "若月　：確かに玄関にも二人いたけどテレビ　　　　局だかなんだかの車に乗っていった　　　　の見たし・・・学園内には、もう誰　　　　もいないはず。"
+msgstr "Wakatsuki: There were two at the entrance, yes, but I saw them get into a car from a TV station or something... There should be nobody left in the school."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t17"
+msgid "美広　：テレビ局の・・・？"
+msgstr "Bihiro: From a TV station...?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t18"
+msgid "青木　：・・・餓鬼・・・"
+msgstr "Aoki: ...Hungry ghost..."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t19"
+msgid "若月　：この学園も・・・どの階も、あの　　　　　程度なら楽なんだけどなぁ・・・。"
+msgstr "Wakatsuki: If only this school... every floor... were at that level, it would be easy..."
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t20"
+msgid "美広　：は？"
+msgstr "Bihiro: Huh?"
+
+#. event 82, page 0 | screen 449, cell (0,0)
+#, fuzzy
+msgctxt "IVENT04/e082/p0/t21"
+msgid "若月　：・・んー、何でもないわ。　　　　　　　　さ、行きましょか。"
+msgstr "Wakatsuki: ..Mm, it's nothing. Well, shall we go?"
+
+#. event 100, page 2 | screen 128, cell (16,1)
+#, fuzzy
+msgctxt "IVENT04/e100/p2/t00"
+msgid "美広　：青木君、本当に大丈夫？　　　　　　　　　凄い油汗かいてるよ・・・"
+msgstr "Bihiro: Aoki, are you really okay? You're dripping with sweat..."
+
+#. event 100, page 2 | screen 128, cell (16,1)
+#, fuzzy
+msgctxt "IVENT04/e100/p2/t01"
+msgid "青木　：頭は痛くないけど、暑いからな・・　　　　・・・この教室・・・"
+msgstr "Aoki: My head doesn't hurt, but it's hot..... in this classroom..."
+
+#. event 100, page 2 | screen 128, cell (16,1)
+#, fuzzy
+msgctxt "IVENT04/e100/p2/t02"
+msgid "美広　：・・・！　本当だ・・・暑いね・・　　　　さっきまで、あんなに寒かったのに　　　　・・・・・・・"
+msgstr "Bihiro: ...! You're right... it's hot.. even though it was so cold until just now......."
+
+#. event 100, page 2 | screen 128, cell (16,1)
+#, fuzzy
+msgctxt "IVENT04/e100/p2/t03"
+msgid "青木　：・・・疲れた・・・帰ろう・・・"
+msgstr "Aoki: ...I'm tired... let's go home..."
+
+#. event 100, page 2 | screen 128, cell (16,1)
+#, fuzzy
+msgctxt "IVENT04/e100/p2/t04"
+msgid "青木　：・・・なんなんだ・・・・？　　　　　　　この”包まれてるような”感覚は？　　　　それに、・・・”気配”・・・・？"
+msgstr "Aoki: ...What is this....? This feeling of being \"wrapped up\"? And... a \"presence\"....?"
+
+#. event 100, page 2 | screen 128, cell (16,1)
+#, fuzzy
+msgctxt "IVENT04/e100/p2/t05"
+msgid "　　　　　　　　　　　　　　　　　　　　　　こうして、一日目は終った・・・"
+msgstr ""
+"\n"
+"{center}And so the first day came to an end..."
+
+#. event 113, page 0 | screen 322, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e113/p0/t00"
+msgid "美広　：ねぇ・・・入るの？"
+msgstr "Bihiro: Hey... are you going in?"
+
+#. event 113, page 0 | screen 322, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e113/p0/t01"
+msgid "伊達　：なら、ここで待ってるから。"
+msgstr "Date: Then we'll wait for you here."
+
+#. event 113, page 0 | screen 322, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e113/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　（美広・伊達が、仲間からはずれます）"
+msgstr ""
+"\n"
+"{center}(Bihiro and Date leave the party)"
+
+#. event 113, page 0 | screen 322, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e113/p0/t03"
+msgid "　　　　　　　　　　　　　　　　　　　　　　－－－３階　男子トイレ－－－"
+msgstr ""
+"\n"
+"{center}--- 3F Boys' Toilet ---"
+
+#. event 113, page 0 | screen 322, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e113/p0/t04"
+msgid "青木　：・・・いいや。"
+msgstr "Aoki: ...Nah, never mind."
+
+#. event 113, page 1 | screen 128, cell (18,9)
+#, fuzzy
+msgctxt "IVENT04/e113/p1/t00"
+msgid "美広　：トイレなんか行ってる暇ないよ！"
+msgstr "Bihiro: We don't have time for the toilet!"
+
+#. event 116, page 0 | screen 322, cell (13,2)
+#, fuzzy
+msgctxt "IVENT04/e116/p0/t00"
+msgid "青木　：ん？　ああ、ここで待ってるから。"
+msgstr "Aoki: Hm? Oh, I'll wait for you here."
+
+#. event 116, page 0 | screen 322, cell (13,2)
+#, fuzzy
+msgctxt "IVENT04/e116/p0/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（青木・千歳が、仲間からはずれます）"
+msgstr ""
+"\n"
+"{center}(Aoki and Chitose leave the party)"
+
+#. event 116, page 0 | screen 322, cell (13,2)
+#, fuzzy
+msgctxt "IVENT04/e116/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　　－－－３階　女子トイレ－－－"
+msgstr ""
+"\n"
+"{center}--- 3F Girls' Toilet ---"
+
+#. event 116, page 1 | screen 128, cell (18,9)
+#, fuzzy
+msgctxt "IVENT04/e116/p1/t00"
+msgid "青木　：トイレなんか行ってる暇ないぞ！"
+msgstr "Aoki: We don't have time for the toilet!"
+
+#. event 116, page 2 | screen 128, cell (3,2)
+#, fuzzy
+msgctxt "IVENT04/e116/p2/t00"
+msgid "　　女子トイレ・・・入る所を誰かに　　　　　　　　　見られたらかなりやばいなぁ。"
+msgstr ""
+"  The girls' toilet... If anybody saw me\n"
+"  going in, I'd be in serious trouble."
+
+#. event 119, page 1 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT04/e119/p1/t00"
+msgid "伊達　：んじゃ、行こうか。　それにしても　　　　廊下さぁ、なんか寒いぐらいね。"
+msgstr "Date: Well, shall we go? Still, this hallway... it's almost cold, isn't it?"
+
+#. event 119, page 1 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT04/e119/p1/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（美広・伊達が、仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Bihiro and Date joined the party)"
+
+#. event 120, page 0 | screen 290, cell (7,6)
+#, fuzzy
+msgctxt "IVENT04/e120/p0/t00"
+msgid "　　　　　－－－ロッカー－－－　　　　　　　　モップ、スポンジが入っている。"
+msgstr ""
+"{center}--- Locker ---\n"
+"Mops and sponges are inside."
+
+#. event 121, page 0 | screen 290, cell (8,6)
+#, fuzzy
+msgctxt "IVENT04/e121/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 122, page 0 | screen 290, cell (9,6)
+#, fuzzy
+msgctxt "IVENT04/e122/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 123, page 0 | screen 290, cell (10,5)
+#, fuzzy
+msgctxt "IVENT04/e123/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 124, page 0 | screen 290, cell (11,5)
+#, fuzzy
+msgctxt "IVENT04/e124/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 125, page 1 | screen 128, cell (6,0)
+#, fuzzy
+msgctxt "IVENT04/e125/p1/t00"
+msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
+msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+
+#. event 125, page 1 | screen 128, cell (6,0)
+#, fuzzy
+msgctxt "IVENT04/e125/p1/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（青木・千歳が、仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Aoki and Chitose joined the party)"
+
+#. event 126, page 0 | screen 291, cell (7,6)
+#, fuzzy
+msgctxt "IVENT04/e126/p0/t00"
+msgid "　　　　　－－－ロッカー－－－　　　　　　　　モップ、スポンジが入っている。"
+msgstr ""
+"{center}--- Locker ---\n"
+"Mops and sponges are inside."
+
+#. event 127, page 0 | screen 322, cell (4,7)
+#, fuzzy
+msgctxt "IVENT04/e127/p0/t00"
+msgid "　　　－－－火災報知機－－－　　　　　　　　　　　スイッチがある。　　　　　　　　　　押すと消防車が来てしまう！"
+msgstr ""
+"{center}--- Fire Alarm ---\n"
+"There's a switch. Press it and the fire engines will come!"
+
+#. event 128, page 0 | screen 322, cell (7,5)
+#, fuzzy
+msgctxt "IVENT04/e128/p0/t00"
+msgid "　　　　　－－－水道－－－　　　　　　　　　　　ぬるい水がでてくるが、　　　　　　　　すぐに冷たい水に変わる・・・。"
+msgstr ""
+"{center}--- Faucet ---\n"
+"Lukewarm water comes out, but it soon turns cold..."
+
+#. event 129, page 0 | screen 322, cell (8,5)
+#, fuzzy
+msgctxt "IVENT04/e129/p0/t00"
+msgid "　　　　　－－－水道－－－　　　　　　　　　　　ぬるい水がでてくるが、　　　　　　　　すぐに冷たい水に変わる・・・。"
+msgstr ""
+"{center}--- Faucet ---\n"
+"Lukewarm water comes out, but it soon turns cold..."
+
+#. event 175, page 0 | screen 326, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e175/p0/t00"
+msgid "美広　：ねぇ・・・入るの？"
+msgstr "Bihiro: Hey... are you going in?"
+
+#. event 175, page 0 | screen 326, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e175/p0/t01"
+msgid "伊達　：なら、ここで待ってるから。"
+msgstr "Date: Then we'll wait for you here."
+
+#. event 175, page 0 | screen 326, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e175/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　（美広・伊達が、仲間からはずれます）"
+msgstr ""
+"\n"
+"{center}(Bihiro and Date leave the party)"
+
+#. event 175, page 0 | screen 326, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e175/p0/t03"
+msgid "　　　　　　　　　　　　　　　　　　　　　　－－－３階　男子トイレ－－－"
+msgstr ""
+"\n"
+"{center}--- 3F Boys' Toilet ---"
+
+#. event 175, page 0 | screen 326, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e175/p0/t04"
+msgid "青木　：・・・いいや。"
+msgstr "Aoki: ...Nah, never mind."
+
+#. event 175, page 1 | screen 128, cell (18,9)
+#, fuzzy
+msgctxt "IVENT04/e175/p1/t00"
+msgid "美広　：トイレなんか行ってる暇ないよ！"
+msgstr "Bihiro: We don't have time for the toilet!"
+
+#. event 178, page 1 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT04/e178/p1/t00"
+msgid "伊達　：んじゃ、行こうか。　それにしても　　　　廊下さぁ、なんか寒いぐらいね。"
+msgstr "Date: Well, shall we go? Still, this hallway... it's almost cold, isn't it?"
+
+#. event 178, page 1 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT04/e178/p1/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（美広・伊達が、仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Bihiro and Date joined the party)"
+
+#. event 179, page 0 | screen 294, cell (7,6)
+#, fuzzy
+msgctxt "IVENT04/e179/p0/t00"
+msgid "　　　　　－－－ロッカー－－－　　　　　　　　モップ、スポンジが入っている。"
+msgstr ""
+"{center}--- Locker ---\n"
+"Mops and sponges are inside."
+
+#. event 180, page 0 | screen 294, cell (8,6)
+#, fuzzy
+msgctxt "IVENT04/e180/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 181, page 0 | screen 294, cell (9,6)
+#, fuzzy
+msgctxt "IVENT04/e181/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 182, page 0 | screen 294, cell (10,5)
+#, fuzzy
+msgctxt "IVENT04/e182/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 183, page 0 | screen 294, cell (11,5)
+#, fuzzy
+msgctxt "IVENT04/e183/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　　　対人感知機能つき。　　　　　　　　　　色はアイボリーホワイト。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"Fitted with a motion sensor.\n"
+"The color is ivory white."
+
+#. event 221, page 0 | screen 422, cell (5,5)
+#, fuzzy
+msgctxt "IVENT04/e221/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 222, page 0 | screen 422, cell (6,5)
+#, fuzzy
+msgctxt "IVENT04/e222/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 223, page 0 | screen 422, cell (7,5)
+#, fuzzy
+msgctxt "IVENT04/e223/p0/t00"
+msgid "　　　－－－工事用ネット－－－　　　　　　　落下事故が起きてから、　　　　　　　　　　　工事は中断している・・・。"
+msgstr ""
+"{center}--- Construction Net ---\n"
+"Work has been suspended ever since the falling accident..."
+
+#. event 243, page 0 | screen 422, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e243/p0/t00"
+msgid "青木　：ん？　ああ、ここで待ってるから。"
+msgstr "Aoki: Hm? Oh, I'll wait for you here."
+
+#. event 243, page 0 | screen 422, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e243/p0/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（青木・千歳が、仲間からはずれます）"
+msgstr ""
+"\n"
+"{center}(Aoki and Chitose leave the party)"
+
+#. event 243, page 0 | screen 422, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e243/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　　－－－２階　女子トイレ－－－"
+msgstr ""
+"\n"
+"{center}--- 2F Girls' Toilet ---"
+
+#. event 243, page 1 | screen 128, cell (18,9)
+#, fuzzy
+msgctxt "IVENT04/e243/p1/t00"
+msgid "青木　：トイレなんか行ってる暇ないぞ！"
+msgstr "Aoki: We don't have time for the toilet!"
+
+#. event 244, page 0 | screen 418, cell (13,2)
+#, fuzzy
+msgctxt "IVENT04/e244/p0/t00"
+msgid "青木　：ん？　ああ、ここで待ってるから。"
+msgstr "Aoki: Hm? Oh, I'll wait for you here."
+
+#. event 244, page 0 | screen 418, cell (13,2)
+#, fuzzy
+msgctxt "IVENT04/e244/p0/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（青木・千歳が、仲間からはずれます）"
+msgstr ""
+"\n"
+"{center}(Aoki and Chitose leave the party)"
+
+#. event 244, page 0 | screen 418, cell (13,2)
+#, fuzzy
+msgctxt "IVENT04/e244/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　　－－－２階　女子トイレ－－－"
+msgstr ""
+"\n"
+"{center}--- 2F Girls' Toilet ---"
+
+#. event 244, page 1 | screen 128, cell (18,9)
+#, fuzzy
+msgctxt "IVENT04/e244/p1/t00"
+msgid "青木　：トイレなんか、行ってる暇ないぞ！"
+msgstr "Aoki: We don't have time for the toilet!"
+
+#. event 245, page 0 | screen 418, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e245/p0/t00"
+msgid "美広　：ねぇ・・・入るの？"
+msgstr "Bihiro: Hey... are you going in?"
+
+#. event 245, page 0 | screen 418, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e245/p0/t01"
+msgid "伊達　：なら、ここで待ってるから。"
+msgstr "Date: Then we'll wait for you here."
+
+#. event 245, page 0 | screen 418, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e245/p0/t02"
+msgid "　　　　　　　　　　　　　　　　　　　　　（美広・伊達が、仲間からはずれます）"
+msgstr ""
+"\n"
+"{center}(Bihiro and Date leave the party)"
+
+#. event 245, page 0 | screen 418, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e245/p0/t03"
+msgid "　　　　　　　　　　　　　　　　　　　　　　－－－２階　男子トイレ－－－"
+msgstr ""
+"\n"
+"{center}--- 2F Boys' Toilet ---"
+
+#. event 245, page 0 | screen 418, cell (11,3)
+#, fuzzy
+msgctxt "IVENT04/e245/p0/t04"
+msgid "青木　：・・・いいや。"
+msgstr "Aoki: ...Nah, never mind."
+
+#. event 245, page 1 | screen 128, cell (18,9)
+#, fuzzy
+msgctxt "IVENT04/e245/p1/t00"
+msgid "美広　：トイレなんか行ってる暇、ないよ！"
+msgstr "Bihiro: We don't have time for the toilet!"
+
+#. event 248, page 1 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT04/e248/p1/t00"
+msgid "伊達　：んじゃ、行こうか。　それにしても　　　　廊下さぁ、なんか寒いぐらいね。"
+msgstr "Date: Well, shall we go? Still, this hallway... it's almost cold, isn't it?"
+
+#. event 248, page 1 | screen 128, cell (5,0)
+#, fuzzy
+msgctxt "IVENT04/e248/p1/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（美広・伊達が、仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Bihiro and Date joined the party)"
+
+#. event 249, page 1 | screen 128, cell (6,0)
+#, fuzzy
+msgctxt "IVENT04/e249/p1/t00"
+msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
+msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+
+#. event 249, page 1 | screen 128, cell (6,0)
+#, fuzzy
+msgctxt "IVENT04/e249/p1/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（青木・千歳が、仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Aoki and Chitose joined the party)"
+
+#. event 260, page 1 | screen 128, cell (6,0)
+#, fuzzy
+msgctxt "IVENT04/e260/p1/t00"
+msgid "千歳　：あ、来た来た。　それにしても、　　　　　なんか肌寒いなぁ・・・。"
+msgstr "Chitose: Ah, here he comes. Still, it's kind of chilly, isn't it..."
+
+#. event 260, page 1 | screen 128, cell (6,0)
+#, fuzzy
+msgctxt "IVENT04/e260/p1/t01"
+msgid "　　　　　　　　　　　　　　　　　　　　　（青木・千歳が、仲間になりました）"
+msgstr ""
+"\n"
+"{center}(Aoki and Chitose joined the party)"
+
+#. event 265, page 0 | screen 291, cell (8,6)
+#, fuzzy
+msgctxt "IVENT04/e265/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 266, page 0 | screen 291, cell (9,6)
+#, fuzzy
+msgctxt "IVENT04/e266/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 267, page 0 | screen 291, cell (10,5)
+#, fuzzy
+msgctxt "IVENT04/e267/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 268, page 0 | screen 291, cell (11,5)
+#, fuzzy
+msgctxt "IVENT04/e268/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 269, page 0 | screen 486, cell (11,5)
+#, fuzzy
+msgctxt "IVENT04/e269/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 270, page 0 | screen 486, cell (10,5)
+#, fuzzy
+msgctxt "IVENT04/e270/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 271, page 0 | screen 486, cell (9,6)
+#, fuzzy
+msgctxt "IVENT04/e271/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 272, page 0 | screen 486, cell (8,6)
+#, fuzzy
+msgctxt "IVENT04/e272/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 273, page 0 | screen 483, cell (11,5)
+#, fuzzy
+msgctxt "IVENT04/e273/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 274, page 0 | screen 483, cell (10,5)
+#, fuzzy
+msgctxt "IVENT04/e274/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 275, page 0 | screen 483, cell (9,6)
+#, fuzzy
+msgctxt "IVENT04/e275/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 276, page 0 | screen 483, cell (8,6)
+#, fuzzy
+msgctxt "IVENT04/e276/p0/t00"
+msgid "　　　　　－－－トイレ－－－　　　　　　　　　かなりキレイなトイレだが　　　　　　「花子さん」や「赤いチャンチャンコ」　　　　関係の噂だけは絶えない・・・。"
+msgstr ""
+"{center}--- Toilet ---\n"
+"A pretty clean toilet, but the rumors about \"Hanako-san\" and the \"Red Vest\" never stop..."
+
+#. event 277, page 0 | screen 323, cell (14,4)
+#, fuzzy
+msgctxt "IVENT04/e277/p0/t00"
+msgid "生徒　：学園祭が近いってのに、みんな　　　　　　なんだかんだ言って帰っちゃうんだ　　　　もんなぁ。　もうこの階には誰も　　　　　いないんだよ・・・ふぅ。　　"
+msgstr "Student: The festival's nearly here, and yet everybody makes excuses and goes home. There's nobody left on this floor... Sigh."
+
+#. event 278, page 0 | screen 420, cell (10,6)
+#, fuzzy
+msgctxt "IVENT04/e278/p0/t00"
+msgid "生徒　：う、うわ！"
+msgstr "Student: Wh-whoa!"
+
+#. event 278, page 0 | screen 420, cell (10,6)
+#, fuzzy
+msgctxt "IVENT04/e278/p0/t01"
+msgid "生徒　：う、うわ！　・・・なんだ、青木か　　　　・・・脅かすなよ。"
+msgstr "Student: Wh-whoa! ...Oh, it's you, Aoki... don't scare me."
+
+#. event 278, page 0 | screen 420, cell (10,6)
+#, fuzzy
+msgctxt "IVENT04/e278/p0/t02"
+msgid "生徒　：あ、もしかして、さっきの顔も青木　　　　だったのか？"
+msgstr "Student: Oh, was that face just now you too, Aoki?"
+
+#. event 278, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT04/e278/p1/t00"
+msgid "青木　：顔？"
+msgstr "Aoki: Face?"
+
+#. event 278, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT04/e278/p1/t01"
+msgid "生徒　：俺が教室からでた時、このへんに顔　　　　だけが見えたんだけど・・・"
+msgstr "Student: When I came out of the classroom, I saw just a face around here..."
+
+#. event 278, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT04/e278/p1/t02"
+msgid "青木　：？"
+msgstr "Aoki: ?"
+
+#. event 278, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT04/e278/p1/t03"
+msgid "生徒　：・・・おい、青木だったんだろ？　　　　　違うのか？　おかしいなぁ・・・。"
+msgstr "Student: ...Hey, it was you, right? It wasn't? That's weird..."
+
+#. event 278, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT04/e278/p1/t04"
+msgid "青木　：顔ねぇ・・・"
+msgstr "Aoki: A face, huh..."
+
+#. event 278, page 1 | screen 128, cell (2,2)
+#, fuzzy
+msgctxt "IVENT04/e278/p1/t05"
+msgid "生徒　：顔だけ、浮いてて・・・　　　　　　　　　あああ、マジに恐くなってきた！"
+msgstr "Student: Just a face, floating... Aaah, now I'm seriously scared!"
+
