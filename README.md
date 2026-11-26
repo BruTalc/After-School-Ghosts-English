@@ -16,7 +16,7 @@ festival and find out why their school on the mountain has always been "haunted"
 
 ![A dialogue scene from the English version](ghost-en/docs/screenshot-dialogue.png)
 
-## ⬇ [Download the game for Windows](https://github.com/BruTalc/After-School-Ghosts-English-/releases/latest/download/After-School-Ghosts-English.zip)
+## ⬇ [Download the game for Windows](https://github.com/BruTalc/After-School-Ghosts-English/releases/latest/download/After-School-Ghosts-English.zip)
 
 **Everything you need is in this one download:** the game, the PC-98 emulator, and a launcher.
 There is nothing else to install. Then follow the three steps below.
@@ -27,7 +27,7 @@ There is nothing else to install. Then follow the three steps below.
 
 ### Step 1: Download the game
 
-1. Click **[Download the game for Windows](https://github.com/BruTalc/After-School-Ghosts-English-/releases/latest/download/After-School-Ghosts-English.zip)**.
+1. Click **[Download the game for Windows](https://github.com/BruTalc/After-School-Ghosts-English/releases/latest/download/After-School-Ghosts-English.zip)**.
    Your browser saves **`After-School-Ghosts-English.zip`** (about 230 MB) to your **Downloads** folder.
 2. If that link doesn't work, go to the **[Releases page](../../releases/latest)**, scroll down to
    **Assets**, and click **`After-School-Ghosts-English.zip`** there.
