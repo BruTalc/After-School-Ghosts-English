@@ -24,7 +24,10 @@ image is never modified). Close the emulator first — it keeps the image locked
 To play: double-click `Play After School Ghosts.cmd` in the top folder. It runs
 `launcher/launch.ps1`, which writes the full path of `win31_EN.hdi` into `np21w.ini`
 (the emulator has no command-line option for hard disks) and starts `np21w.exe`.
-`launch.ps1 -DryRun` only updates the ini. If `np21w.ini` is missing it is rebuilt from
+On the first run it also sets the window scale (`SCRN_MUL`, in eighths) to the
+largest that fits the screen and turns on `SVSCRMUL` so later changes stick; it
+re-centres the window if the saved position is off-screen. `-ResetWindow` redoes the
+sizing. `launch.ps1 -DryRun` only updates the ini. If `np21w.ini` is missing it is rebuilt from
 `launcher/np21w.default.ini`. To do it by hand instead: start `np21w.exe`, choose
 Harddisk → IDE #0 → Open… → **`win31_EN.hdi`**, leave IDE #1 empty, then Emulate →
 Reset. The game starts by itself; no DOS commands are needed and `YAHDI.nhd` is not used.

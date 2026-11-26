@@ -13,7 +13,10 @@ HOW TO PLAY
 
 The launcher points the emulator at the game's disk image wherever you put the
 folder, so it works from any location you can write to (Desktop, Documents, a USB
-stick...). Windows may ask "Do you want to run this file?" the first time; that's
+stick...). The first time, it also picks the biggest window size that fits your
+screen (3x on a 1440p/1600p laptop, 2x on a 1080p monitor). To change it,
+right-click the emulator's title bar and pick a size, e.g. "1280x800(x2)"; your
+choice is remembered. Screen -> Fullscreen is also available. Windows may ask "Do you want to run this file?" the first time; that's
 normal for a downloaded script.
 
 If you'd rather start the emulator yourself: run np21w-0.86-rev100\np21w.exe, then
